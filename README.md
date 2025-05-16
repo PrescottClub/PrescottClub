@@ -113,7 +113,7 @@ Here’s a snapshot of the technologies and methodologies I work with:
 
 ## 📫 Let's Connect!
 - **Email**: jger8276@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile URL Here - *Please update this*]
+
 
 Thank you for visiting my GitHub profile! Let’s build something amazing together! 🚀
 
