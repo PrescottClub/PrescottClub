@@ -1,14 +1,14 @@
 # 👋 Welcome to My GitHub!
 
-I'm Terence, a programmer with a deep passion for technology that began with my Java journey in 2017. I thrive on tackling complex challenges and crafting elegant, scalable solutions. My primary focus areas include robust Java enterprise systems, advanced data analytics, the exciting frontiers of machine learning—especially Reinforcement Learning and the rapidly evolving domain of AI Agents—and innovative AIoT systems leveraging cloud-edge synergy.
+Hi, I'm Terence, a results-oriented Software Engineer passionate about architecting robust Java enterprise systems and pioneering cutting-edge AI solutions. My journey in technology, which began with Java in 2017, has led me to specialize in tackling complex challenges by crafting elegant, scalable software. I thrive on leveraging advanced data analytics, the frontiers of machine learning—particularly Reinforcement Learning and the rapidly evolving domain of AI Agents—and innovative AIoT systems that harness cloud-edge synergy to deliver impactful results.
 
-This space serves as a portfolio of my academic explorations, personal projects, and ongoing development in these fields.
+This GitHub serves as a portfolio of my work, showcasing academic explorations, personal projects, and my continuous development in these dynamic fields.
 
 ---
 
 ## 🔧 Core Competencies & My Technical Toolkit
 
-Here's a snapshot of the technologies and methodologies I work with:
+Proficient in full-stack development with a primary focus on Java/Spring and Python-based AI/ML stacks, complemented by extensive experience in cloud (AWS), containerization, and various database technologies. Here's a snapshot of the technologies and methodologies I work with:
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
@@ -116,6 +116,7 @@ Here's a snapshot of the technologies and methodologies I work with:
 ## 📫 Let's Connect!
 - **Email**: jger8276@gmail.com
 
+I'm always open to discussing new projects, collaborations, or innovative ideas. Feel free to reach out!
 
 Thank you for visiting my GitHub profile! Let's build something amazing together! 🚀
 
