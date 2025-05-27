@@ -25,6 +25,13 @@ Here’s a snapshot of the technologies and methodologies I work with:
 <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/></a>
 <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sklearn/sklearn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40"/></a>
 </p>
 
 ### Programming Languages
@@ -68,40 +75,35 @@ Here’s a snapshot of the technologies and methodologies I work with:
 
 ## 🌟 Highlighted Projects
 
-### AIoT Smart Parking Management System
-- **Overview**: Led the end-to-end design and deployment of a distributed AIoT smart parking solution. Engineered ESP32-based edge nodes with high-precision IR sensors (>95% accuracy) for real-time occupancy detection and on-device preliminary processing. Implemented a robust, high-reliability data pipeline for seamless transmission to AWS cloud.
-- **Key Features**: Cloud-deployed ML models (SageMaker) for parking demand forecasting. Edge-deployed TinyML models on ESP32 for real-time vehicle validation and anomaly detection, optimizing system responsiveness and minimizing cloud dependency. Automated physical gate control via servo motors for a complete closed-loop operation.
-- **Tech Stack**: ESP32 (C/C++), AWS (IoT Core, S3, Lambda, SageMaker), Python (ML/Scikit-learn), TinyML, Pandas, NumPy, IR Sensors, MQTT, Real-time Data Pipelines.
-
-### IntelliMart – Enterprise E-commerce Platform
-- **Overview**: Architected and developed a scalable e-commerce platform leveraging a microservices architecture. Delivered core functionalities including product catalog management, secure order processing, user authentication, and real-time inventory control.
-- **Key Features**: Utilized Spring Cloud for service discovery (Eureka) and API gateway. Implemented asynchronous event-driven communication with Apache Kafka for order fulfillment and notifications. Leveraged Elasticsearch for advanced product search and faceted navigation. Ensured data consistency and performance with PostgreSQL/MySQL and Redis caching.
-- **Tech Stack**: Java, Spring Boot, Spring Cloud (Eureka, Gateway), Apache Kafka, Elasticsearch, PostgreSQL, MySQL, Redis, Docker.
+### AI Literature Review & Summarization Agent
+- **Overview**: An AI-powered agent that automates the discovery, analysis, and synthesis of academic literature, enhancing research efficiency and providing comprehensive insights. Features a Streamlit Web UI and an MCP (Model Context Protocol) Server for enhanced usability and interoperability.
+- **Key Features**: Intelligent multi-source literature retrieval (arXiv, Semantic Scholar) with semantic search, AI-driven analysis (multi-format summaries, trend/gap identification), comprehensive reporting (Markdown, HTML, LaTeX), flexible LLM integration (DeepSeek, OpenAI, Ollama), cost optimization, and robust error handling.
+- **Tech Stack**: Python, AI, LLMs (DeepSeek, OpenAI, Ollama), NLP, Semantic Search, Vector Databases, Streamlit, MCP, arXiv API, Semantic Scholar API.
 
 ### Adaptive RL Agent for Dynamic Resource Allocation
-- **Overview**: Designed and implemented a Deep Reinforcement Learning agent (DQN) to optimize resource allocation in complex, simulated dynamic environments. The agent learns adaptive policies to maximize operational efficiency under fluctuating demands and constraints.
-- **Key Features**: Developed using Python with PyTorch for neural network implementation and OpenAI Gym for environment simulation. Employed NumPy for efficient numerical computation and data handling during training and evaluation.
-- **Tech Stack**: Python, PyTorch, OpenAI Gym, NumPy, Pandas (for results analysis).
+- **Overview**: A Deep Reinforcement Learning (DRL) system using DQN and Double DQN algorithms to optimize real-time bandwidth allocation across multiple network services, showcasing practical application of RL in resource management.
+- **Key Features**: Custom OpenAI Gymnasium environment for dynamic network traffic, comparative study of DQN vs. Double DQN, manages diverse service types (Video, Gaming, Downloads, Web Browsing) with dynamic demand simulation, intelligent reward mechanism, experience replay, target networks, and GPU acceleration. Includes a comprehensive training, evaluation, and visualization pipeline.
+- **Tech Stack**: Python, Deep Reinforcement Learning (DRL), DQN, Double DQN, OpenAI Gymnasium, PyTorch, NumPy, Pandas, Network Resource Management.
 
-### AI Agent for Automated Literature Review & Summarization
-- **Overview**: Engineered an AI Agent to automate the retrieval, processing, and summarization of domain-specific research papers. This agent extracts key insights and identifies emerging trends from large volumes of textual data.
-- **Key Features**: Built with Python and LangChain, integrating Large Language Model (LLM) APIs for advanced natural language understanding and generation. Utilized Vector Databases (e.g., FAISS/Chroma) for efficient semantic search and Retrieval Augmented Generation (RAG) to improve summary relevance and accuracy.
-- **Tech Stack**: Python, LangChain, OpenAI API (or similar LLMs), PyTorch (embeddings), Vector Databases (FAISS/Chroma), Pandas, NLTK/spaCy.
+### Parking Management System
+- **Overview**: A full-stack web application providing a comprehensive solution for parking facility operations, including space and fee management, user accounts, and real-time updates.
+- **Key Features**: User management with RBAC, vehicle registration, real-time parking space status, flexible fee configuration, user balance and recharge system, detailed parking records, and data-driven statistical reporting with visualizations.
+- **Tech Stack**: Java 8, Spring Boot, MyBatis Plus, Sa-Token, MySQL, Vue.js, Element UI, Vue Router, Vuex, Axios, ECharts.
 
-### InsightRevu – Local Business Review Hub
-- **Overview**: Developed a web platform enabling users to discover, rate, and review local businesses. Focused on providing a responsive user interface and efficient data retrieval for an optimal user experience.
-- **Key Features**: Core application built with Java and Spring Boot, featuring RESTful APIs for client-server communication. Utilized PostgreSQL/MySQL for persistent storage of business and review data. Implemented Redis caching for frequently accessed data, such as top reviews and popular businesses, to enhance performance.
-- **Tech Stack**: Java, Spring Boot, Spring MVC, PostgreSQL, MySQL, Redis, RESTful APIs, Thymeleaf/React (Frontend).
+### Nursing Home Management System
+- **Overview**: A modern, comprehensive nursing home management system developed with Spring Boot and Vue3, covering all core operational business modules from marketing to fee management.
+- **Key Features**: Role-based access control (RBAC), responsive UI (Element Plus), real-time data synchronization, data visualization with rich charts, JWT-based security, performance optimization with Redis caching. Modules include marketing, admission, personnel, service, material, catering, and fees.
+- **Tech Stack**: Java, Spring Boot, Spring Security, JWT, MyBatis Plus, MySQL, Redis, Vue3, TypeScript, Element Plus, Vuex, Vue Router, Axios, ECharts, Tailwind CSS, Quartz, EasyExcel.
 
-### UrbanNest – Apartment Rental System
-- **Overview**: Created a comprehensive web system for managing apartment rentals, focusing on security and ease of use for both landlords and tenants.
-- **Key Features**: Developed using Java and Spring Boot, with Spring Security for robust authentication and authorization, protecting user data and administrative functionalities. Managed property listings, tenant applications, and lease agreements with a PostgreSQL/MySQL backend.
-- **Tech Stack**: Java, Spring Boot, Spring Security, Spring MVC, PostgreSQL, MySQL, RESTful APIs, JWT.
+### AI-Enhanced Housing Market Simulation System
+- **Overview**: An innovative housing market simulation system leveraging AI, designed for VSCode with one-click execution, automatic visualization, and data export. Demonstrates significant improvements over traditional Agent-Based Models (ABM).
+- **Key Features**: Deep Reinforcement Learning (DQN) for intelligent investment decisions, Random Forest for price trend prediction, multi-agent simulation for complex market dynamics, real-time analysis of 15+ key indicators. Features smart path management for VSCode, auto-generation of charts and reports.
+- **Tech Stack**: Python, AI, Deep Reinforcement Learning (DQN), Machine Learning (Random Forest), Agent-Based Modeling (ABM), Mesa, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, VSCode, Jupyter Notebooks.
 
-### SwiftServe – Food Delivery System
-- **Overview**: Built an agile platform for online food ordering and delivery, connecting customers, restaurants, and delivery personnel.
-- **Key Features**: Engineered with Java and Spring Boot, providing features like real-time order tracking, restaurant menu management, and secure user accounts. Leveraged PostgreSQL/MySQL for transactional data and Redis for session management and caching of dynamic data like delivery ETAs.
-- **Tech Stack**: Java, Spring Boot, Spring MVC, PostgreSQL, MySQL, Redis, WebSockets (for real-time updates).
+### Gulimall E-commerce Microservices Platform
+- **Overview**: A comprehensive, distributed e-commerce platform built with a microservices architecture using the Spring Cloud ecosystem, designed for high concurrency and modern development practices.
+- **Key Features**: Comprises multiple specialized microservices (Product, Order, Member, Cart, etc.). Utilizes Nacos for service discovery/configuration, Gateway for API routing, OpenFeign for REST clients, Sentinel for resilience, and Seata for distributed transactions.
+- **Tech Stack**: Java, Spring Boot, Spring Cloud, Spring Cloud Alibaba, Nacos, Spring Cloud Gateway, OpenFeign, Sentinel, Seata, MySQL, MyBatis-Plus, Redis, Elasticsearch, RabbitMQ, Docker.
 
 ---
 
