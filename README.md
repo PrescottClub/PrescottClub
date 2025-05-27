@@ -8,7 +8,7 @@ This space serves as a portfolio of my academic explorations, personal projects,
 
 ## 🔧 Core Competencies & My Technical Toolkit
 
-Here’s a snapshot of the technologies and methodologies I work with:
+Here's a snapshot of the technologies and methodologies I work with:
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
@@ -28,7 +28,7 @@ Here’s a snapshot of the technologies and methodologies I work with:
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sklearn/sklearn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40"/></a>
@@ -117,6 +117,6 @@ Here’s a snapshot of the technologies and methodologies I work with:
 - **Email**: jger8276@gmail.com
 
 
-Thank you for visiting my GitHub profile! Let’s build something amazing together! 🚀
+Thank you for visiting my GitHub profile! Let's build something amazing together! 🚀
 
 
