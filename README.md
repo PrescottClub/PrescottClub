@@ -54,129 +54,57 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
 ## 🌟 Highlighted Projects & Research
 
 ### 🤖 [Project] AuraWell: Multi-Agent Collaborative AI Health Management System
-- **Project Overview**: Exploring the application of multi-AI Agent collaboration in health management, designed and implemented a distributed health assistant system based on **13 professional AI Agents**, solving the limitations of traditional monolithic AI in complex health decision-making.
-- **Core Features**: 
-  - **Multi-Agent Collaboration Architecture**: Designed 13 specialized AI Agents (reasoning analysis, data processing, visualization, research acquisition, etc.), achieving task division and intelligent coordination
-  - **Deep Health Analysis**: Integrated DeepSeek-R1 model, supporting five-dimensional health assessment (nutrition/exercise/weight/sleep/psychology)
-  - **Real-time Interaction System**: WebSocket streaming dialogue + knowledge graph memory, supporting context-aware personalized recommendations
-  - **Family Health Management**: Three-tier permission system (Owner/Manager/Viewer), supporting multi-member health data collaborative management
-- **Technical Highlights**: 
-  - **Distributed AI Decision-making**: Implemented task decomposition, parallel processing, and result fusion among multiple Agents
-  - **Personal Health Profile**: Built user health records based on knowledge graphs, supporting historical data tracking
-  - **Hybrid Storage Architecture**: SQLite local storage + cloud AI inference, balancing privacy protection and computing power
-- **Technical Challenges**: Solved key technical issues including multi-Agent coordination consistency, health data modeling, real-time streaming inference, and complex permission control
+- **Core Innovation**: Distributed health assistant system with **13 specialized AI Agents** for task division and intelligent coordination, solving monolithic AI limitations in complex health decision-making.
+- **Key Features**: Five-dimensional health assessment (nutrition/exercise/weight/sleep/psychology), WebSocket streaming dialogue + knowledge graph memory, three-tier family health management with Owner/Manager/Viewer permissions.
+- **Technical Achievement**: Multi-Agent task decomposition with parallel processing, knowledge graph-based health profiles, and hybrid SQLite + cloud AI architecture balancing privacy and performance.
 - **Tech Stack**: `Python`, `Vue 3 + TypeScript`, `DeepSeek-R1`, `Multi-Agent System`, `FastAPI`, `WebSocket`, `JWT`, `SQLite`, `Alibaba Cloud DashScope`
 
 ### 🧠 [Project] DPO-Driver: Revolutionary Self-Learning AI Agent Framework
-- **Project Overview**: Pioneering **Environment Feedback Direct Preference Optimization (EF-DPO)**, a paradigm-shifting framework that teaches AI Agents to learn autonomously from success and failure without human annotation or reward models. This revolutionary approach creates a fully automated data flywheel for rapid AI agent evolution.
-- **Core Features**: 
-  - **Environment Feedback DPO (EF-DPO)**: World's first framework to align AI agents using pure environment signals, enabling agents to learn from trial and triumph 1000x faster than traditional methods
-  - **Zero-Human-Intervention Learning**: Completely automated preference collection system that operates independently, eliminating the need for human supervision
-  - **Enterprise-Grade MLOps**: Deep MLflow integration with comprehensive tracking of Git states, dependencies, system fingerprints, and artifact management
-  - **Test-Driven Excellence**: Comprehensive test coverage with extensive mocking for lightning-fast CI/CD pipelines
-- **Technical Highlights**: 
-  - **Bulletproof Modular Architecture**: Built on SOLID principles with surgical separation of concerns (BaseModel, SFTModule, DPOModule, InferenceModule)
-  - **Production-Ready Design**: Each component is independently testable, swappable, and extensible for enterprise deployment
-  - **Automated Learning Pipeline**: Self-improving system that continuously refines agent performance through environment feedback
-- **Technical Challenges**: Solved core issues including environment signal extraction, preference optimization without human labels, automated data flywheel creation, and production-scale deployment
+- **Core Innovation**: Pioneering **Environment Feedback Direct Preference Optimization (EF-DPO)** - world's first framework to align AI agents using pure environment signals without human annotation or reward models.
+- **Key Features**: Zero-human-intervention learning with automated preference collection, enterprise-grade MLOps with comprehensive experiment tracking, modular architecture built on SOLID principles (BaseModel, SFTModule, DPOModule, InferenceModule).
+- **Technical Achievement**: Fully automated data flywheel for rapid AI agent evolution, production-ready design with comprehensive test coverage and CI/CD integration.
 - **Tech Stack**: `Python`, `PyTorch`, `Qwen2-7B`, `Hugging Face Transformers`, `PEFT`, `MLflow`, `MiniWoB++`, `Poetry`, `Pytest`
 
 ### 🔬 [Project] EdgeRLHF: Democratizing AI Alignment Research
-- **Project Overview**: A production-ready **Reinforcement Learning from Human Feedback (RLHF)** pipeline specifically optimized for consumer-grade GPUs, making cutting-edge AI alignment research accessible beyond enterprise data centers. This comprehensive implementation demonstrates that advanced AI alignment is achievable on resource-constrained hardware.
-- **Core Features**: 
-  - **Complete RLHF Pipeline**: End-to-end implementation including Supervised Fine-Tuning (SFT), Reward Modeling, and PPO alignment stages
-  - **Memory Optimization**: Engineered for 8GB VRAM GPUs using QLoRA, gradient checkpointing, and advanced quantization techniques
-  - **Multi-Precision Support**: Systematic comparison and optimization of BF16, INT8, and INT4 reward models for different hardware configurations
-  - **Research-Grade Quality**: Reproducible experiments with comprehensive metrics, logging, and scientific rigor
-- **Technical Highlights**: 
-  - **Resource-Constrained Innovation**: Breakthrough optimization allowing enterprise-level RLHF on consumer hardware
-  - **Production-Ready Architecture**: Modular design with extensive error handling, monitoring, and deployment capabilities
-  - **Automated Repair System**: Self-healing utilities that automatically resolve common configuration and compatibility issues
-  - **Memory-Efficient Training**: Advanced techniques including gradient accumulation, mixed precision, and dynamic batch sizing
-- **Technical Challenges**: Solved critical issues including memory optimization for consumer GPUs, TRL compatibility, PPO configuration stability, and reproducible experiment design
+- **Core Innovation**: Production-ready **RLHF pipeline** optimized for consumer-grade GPUs, making enterprise-level AI alignment research accessible on resource-constrained hardware.
+- **Key Features**: Complete end-to-end RLHF implementation (SFT, Reward Modeling, PPO alignment), memory optimization for 8GB VRAM using QLoRA and gradient checkpointing, multi-precision support (BF16/INT8/INT4).
+- **Technical Achievement**: Breakthrough optimization enabling enterprise-level RLHF on consumer hardware with automated repair system and research-grade reproducibility.
 - **Tech Stack**: `Python`, `PyTorch`, `Hugging Face Transformers`, `TRL`, `PEFT`, `QLoRA`, `BF16/INT8/INT4`, `MLflow`, `Pytest`
 
 ### 🔬 [Research] Transformer-Enhanced Meta-Learning for Dynamic Resource Allocation
-- **Research Content**: Exploring the combination of Transformer architecture with MAML meta-learning algorithms for Few-Shot Reinforcement Learning research applied to dynamic resource allocation problems.
-- **Core Innovation**: 
-    - **Architecture Fusion**: Combining Transformer's attention mechanism with MAML's rapid adaptation capability to improve model learning efficiency in new environments
-    - **Few-Shot Learning**: Designing learning strategies for agents to quickly adapt to new environments with limited samples (3-5 samples)
-    - **Dynamic Resource Allocation**: Researching resource optimization allocation problems in complex dynamic environments, exploring the application potential of meta-learning in this field
-- **Technical Implementation**: 
-    - **Model Design**: Combining Transformer encoder and MAML gradient update mechanism to build agents with rapid adaptation capabilities
-    - **Experimental Validation**: Validating model generalization ability and adaptation speed on multiple different domain resource allocation tasks
-    - **Algorithm Optimization**: Improving algorithms for convergence stability and computational efficiency
+- **Core Innovation**: Combining Transformer attention mechanism with MAML meta-learning algorithms for Few-Shot Reinforcement Learning in dynamic resource allocation problems.
+- **Key Features**: Few-shot learning with rapid adaptation in new environments using 3-5 samples, Transformer encoder + MAML gradient update mechanism for enhanced learning efficiency.
+- **Technical Achievement**: Multi-domain experimental validation demonstrating improved generalization ability and adaptation speed with optimized convergence stability.
 - **Tech Stack**: `Python`, `PyTorch`, `Meta-Learning (MAML)`, `Deep Reinforcement Learning (DQN)`, `Transformer Architecture`
 
 ### 🧠 [Project] Intelligent Literature Research Automation Platform
-- **Project Overview**: Designed and implemented an intelligent literature research system based on Autonomous Agents, automating the entire literature research process through AI Agents to improve academic research efficiency.
-- **Core Features**: 
-  - **Multi-source Data Integration**: Integrating mainstream academic databases like arXiv, Semantic Scholar, PubMed, implementing unified search interfaces
-  - **Intelligent Semantic Analysis**: LLM-based deep semantic analysis, automatically identifying research trends, knowledge graph construction, and technology gap mining
-  - **Automated Report Generation**: Supporting Markdown/LaTeX/PDF multi-format research report output, generating professional analysis reports of 10-50 pages
-  - **Interactive Interface**: Streamlit-driven web interface supporting real-time queries and result visualization
-- **Technical Implementation**: 
-  - **Agent Decision Chain**: Designing multi-step decision processes including query optimization, result filtering, content analysis, and report generation
-  - **Semantic Retrieval**: Vector Database + semantic similarity calculation for precise literature matching
-  - **Content Understanding**: LLM-driven literature abstract extraction, key information identification, and trend analysis
-- **Technical Challenges**: Solved key technical issues including cross-data source semantic search consistency, large-scale text vectorization storage optimization, and Agent decision chain interpretability
+- **Core Innovation**: Autonomous Agent-based literature research system automating the entire academic research process from data collection to report generation.
+- **Key Features**: Multi-source data integration (arXiv, Semantic Scholar, PubMed), LLM-driven semantic analysis with research trend identification, automated report generation in Markdown/LaTeX/PDF formats.
+- **Technical Achievement**: Agent decision chain with query optimization and content analysis, Vector Database semantic retrieval, and Streamlit-driven interactive interface.
 - **Tech Stack**: `Python`, `Autonomous Agents`, `LLMs`, `Vector Databases`, `Semantic Search`, `Streamlit`
 
 ### 📈 [Project] Real Estate Market Intelligent Prediction System
-- **Project Overview**: Built a real estate market simulation prediction platform based on Agent-Based Modeling + Deep Reinforcement Learning, exploring the application of complex adaptive systems in financial market modeling.
-- **Core Features**: 
-  - **Multi-Agent Market Simulation**: Built a complex market ecosystem with 1000+ intelligent Agents, simulating various market participants like buyers, sellers, and intermediaries
-  - **Intelligent Prediction Models**: DQN reinforcement learning intelligent investors + Random Forest price prediction, achieving short-term and long-term market trend analysis
-  - **Real-time Data Processing**: Supporting real-time market data integration, dynamically updating market states, and automatically generating prediction reports
-  - **Strategy Backtesting**: Supporting parallel backtesting validation of multiple investment strategies, capable of processing large-scale historical transaction data
-- **Technical Implementation**: 
-  - **Complex System Modeling**: Mesa framework to build Agent-Based Model, simulating decision-making behaviors and interactions of market participants
-  - **Reinforcement Learning Decision-making**: DQN algorithm training intelligent investment Agents to learn optimal investment strategies
-  - **Hybrid Prediction Model**: Combining technical analysis, fundamental analysis, and Agent behavior patterns for multi-dimensional prediction
-- **Technical Challenges**: Solved core technical issues including performance optimization for large-scale Agent concurrent simulation, complex market dynamics modeling, and reinforcement learning convergence stability
+- **Core Innovation**: Agent-Based Modeling + Deep Reinforcement Learning platform with 1000+ intelligent Agents simulating complex market ecosystem and participant behaviors.
+- **Key Features**: DQN reinforcement learning investors + Random Forest price prediction, real-time market data processing with dynamic state updates, parallel strategy backtesting for large-scale historical data.
+- **Technical Achievement**: Mesa framework Agent-Based Model with complex system modeling, hybrid prediction combining technical/fundamental analysis and Agent behavior patterns.
 - **Tech Stack**: `Python`, `Deep Reinforcement Learning (DQN)`, `Agent-Based Modeling`, `Scikit-learn`, `Mesa`, `PyTorch`
 
 ### 🛒 [Project] Gulimall: Distributed E-commerce Platform
-- **Project Overview**: A B2C e-commerce platform based on microservices architecture, implementing distributed deployment of core business modules including product management, order processing, user services, and payment systems.
-- **Core Features**: 
-  - **Microservices Architecture**: Split into 15+ independent microservice modules including product service, order service, user service, inventory service, etc.
-  - **Distributed Transactions**: Seata-based distributed transaction solution ensuring cross-service data consistency
-  - **High-performance Search**: Elasticsearch-powered product search system supporting complex queries and intelligent recommendations
-  - **Flash Sale System**: Designed for high-concurrency flash sale scenarios, implementing atomic operations for inventory deduction and order creation
-- **Technical Implementation**: 
-  - **Service Governance**: Spring Cloud Alibaba microservices governance including service discovery, configuration management, and circuit breaker degradation
-  - **Caching Strategy**: Multi-level cache design (local cache + Redis) solving cache penetration and avalanche problems
-  - **Message Queue**: RabbitMQ asynchronous message processing for order status flow, inventory synchronization, and business decoupling
-- **Technical Challenges**: Solved technical issues including distributed transaction consistency, inter-service communication optimization, data consistency under high concurrency, and system monitoring and alerting
+- **Core Innovation**: B2C microservices e-commerce platform with 15+ independent services and distributed transaction management using Seata for cross-service data consistency.
+- **Key Features**: Elasticsearch-powered high-performance search with intelligent recommendations, high-concurrency flash sale system with atomic inventory operations, Spring Cloud Alibaba microservices governance.
+- **Technical Achievement**: Multi-level caching strategy (local cache + Redis) solving cache issues, RabbitMQ asynchronous processing for order flow and inventory synchronization.
 - **Tech Stack**: `Java`, `Spring Cloud Alibaba`, `Seata`, `Docker`, `MySQL`, `Redis`, `RabbitMQ`, `Elasticsearch`
 
 ### 🅿️ [Project] Intelligent Parking Management System
-- **Project Overview**: A digital management platform designed for commercial parking lots, implementing core functions like parking space monitoring, intelligent billing, and permission management to improve parking lot operational efficiency.
-- **Core Features**: 
-  - **Real-time Parking Space Monitoring**: Supporting real-time status monitoring of 1000+ parking spaces with visual display of space occupancy
-  - **Intelligent Billing System**: Diversified billing strategies supporting flexible pricing by time period, membership level, and vehicle type
-  - **Permission Management**: RBAC-based three-tier permission system supporting multi-role management including administrators, operators, and viewers
-  - **Data Statistics & Analysis**: Real-time reports and trend analysis supporting business metrics like revenue statistics and parking space utilization
-- **Technical Implementation**: 
-  - **Frontend-Backend Separation**: Vue.js frontend + Spring Boot backend, Element UI component library for management interface
-  - **Security Authentication**: Sa-Token lightweight permission framework implementing JWT token authentication and permission control
-  - **Data Visualization**: ECharts chart library for data reports supporting real-time data updates
-- **Technical Challenges**: Solved key technical issues including database performance optimization for high-frequency parking space status updates, complex billing rule engine design, and real-time data synchronization
+- **Core Innovation**: Digital parking management platform with real-time monitoring of 1000+ parking spaces and intelligent billing strategies for commercial parking lots.
+- **Key Features**: RBAC-based three-tier permission system (administrators/operators/viewers), diversified billing with flexible pricing by time/membership/vehicle type, ECharts-powered data visualization.
+- **Technical Achievement**: Vue.js + Spring Boot frontend-backend separation, Sa-Token JWT authentication, optimized database performance for high-frequency space status updates.
 - **Tech Stack**: `Java 8`, `Spring Boot`, `MyBatis Plus`, `Sa-Token`, `MySQL`, `Vue.js`, `Element UI`, `ECharts`
 
 ### 🏥 [Project] Nursing Home Comprehensive Management Platform
-- **Project Overview**: A comprehensive business process management platform designed for nursing institutions, covering core business modules including customer marketing, admission management, nursing services, and financial management.
-- **Core Features**: 
-  - **Full Process Management**: Supporting complete business processes including customer marketing, admission assessment, nursing plans, and fee settlement
-  - **Information Management**: Digital management of resident information archives, health records, and nursing logs
-  - **Permission Control**: RBAC-based fine-grained permission management supporting multi-role and multi-department collaboration
-  - **Data Statistics**: Real-time analysis of business data including occupancy rates, fee statistics, and nursing quality
-- **Technical Implementation**: 
-  - **Frontend-Backend Separation**: Vue3 + TypeScript frontend, Spring Boot microservices backend architecture
-  - **Security Framework**: Spring Security + JWT dual authentication ensuring data security
-  - **Performance Optimization**: Redis cache design improving data query efficiency and system response speed
-  - **Modern UI**: Element Plus component library building responsive management interface
-- **Technical Challenges**: Solved technical issues including complex business process modeling, efficient handling of large amounts of form data, fine-grained permission control, and system performance optimization
+- **Core Innovation**: Comprehensive business process management platform for nursing institutions covering customer marketing, admission management, nursing services, and financial management.
+- **Key Features**: Digital management of resident information archives and health records, RBAC-based fine-grained permission control for multi-role collaboration, real-time business data analysis.
+- **Technical Achievement**: Vue3 + TypeScript frontend with Spring Boot microservices backend, Spring Security + JWT dual authentication, Redis performance optimization.
 - **Tech Stack**: `Java`, `Spring Boot`, `Spring Security`, `JWT`, `MySQL`, `Redis`, `Vue3`, `TypeScript`, `Element Plus`
 
 ---
