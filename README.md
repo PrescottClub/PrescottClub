@@ -28,16 +28,18 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="50" height="50"/></a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="RabbitMQ" width="50" height="50"/></a>
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a>
 </p>
 
 ### 🧠 AI Algorithms & Models
 - **Meta-Learning & Reinforcement Learning**: Deep learning and practice of **MAML** algorithms, mastering core principles and applications of **Deep Reinforcement Learning (DQN, PPO, Policy Gradients)**, focusing on building **Few-Shot Learning** agents that achieve rapid adaptation in new environments.
-- **AI Agents & LLMs**: Proficient in using **MCP protocol**, **LangChain**, **DeepSeek-R1/OpenAI**, and **Vector Databases** to build intelligent agent systems, skilled in designing multi-Agent collaboration and task automation solutions.
-- **Machine Learning Engineering**: Proficient in mainstream frameworks like **PyTorch**, **Scikit-learn**, and **Pandas**, with complete machine learning project development experience from data processing to model deployment.
+- **AI Alignment & RLHF**: Pioneer in **Direct Preference Optimization (DPO)** and **Reinforcement Learning from Human Feedback (RLHF)**, developing automated alignment systems that eliminate human annotation requirements through **Environment Feedback DPO (EF-DPO)**.
+- **AI Agents & LLMs**: Proficient in using **MCP protocol**, **LangChain**, **DeepSeek-R1/OpenAI**, **Qwen2**, and **Vector Databases** to build intelligent agent systems, skilled in designing multi-Agent collaboration and task automation solutions.
+- **Machine Learning Engineering**: Proficient in mainstream frameworks like **PyTorch**, **Scikit-learn**, **Pandas**, **Hugging Face Transformers**, **TRL**, and **PEFT**, with complete machine learning project development experience from data processing to model deployment.
 
 ### 🛠️ AI Systems & Engineering
 - **AI Agent Architecture Design**: Familiar with distributed AI collaboration patterns under MCP protocol, mastering core technologies such as state management, decision engines, tool invocation chains, and Agent orchestration, successfully implementing multi-intelligent server collaborative work.
-- **MLOps & Containerized Deployment**: Proficient in using **Docker** and **Kubernetes** for containerized deployment of AI models, with complete experience from model development to production environment deployment.
+- **MLOps & Model Optimization**: Proficient in using **Docker**, **Kubernetes**, **MLflow** for containerized deployment and experiment tracking, with expertise in **model quantization (INT8/INT4)**, **memory optimization**, and **consumer GPU deployment**. Complete experience from model development to production environment deployment.
 - **Edge AI & AIoT**: Implementing **TinyML** model deployment on embedded devices like **ESP32**, exploring practical applications of edge computing combined with AI.
 - **Retrieval Augmentation & RAG**: Using **Elasticsearch** and **Vector Databases** to build semantic search and RAG systems, providing knowledge base support for AI applications.
 
@@ -64,6 +66,35 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
   - **Hybrid Storage Architecture**: SQLite local storage + cloud AI inference, balancing privacy protection and computing power
 - **Technical Challenges**: Solved key technical issues including multi-Agent coordination consistency, health data modeling, real-time streaming inference, and complex permission control
 - **Tech Stack**: `Python`, `Vue 3 + TypeScript`, `DeepSeek-R1`, `Multi-Agent System`, `FastAPI`, `WebSocket`, `JWT`, `SQLite`, `Alibaba Cloud DashScope`
+
+### 🧠 [Project] DPO-Driver: Revolutionary Self-Learning AI Agent Framework
+- **Project Overview**: Pioneering **Environment Feedback Direct Preference Optimization (EF-DPO)**, a paradigm-shifting framework that teaches AI Agents to learn autonomously from success and failure without human annotation or reward models. This revolutionary approach creates a fully automated data flywheel for rapid AI agent evolution.
+- **Core Features**: 
+  - **Environment Feedback DPO (EF-DPO)**: World's first framework to align AI agents using pure environment signals, enabling agents to learn from trial and triumph 1000x faster than traditional methods
+  - **Zero-Human-Intervention Learning**: Completely automated preference collection system that operates independently, eliminating the need for human supervision
+  - **Enterprise-Grade MLOps**: Deep MLflow integration with comprehensive tracking of Git states, dependencies, system fingerprints, and artifact management
+  - **Test-Driven Excellence**: Comprehensive test coverage with extensive mocking for lightning-fast CI/CD pipelines
+- **Technical Highlights**: 
+  - **Bulletproof Modular Architecture**: Built on SOLID principles with surgical separation of concerns (BaseModel, SFTModule, DPOModule, InferenceModule)
+  - **Production-Ready Design**: Each component is independently testable, swappable, and extensible for enterprise deployment
+  - **Automated Learning Pipeline**: Self-improving system that continuously refines agent performance through environment feedback
+- **Technical Challenges**: Solved core issues including environment signal extraction, preference optimization without human labels, automated data flywheel creation, and production-scale deployment
+- **Tech Stack**: `Python`, `PyTorch`, `Qwen2-7B`, `Hugging Face Transformers`, `PEFT`, `MLflow`, `MiniWoB++`, `Poetry`, `Pytest`
+
+### 🔬 [Project] EdgeRLHF: Democratizing AI Alignment Research
+- **Project Overview**: A production-ready **Reinforcement Learning from Human Feedback (RLHF)** pipeline specifically optimized for consumer-grade GPUs, making cutting-edge AI alignment research accessible beyond enterprise data centers. This comprehensive implementation demonstrates that advanced AI alignment is achievable on resource-constrained hardware.
+- **Core Features**: 
+  - **Complete RLHF Pipeline**: End-to-end implementation including Supervised Fine-Tuning (SFT), Reward Modeling, and PPO alignment stages
+  - **Memory Optimization**: Engineered for 8GB VRAM GPUs using QLoRA, gradient checkpointing, and advanced quantization techniques
+  - **Multi-Precision Support**: Systematic comparison and optimization of BF16, INT8, and INT4 reward models for different hardware configurations
+  - **Research-Grade Quality**: Reproducible experiments with comprehensive metrics, logging, and scientific rigor
+- **Technical Highlights**: 
+  - **Resource-Constrained Innovation**: Breakthrough optimization allowing enterprise-level RLHF on consumer hardware
+  - **Production-Ready Architecture**: Modular design with extensive error handling, monitoring, and deployment capabilities
+  - **Automated Repair System**: Self-healing utilities that automatically resolve common configuration and compatibility issues
+  - **Memory-Efficient Training**: Advanced techniques including gradient accumulation, mixed precision, and dynamic batch sizing
+- **Technical Challenges**: Solved critical issues including memory optimization for consumer GPUs, TRL compatibility, PPO configuration stability, and reproducible experiment design
+- **Tech Stack**: `Python`, `PyTorch`, `Hugging Face Transformers`, `TRL`, `PEFT`, `QLoRA`, `BF16/INT8/INT4`, `MLflow`, `Pytest`
 
 ### 🔬 [Research] Transformer-Enhanced Meta-Learning for Dynamic Resource Allocation
 - **Research Content**: Exploring the combination of Transformer architecture with MAML meta-learning algorithms for Few-Shot Reinforcement Learning research applied to dynamic resource allocation problems.
