@@ -43,7 +43,6 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
 ## 🚀 Core Technology Stack
 
 <p align="left">
-  <!-- AI & ML -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/></a>
@@ -51,10 +50,6 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/></a>
-</p>
-
-<p align="left">
-  <!-- Backend & Frontend -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
@@ -62,10 +57,6 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-</p>
-
-<p align="left">
-  <!-- Database & DevOps -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/></a>
@@ -84,14 +75,14 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#333', 'primaryBorderColor': '#ff6b6b', 'lineColor': '#333', 'secondaryColor': '#006100', 'tertiaryColor': '#fff'}}}%%
 graph TD
-    A[🎯 Technical Expertise] --> B[🤖 AI/ML & Deep Learning<br/>★★★★★ 95%]
-    A --> C[🏗️ Backend Architecture<br/>★★★★★ 92%]
-    A --> D[🔬 Research & Innovation<br/>★★★★★ 93%]
-    A --> E[🌐 Distributed Systems<br/>★★★★☆ 90%]
-    A --> F[☁️ Cloud & DevOps<br/>★★★★☆ 88%]
-    A --> G[🗄️ Database Systems<br/>★★★★☆ 85%]
-    A --> H[🔍 Search & Analytics<br/>★★★★☆ 82%]
-    A --> I[💻 Full-Stack Development<br/>★★★★☆ 78%]
+    A[🎯 Technical Expertise] --> B[🤖 AI/ML & Deep Learning<br/>★★★★★ 90%]
+    A --> C[🔬 Research & Innovation<br/>★★★★★ 88%]
+    A --> D[🏗️ Backend Architecture<br/>★★★★☆ 85%]
+    A --> E[🌐 Distributed Systems<br/>★★★★☆ 80%]
+    A --> F[🗄️ Database Systems<br/>★★★★☆ 78%]
+    A --> G[☁️ Cloud & DevOps<br/>★★★☆☆ 75%]
+    A --> H[🔍 Search & Analytics<br/>★★★☆☆ 72%]
+    A --> I[💻 Full-Stack Development<br/>★★★☆☆ 70%]
 
     B --> B1[PyTorch/TensorFlow<br/>Meta-Learning<br/>RLHF/DPO<br/>LLMs & Agents]
     C --> C1[Spring Boot/Cloud<br/>Microservices<br/>FastAPI<br/>System Design]
@@ -119,14 +110,14 @@ graph TD
 
 | 🎯 **Technical Domain** | 📊 **Proficiency** | 🔥 **Key Strengths** | 📈 **Recent Focus** |
 |:---|:---:|:---|:---|
-| 🤖 **AI/ML & Deep Learning** | ★★★★★ 95% | Meta-Learning, RLHF, LLM Agents | Environment Feedback DPO |
-| 🏗️ **Backend Architecture** | ★★★★★ 92% | Microservices, Spring Ecosystem | AI-Driven Architecture |
-| 🔬 **Research & Innovation** | ★★★★★ 93% | MAML, Few-Shot Learning | Multi-Agent Systems |
-| 🌐 **Distributed Systems** | ★★★★☆ 90% | Event-Driven, High Concurrency | Agent Collaboration |
-| ☁️ **Cloud & DevOps** | ★★★★☆ 88% | AWS, Container Orchestration | MLOps Pipeline |
-| 🗄️ **Database Systems** | ★★★★☆ 85% | RDBMS, NoSQL, Optimization | Vector Databases |
-| 🔍 **Search & Analytics** | ★★★★☆ 82% | Elasticsearch, Semantic Search | RAG Systems |
-| 💻 **Full-Stack Development** | ★★★★☆ 78% | Vue.js, React, API Design | AI-Enhanced UX |
+| 🤖 **AI/ML & Deep Learning** | ★★★★★ 90% | Meta-Learning, RLHF, LLM Agents | Environment Feedback DPO |
+| 🔬 **Research & Innovation** | ★★★★★ 88% | MAML, Few-Shot Learning | Multi-Agent Systems |
+| 🏗️ **Backend Architecture** | ★★★★☆ 85% | Microservices, Spring Ecosystem | AI-Driven Architecture |
+| 🌐 **Distributed Systems** | ★★★★☆ 80% | Event-Driven, High Concurrency | Agent Collaboration |
+| 🗄️ **Database Systems** | ★★★★☆ 78% | RDBMS, NoSQL, Optimization | Vector Databases |
+| ☁️ **Cloud & DevOps** | ★★★☆☆ 75% | AWS, Container Orchestration | MLOps Pipeline |
+| 🔍 **Search & Analytics** | ★★★☆☆ 72% | Elasticsearch, Semantic Search | RAG Systems |
+| 💻 **Full-Stack Development** | ★★★☆☆ 70% | Vue.js, React, API Design | AI-Enhanced UX |
 
 </div>
 
@@ -311,7 +302,7 @@ graph TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Terence%20-%20AI%20Developer%20%26%20Researcher&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Terence%20PrescottClub%20-%20AI%20Developer%20%26%20Researcher&descAlignY=51&descAlign=62"/>
 
 </div>
 
