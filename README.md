@@ -1,6 +1,32 @@
-# 👋 Hi, I'm Terence
+<div align="center">
 
-**AI Developer | Full Stack Engineer | Intelligent Systems Architect**
+# 👋 Hi, I'm Terence (PrescottClub)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Engineer;Intelligent+Systems+Architect;Meta-Learning+Researcher;AI+Agent+Specialist" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/PrescottClub?style=social)](https://github.com/PrescottClub)
+[![GitHub stars](https://img.shields.io/github/stars/PrescottClub?style=social)](https://github.com/PrescottClub)
+[![Profile views](https://komarev.com/ghpvc/?username=PrescottClub&color=brightgreen&style=flat-square)](https://github.com/PrescottClub)
+
+![AI](https://img.shields.io/badge/AI-Expert-ff6b6b?style=for-the-badge&logo=brain&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-Advanced-4ecdc4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Expert-45b7d1?style=for-the-badge&logo=spring&logoColor=white)
+![Research](https://img.shields.io/badge/Research-Active-96ceb4?style=for-the-badge&logo=academia&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 **7 Years** of Software Development | 🤖 **AI-First** Architecture | 🔬 **Research-Driven** Innovation
+### 📍 **Shanghai, China** | 😜 **"Attention is all you need"** | 💫 **"There is only one kind of heroism in life, that is to recognize the truth of life after love life."**
+
+</div>
 
 With 7 years of software development experience, I have been focusing on Java backend development since 2017, accumulating rich experience in distributed systems and microservices architecture. I have a strong passion for **AI Agents** and **Reinforcement Learning**, committed to combining the best practices of traditional software engineering with cutting-edge AI technology, focusing on building **reliable and scalable intelligent systems**.
 
@@ -8,35 +34,103 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
 
 **My Technical Philosophy**: Build AI systems with the rigorous attitude of an engineer, pursuing algorithmic advancement while paying more attention to the **stability, maintainability, and practicality** of systems. From theoretical research to product implementation, I am committed to transforming cutting-edge technology into reliable solutions that can solve real-world problems.
 
+<div align="center">
+
 ---
+
+</div>
 
 ## 🚀 Core Technology Stack
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" width="50" height="50"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50"/></a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
+  <!-- AI & ML -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/></a>
+</p>
+
+<p align="left">
+  <!-- Backend & Frontend -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+</p>
+
+<p align="left">
+  <!-- Database & DevOps -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/></a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="50" height="50"/></a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="RabbitMQ" width="50" height="50"/></a>
-  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" height="50"/></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
 </p>
 
 ### 🎯 Technical Expertise Radar
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AI%2FML%20%26%20Deep%20Learning%22%2C%22Backend%20Architecture%22%2C%22Cloud%20%26%20DevOps%22%2C%22Database%20Systems%22%2C%22Distributed%20Systems%22%2C%22Search%20%26%20Analytics%22%2C%22Full-Stack%20Development%22%2C%22Research%20%26%20Innovation%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Current%20Expertise%22%2C%22data%22%3A%5B95%2C92%2C88%2C85%2C90%2C82%2C78%2C93%5D%2C%22backgroundColor%22%3A%22rgba(0%2C%20123%2C%20255%2C%200.15)%22%2C%22borderColor%22%3A%22rgba(0%2C%20123%2C%20255%2C%201)%22%7D%2C%7B%22label%22%3A%22Industry%20Benchmark%22%2C%22data%22%3A%5B85%2C85%2C85%2C85%2C85%2C85%2C85%2C85%5D%2C%22backgroundColor%22%3A%22rgba(108%2C%20117%2C%20125%2C%200.05)%22%2C%22borderColor%22%3A%22rgba(108%2C%20117%2C%20125%2C%200.8)%22%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22maintainAspectRatio%22%3Afalse%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%2C%22stepSize%22%3A20%2C%22fontSize%22%3A11%2C%22fontColor%22%3A%22%23666%22%7D%2C%22pointLabels%22%3A%7B%22fontSize%22%3A12%2C%22fontStyle%22%3A%22bold%22%2C%22fontColor%22%3A%22%23333%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(0%2C%200%2C%200%2C%200.1)%22%7D%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontSize%22%3A12%2C%22usePointStyle%22%3Atrue%2C%22padding%22%3A20%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22%F0%9F%8E%AF%20Technical%20Expertise%20Radar%22%7D%7D%7D" alt="Technical Expertise Radar" width="600" height="400"/>
-</p>
 
-*This radar chart visualizes my technical expertise across key domains, comparing my current level with industry benchmarks. The chart highlights my strengths in AI/ML, Research & Innovation, and Backend Architecture.*
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#333', 'primaryBorderColor': '#ff6b6b', 'lineColor': '#333', 'secondaryColor': '#006100', 'tertiaryColor': '#fff'}}}%%
+graph TD
+    A[🎯 Technical Expertise] --> B[🤖 AI/ML & Deep Learning<br/>★★★★★ 95%]
+    A --> C[🏗️ Backend Architecture<br/>★★★★★ 92%]
+    A --> D[🔬 Research & Innovation<br/>★★★★★ 93%]
+    A --> E[🌐 Distributed Systems<br/>★★★★☆ 90%]
+    A --> F[☁️ Cloud & DevOps<br/>★★★★☆ 88%]
+    A --> G[🗄️ Database Systems<br/>★★★★☆ 85%]
+    A --> H[🔍 Search & Analytics<br/>★★★★☆ 82%]
+    A --> I[💻 Full-Stack Development<br/>★★★★☆ 78%]
+
+    B --> B1[PyTorch/TensorFlow<br/>Meta-Learning<br/>RLHF/DPO<br/>LLMs & Agents]
+    C --> C1[Spring Boot/Cloud<br/>Microservices<br/>FastAPI<br/>System Design]
+    D --> D1[MAML Algorithms<br/>Few-Shot Learning<br/>Academic Research<br/>Innovation]
+    E --> E1[Kafka/RabbitMQ<br/>Event-Driven<br/>High Concurrency<br/>Load Balancing]
+    F --> F1[AWS Services<br/>Docker/K8s<br/>CI/CD<br/>Infrastructure]
+    G --> G1[PostgreSQL/MySQL<br/>Redis<br/>MongoDB<br/>Query Optimization]
+    H --> H1[Elasticsearch<br/>Vector Databases<br/>Semantic Search<br/>RAG Systems]
+    I --> I1[Vue.js/React<br/>TypeScript<br/>Frontend/Backend<br/>API Design]
+
+    style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
+    style B fill:#4ecdc4,stroke:#333,stroke-width:2px
+    style C fill:#45b7d1,stroke:#333,stroke-width:2px
+    style D fill:#96ceb4,stroke:#333,stroke-width:2px
+    style E fill:#feca57,stroke:#333,stroke-width:2px
+    style F fill:#ff9ff3,stroke:#333,stroke-width:2px
+    style G fill:#54a0ff,stroke:#333,stroke-width:2px
+    style H fill:#5f27cd,stroke:#333,stroke-width:2px,color:#fff
+    style I fill:#00d2d3,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+<div align="center">
+
+| 🎯 **Technical Domain** | 📊 **Proficiency** | 🔥 **Key Strengths** | 📈 **Recent Focus** |
+|:---|:---:|:---|:---|
+| 🤖 **AI/ML & Deep Learning** | ★★★★★ 95% | Meta-Learning, RLHF, LLM Agents | Environment Feedback DPO |
+| 🏗️ **Backend Architecture** | ★★★★★ 92% | Microservices, Spring Ecosystem | AI-Driven Architecture |
+| 🔬 **Research & Innovation** | ★★★★★ 93% | MAML, Few-Shot Learning | Multi-Agent Systems |
+| 🌐 **Distributed Systems** | ★★★★☆ 90% | Event-Driven, High Concurrency | Agent Collaboration |
+| ☁️ **Cloud & DevOps** | ★★★★☆ 88% | AWS, Container Orchestration | MLOps Pipeline |
+| 🗄️ **Database Systems** | ★★★★☆ 85% | RDBMS, NoSQL, Optimization | Vector Databases |
+| 🔍 **Search & Analytics** | ★★★★☆ 82% | Elasticsearch, Semantic Search | RAG Systems |
+| 💻 **Full-Stack Development** | ★★★★☆ 78% | Vue.js, React, API Design | AI-Enhanced UX |
+
+</div>
+
+> 💡 **Expertise Evolution**: My technical focus has evolved from traditional backend development to AI-first architecture, combining 7 years of enterprise software experience with cutting-edge AI research. Current emphasis on **Multi-Agent Systems**, **Meta-Learning**, and **AI Alignment** represents the next frontier of intelligent software development.
 
 ### 🧠 AI Algorithms & Models
 - **Meta-Learning & Reinforcement Learning**: Deep learning and practice of **MAML** algorithms, mastering core principles and applications of **Deep Reinforcement Learning (DQN, PPO, Policy Gradients)**, focusing on building **Few-Shot Learning** agents that achieve rapid adaptation in new environments.
@@ -58,25 +152,73 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
 
 ---
 
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrescottClub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrescottClub&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrescottClub&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrescottClub&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrescottClub&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+### 📈 Repository Highlights
+
+<div align="center">
+
+| Repository | Language | Stars | Description |
+|:---|:---:|:---:|:---|
+| [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent) | Python | ⭐ 3 | Multi-Agent AI Health Management System |
+| [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) | HTML/Python | ⭐ 0 | Revolutionary Self-Learning AI Agent Framework |
+| [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-) | Jupyter | ⭐ 0 | Democratizing AI Alignment Research |
+| [AI-Literature-Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) | Python | ⭐ 2 | Intelligent Literature Research Automation |
+| [Transformer-Meta-Learning](https://github.com/PrescottClub/Research-on-Dynamic-Resource-Allocation-Based-on-Transformer-Enhanced-Meta-Learning) | Jupyter | ⭐ 1 | Meta-Learning for Dynamic Resource Allocation |
+
+</div>
+
+---
+
 ## 🌟 Highlighted Projects & Research
 
-### 🤖 [Project] AuraWell: Multi-Agent Collaborative AI Health Management System
-- **Core Innovation**: Distributed health assistant system with **13 specialized AI Agents** for task division and intelligent coordination, solving monolithic AI limitations in complex health decision-making.
-- **Key Features**: Five-dimensional health assessment (nutrition/exercise/weight/sleep/psychology), WebSocket streaming dialogue + knowledge graph memory, three-tier family health management with Owner/Manager/Viewer permissions.
-- **Technical Achievement**: Multi-Agent task decomposition with parallel processing, knowledge graph-based health profiles, and hybrid SQLite + cloud AI architecture balancing privacy and performance.
-- **Tech Stack**: `Python`, `Vue 3 + TypeScript`, `DeepSeek-R1`, `Multi-Agent System`, `FastAPI`, `WebSocket`, `JWT`, `SQLite`, `Alibaba Cloud DashScope`
+### 🤖 [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent): Multi-Agent AI Health Management System
+- **Repository**: ⭐ 3 stars | 🍴 1 fork | 📝 Python 67.0%, Vue 21.1%, JavaScript 8.3%
+- **Core Innovation**: 超个性化健康生活方式编排AI Agent - 深度整合用户健身目标、日常作息、饮食偏好及工作社交日程，提供智能化情境感知健康建议
+- **Key Features**: 搭载DeepSeek R1模型的深度智能引擎，集成13个专业化MCP服务器，支持薄荷健康、小米健康、苹果HealthKit数据同步，家庭多成员健康管理
+- **Technical Achievement**: Vue.js + TypeScript前端，FastAPI后端，SQLAlchemy ORM，SQLite数据库，WebSocket实时通信，完整的健康数据分析与可视化
+- **Tech Stack**: `Python`, `Vue 3 + TypeScript`, `DeepSeek R1`, `FastAPI`, `SQLAlchemy`, `SQLite`, `WebSocket`, `MCP Protocol`, `Alembic`
 
-### 🧠 [Project] DPO-Driver: Revolutionary Self-Learning AI Agent Framework
-- **Core Innovation**: Pioneering **Environment Feedback Direct Preference Optimization (EF-DPO)** - world's first framework to align AI agents using pure environment signals without human annotation or reward models.
-- **Key Features**: Zero-human-intervention learning with automated preference collection, enterprise-grade MLOps with comprehensive experiment tracking, modular architecture built on SOLID principles (BaseModel, SFTModule, DPOModule, InferenceModule).
-- **Technical Achievement**: Fully automated data flywheel for rapid AI agent evolution, production-ready design with comprehensive test coverage and CI/CD integration.
+### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent): Revolutionary Self-Learning AI Agent Framework
+- **Repository**: 🆕 Latest project | 📝 HTML 52.3%, Python 24.8%, JavaScript 20.3%
+- **Core Innovation**: **Environment Feedback Direct Preference Optimization (EF-DPO)** - 世界首个使用纯环境信号对齐AI智能体的框架，无需人工标注或奖励模型
+- **Key Features**: 零人工干预学习，自动化偏好收集，企业级MLOps实验跟踪，基于SOLID原则的模块化架构(BaseModel, SFTModule, DPOModule, InferenceModule)
+- **Technical Achievement**: 全自动数据飞轮实现AI智能体快速进化，生产就绪设计，全面测试覆盖和CI/CD集成，10%绝对性能提升
 - **Tech Stack**: `Python`, `PyTorch`, `Qwen2-7B`, `Hugging Face Transformers`, `PEFT`, `MLflow`, `MiniWoB++`, `Poetry`, `Pytest`
 
-### 🔬 [Project] EdgeRLHF: Democratizing AI Alignment Research
-- **Core Innovation**: Production-ready **RLHF pipeline** optimized for consumer-grade GPUs, making enterprise-level AI alignment research accessible on resource-constrained hardware.
-- **Key Features**: Complete end-to-end RLHF implementation (SFT, Reward Modeling, PPO alignment), memory optimization for 8GB VRAM using QLoRA and gradient checkpointing, multi-precision support (BF16/INT8/INT4).
-- **Technical Achievement**: Breakthrough optimization enabling enterprise-level RLHF on consumer hardware with automated repair system and research-grade reproducibility.
-- **Tech Stack**: `Python`, `PyTorch`, `Hugging Face Transformers`, `TRL`, `PEFT`, `QLoRA`, `BF16/INT8/INT4`, `MLflow`, `Pytest`
+### 🔬 [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-): Democratizing AI Alignment Research
+- **Repository**: 📊 Jupyter Notebook | 🎯 Consumer GPU Optimization Focus
+- **Core Innovation**: 针对消费级GPU优化的生产就绪**RLHF管道**，让企业级AI对齐研究在资源受限硬件上成为可能
+- **Key Features**: 端到端RLHF实现(SFT, Reward Modeling, PPO对齐)，8GB VRAM内存优化使用QLoRA和梯度检查点，多精度支持(BF16/INT8/INT4)
+- **Technical Achievement**: 突破性优化使消费级硬件能够进行企业级RLHF，自动修复系统和研究级可重现性
+- **Tech Stack**: `Python`, `PyTorch`, `Hugging Face Transformers`, `TRL`, `PEFT`, `QLoRA`, `BF16/INT8/INT4`, `MLflow`, `Jupyter`
 
 ### 🔬 [Research] Transformer-Enhanced Meta-Learning for Dynamic Resource Allocation
 - **Core Innovation**: Combining Transformer attention mechanism with MAML meta-learning algorithms for Few-Shot Reinforcement Learning in dynamic resource allocation problems.
@@ -116,11 +258,61 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
 
 ---
 
-## 📫 Let's Connect!
-- **Email**: `jger8276@gmail.com`
+## 📫 Let's Connect & Collaborate!
 
-I'm very happy to discuss cutting-edge AI technologies, new project collaboration opportunities, or any innovative ideas. Looking forward to connecting with you!
+<div align="center">
 
-*Thank you for visiting my GitHub profile! Let's build something amazing together!* 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing!;AI+%2B+Engineering+%3D+Innovation;Open+to+Collaboration;Research+%26+Development" alt="Connect Typing SVG" />
+
+</div>
+
+<div align="center">
+
+### 🌐 **Find Me Online**
+
+[![Email](https://img.shields.io/badge/Email-jger8276%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jger8276@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PrescottClub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrescottClub)
+[![Location](https://img.shields.io/badge/Location-Shanghai%2C%20China-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/PrescottClub)
+[![Followers](https://img.shields.io/github/followers/PrescottClub?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=blue)](https://github.com/PrescottClub?tab=followers)
+
+</div>
+
+<div align="center">
+
+### 💬 **What I'm Passionate About**
+
+🤖 **AI Agent Systems** | 🧠 **Meta-Learning** | 🔬 **Research Collaboration** | 🚀 **Innovation Projects**
+
+</div>
+
+<div align="center">
+
+### 🎯 **Currently Open To**
+
+- 🔬 **Research Collaborations** in AI/ML and Meta-Learning
+- 🚀 **Innovative Project Partnerships**
+- 💼 **Consulting Opportunities** in AI Architecture
+- 🎤 **Speaking Engagements** on AI and Software Engineering
+- 📝 **Technical Writing** and Knowledge Sharing
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Building AI systems with the rigorous attitude of an engineer"**
+
+*I'm very happy to discuss cutting-edge AI technologies, new project collaboration opportunities, or any innovative ideas. Looking forward to connecting with you!*
+
+**Thank you for visiting my GitHub profile! Let's build something amazing together!** 🚀
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Terence%20-%20AI%20Developer%20%26%20Researcher&descAlignY=51&descAlign=62"/>
+
+</div>
 
 
