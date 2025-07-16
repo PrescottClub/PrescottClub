@@ -121,7 +121,7 @@ graph TD
 
 </div>
 
-> 💡 **Expertise Evolution**: My technical focus has evolved from traditional backend development to AI-first architecture, combining 7 years of enterprise software experience with cutting-edge AI research. Current emphasis on **Multi-Agent Systems**, **Meta-Learning**, and **AI Alignment** represents the next frontier of intelligent software development.
+> 💡 **Learning Journey**: My technical focus has evolved from traditional backend development to AI-first architecture, combining solid engineering foundations with cutting-edge AI research. Current emphasis on **Multi-Agent Systems**, **Environment Feedback Learning**, and **AI Agent Collaboration** represents my exploration into the future of intelligent software development.
 
 ### 🧠 AI Algorithms & Models
 - **Meta-Learning & Reinforcement Learning**: Deep learning and practice of **MAML** algorithms, mastering core principles and applications of **Deep Reinforcement Learning (DQN, PPO, Policy Gradients)**, focusing on building **Few-Shot Learning** agents that achieve rapid adaptation in new environments.
