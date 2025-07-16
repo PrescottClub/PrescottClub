@@ -28,11 +28,11 @@
 
 </div>
 
-With 7 years of software development experience, I have been focusing on Java backend development since 2017, accumulating rich experience in distributed systems and microservices architecture. I have a strong passion for **AI Agents** and **Reinforcement Learning**, committed to combining the best practices of traditional software engineering with cutting-edge AI technology, focusing on building **reliable and scalable intelligent systems**.
+Starting my journey with **Java development in 2017**, I have evolved from traditional backend engineering to cutting-edge AI research and development. My foundation in **distributed systems** and **microservices architecture** provides a solid engineering perspective for my current passion in **AI Agents** and **Reinforcement Learning**. I am committed to bridging the gap between robust software engineering practices and innovative AI technology, focusing on building **reliable and scalable intelligent systems**.
 
-I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot Learning**, with particular attention to how AI systems can quickly adapt to new environments. I am also passionate about **AI Agent collaboration** and the design and implementation of **distributed intelligent systems**.
+My research interests span **Meta-Learning** and **Few-Shot Learning**, with particular emphasis on how AI systems can rapidly adapt to new environments with minimal data. I am deeply engaged in **AI Agent collaboration** patterns and the architectural design of **distributed intelligent systems** that can work together seamlessly.
 
-**My Technical Philosophy**: Build AI systems with the rigorous attitude of an engineer, pursuing algorithmic advancement while paying more attention to the **stability, maintainability, and practicality** of systems. From theoretical research to product implementation, I am committed to transforming cutting-edge technology into reliable solutions that can solve real-world problems.
+**Technical Philosophy**: I approach AI system development with the rigor of a seasoned engineer, balancing algorithmic innovation with practical concerns of **system stability, maintainability, and real-world applicability**. My goal is to transform cutting-edge research into production-ready solutions that solve meaningful problems.
 
 <div align="center">
 
