@@ -75,14 +75,14 @@ I conduct in-depth exploration in the fields of **Meta-Learning** and **Few-Shot
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#333', 'primaryBorderColor': '#ff6b6b', 'lineColor': '#333', 'secondaryColor': '#006100', 'tertiaryColor': '#fff'}}}%%
 graph TD
-    A[🎯 Technical Expertise] --> B[🤖 AI/ML & Deep Learning<br/>★★★★★ 90%]
-    A --> C[🔬 Research & Innovation<br/>★★★★★ 88%]
-    A --> D[🏗️ Backend Architecture<br/>★★★★☆ 85%]
-    A --> E[🌐 Distributed Systems<br/>★★★★☆ 80%]
-    A --> F[🗄️ Database Systems<br/>★★★★☆ 78%]
-    A --> G[☁️ Cloud & DevOps<br/>★★★☆☆ 75%]
-    A --> H[🔍 Search & Analytics<br/>★★★☆☆ 72%]
-    A --> I[💻 Full-Stack Development<br/>★★★☆☆ 70%]
+    A[🎯 Technical Expertise] --> B[🤖 AI/ML & Deep Learning<br/>★★★★☆ 85%]
+    A --> C[🏗️ Backend Architecture<br/>★★★★☆ 82%]
+    A --> D[🔬 Research & Innovation<br/>★★★★☆ 80%]
+    A --> E[🌐 Distributed Systems<br/>★★★☆☆ 75%]
+    A --> F[🗄️ Database Systems<br/>★★★☆☆ 72%]
+    A --> G[☁️ Cloud & DevOps<br/>★★★☆☆ 68%]
+    A --> H[🔍 Search & Analytics<br/>★★★☆☆ 65%]
+    A --> I[💻 Full-Stack Development<br/>★★★☆☆ 62%]
 
     B --> B1[PyTorch/TensorFlow<br/>Meta-Learning<br/>RLHF/DPO<br/>LLMs & Agents]
     C --> C1[Spring Boot/Cloud<br/>Microservices<br/>FastAPI<br/>System Design]
@@ -110,14 +110,14 @@ graph TD
 
 | 🎯 **Technical Domain** | 📊 **Proficiency** | 🔥 **Key Strengths** | 📈 **Recent Focus** |
 |:---|:---:|:---|:---|
-| 🤖 **AI/ML & Deep Learning** | ★★★★★ 90% | Meta-Learning, RLHF, LLM Agents | Environment Feedback DPO |
-| 🔬 **Research & Innovation** | ★★★★★ 88% | MAML, Few-Shot Learning | Multi-Agent Systems |
-| 🏗️ **Backend Architecture** | ★★★★☆ 85% | Microservices, Spring Ecosystem | AI-Driven Architecture |
-| 🌐 **Distributed Systems** | ★★★★☆ 80% | Event-Driven, High Concurrency | Agent Collaboration |
-| 🗄️ **Database Systems** | ★★★★☆ 78% | RDBMS, NoSQL, Optimization | Vector Databases |
-| ☁️ **Cloud & DevOps** | ★★★☆☆ 75% | AWS, Container Orchestration | MLOps Pipeline |
-| 🔍 **Search & Analytics** | ★★★☆☆ 72% | Elasticsearch, Semantic Search | RAG Systems |
-| 💻 **Full-Stack Development** | ★★★☆☆ 70% | Vue.js, React, API Design | AI-Enhanced UX |
+| 🤖 **AI/ML & Deep Learning** | ★★★★☆ 85% | Meta-Learning, RLHF, LLM Agents | Environment Feedback DPO |
+| 🏗️ **Backend Architecture** | ★★★★☆ 82% | Microservices, Spring Ecosystem | AI-Driven Architecture |
+| 🔬 **Research & Innovation** | ★★★★☆ 80% | MAML, Few-Shot Learning | Multi-Agent Systems |
+| 🌐 **Distributed Systems** | ★★★☆☆ 75% | Event-Driven, High Concurrency | Agent Collaboration |
+| 🗄️ **Database Systems** | ★★★☆☆ 72% | RDBMS, NoSQL, Optimization | Vector Databases |
+| ☁️ **Cloud & DevOps** | ★★★☆☆ 68% | AWS, Container Orchestration | MLOps Pipeline |
+| 🔍 **Search & Analytics** | ★★★☆☆ 65% | Elasticsearch, Semantic Search | RAG Systems |
+| 💻 **Full-Stack Development** | ★★★☆☆ 62% | Vue.js, React, API Design | AI-Enhanced UX |
 
 </div>
 
