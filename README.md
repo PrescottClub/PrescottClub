@@ -28,11 +28,11 @@
 
 </div>
 
-Starting my journey with **Java development in 2017**, I have evolved from traditional backend engineering to cutting-edge AI research and development. My foundation in **distributed systems** and **microservices architecture** provides a solid engineering perspective for my current passion in **AI Agents** and **Reinforcement Learning**. I am committed to bridging the gap between robust software engineering practices and innovative AI technology, focusing on building **reliable and scalable intelligent systems**.
+Starting my **Java development journey in 2017**, I've been exploring the intersection of traditional software engineering and modern AI technologies. With experience in **backend development** and **distributed systems**, I'm now focusing intensively on **AI Agent systems** and their practical applications.
 
-My research interests span **Meta-Learning** and **Few-Shot Learning**, with particular emphasis on how AI systems can rapidly adapt to new environments with minimal data. I am deeply engaged in **AI Agent collaboration** patterns and the architectural design of **distributed intelligent systems** that can work together seamlessly.
+Currently passionate about **Multi-Agent collaboration**, **Environment Feedback learning**, and **AI system architecture design**. I'm particularly interested in how agents can learn and adapt through environmental interactions, moving beyond traditional supervised learning approaches.
 
-**Technical Philosophy**: I approach AI system development with the rigor of a seasoned engineer, balancing algorithmic innovation with practical concerns of **system stability, maintainability, and real-world applicability**. My goal is to transform cutting-edge research into production-ready solutions that solve meaningful problems.
+**Current Focus**: Building practical AI Agent solutions that combine solid engineering principles with innovative AI research. I believe in learning by doing, and I'm constantly experimenting with new approaches in **Agent-based systems**, **Meta-Learning**, and **AI alignment** techniques.
 
 <div align="center">
 
@@ -75,14 +75,14 @@ My research interests span **Meta-Learning** and **Few-Shot Learning**, with par
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#333', 'primaryBorderColor': '#ff6b6b', 'lineColor': '#333', 'secondaryColor': '#006100', 'tertiaryColor': '#fff'}}}%%
 graph TD
-    A[🎯 Technical Expertise] --> B[🤖 AI/ML & Deep Learning<br/>★★★★☆ 85%]
-    A --> C[🏗️ Backend Architecture<br/>★★★★☆ 82%]
-    A --> D[🔬 Research & Innovation<br/>★★★★☆ 80%]
-    A --> E[🌐 Distributed Systems<br/>★★★☆☆ 75%]
-    A --> F[🗄️ Database Systems<br/>★★★☆☆ 72%]
-    A --> G[☁️ Cloud & DevOps<br/>★★★☆☆ 68%]
-    A --> H[🔍 Search & Analytics<br/>★★★☆☆ 65%]
-    A --> I[💻 Full-Stack Development<br/>★★★☆☆ 62%]
+    A[🎯 Technical Expertise] --> B[🤖 AI Agent Systems<br/>★★★★☆ 80%]
+    A --> C[🏗️ Backend Development<br/>★★★★☆ 78%]
+    A --> D[🔬 AI Research & Learning<br/>★★★☆☆ 75%]
+    A --> E[🌐 Distributed Systems<br/>★★★☆☆ 70%]
+    A --> F[🗄️ Database & Storage<br/>★★★☆☆ 68%]
+    A --> G[☁️ Cloud & DevOps<br/>★★★☆☆ 65%]
+    A --> H[🔍 Search & Analytics<br/>★★★☆☆ 62%]
+    A --> I[💻 Frontend Development<br/>★★☆☆☆ 58%]
 
     B --> B1[PyTorch/TensorFlow<br/>Meta-Learning<br/>RLHF/DPO<br/>LLMs & Agents]
     C --> C1[Spring Boot/Cloud<br/>Microservices<br/>FastAPI<br/>System Design]
@@ -110,14 +110,14 @@ graph TD
 
 | 🎯 **Technical Domain** | 📊 **Proficiency** | 🔥 **Key Strengths** | 📈 **Recent Focus** |
 |:---|:---:|:---|:---|
-| 🤖 **AI/ML & Deep Learning** | ★★★★☆ 85% | Meta-Learning, RLHF, LLM Agents | Environment Feedback DPO |
-| 🏗️ **Backend Architecture** | ★★★★☆ 82% | Microservices, Spring Ecosystem | AI-Driven Architecture |
-| 🔬 **Research & Innovation** | ★★★★☆ 80% | MAML, Few-Shot Learning | Multi-Agent Systems |
-| 🌐 **Distributed Systems** | ★★★☆☆ 75% | Event-Driven, High Concurrency | Agent Collaboration |
-| 🗄️ **Database Systems** | ★★★☆☆ 72% | RDBMS, NoSQL, Optimization | Vector Databases |
-| ☁️ **Cloud & DevOps** | ★★★☆☆ 68% | AWS, Container Orchestration | MLOps Pipeline |
-| 🔍 **Search & Analytics** | ★★★☆☆ 65% | Elasticsearch, Semantic Search | RAG Systems |
-| 💻 **Full-Stack Development** | ★★★☆☆ 62% | Vue.js, React, API Design | AI-Enhanced UX |
+| 🤖 **AI Agent Systems** | ★★★★☆ 80% | Multi-Agent Design, Environment Learning | Agent Collaboration Patterns |
+| 🏗️ **Backend Development** | ★★★★☆ 78% | Java/Spring, Microservices | Agent-Backend Integration |
+| 🔬 **AI Research & Learning** | ★★★☆☆ 75% | Meta-Learning, Few-Shot Learning | Environment Feedback DPO |
+| 🌐 **Distributed Systems** | ★★★☆☆ 70% | Event-Driven Architecture | Multi-Agent Communication |
+| 🗄️ **Database & Storage** | ★★★☆☆ 68% | RDBMS, NoSQL, Vector DBs | Agent Memory Systems |
+| ☁️ **Cloud & DevOps** | ★★★☆☆ 65% | AWS, Docker, K8s | Agent Deployment Pipeline |
+| 🔍 **Search & Analytics** | ★★★☆☆ 62% | Elasticsearch, RAG | Agent Knowledge Retrieval |
+| 💻 **Frontend Development** | ★★☆☆☆ 58% | Vue.js, React | Agent UI/UX Design |
 
 </div>
 
@@ -190,26 +190,20 @@ graph TD
 
 ## 🌟 Highlighted Projects & Research
 
-### 🤖 [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent): Multi-Agent AI Health Management System
-- **Repository**: ⭐ 3 stars | 🍴 1 fork | 📝 Python 67.0%, Vue 21.1%, JavaScript 8.3%
-- **Core Innovation**: 超个性化健康生活方式编排AI Agent - 深度整合用户健身目标、日常作息、饮食偏好及工作社交日程，提供智能化情境感知健康建议
-- **Key Features**: 搭载DeepSeek R1模型的深度智能引擎，集成13个专业化MCP服务器，支持薄荷健康、小米健康、苹果HealthKit数据同步，家庭多成员健康管理
-- **Technical Achievement**: Vue.js + TypeScript前端，FastAPI后端，SQLAlchemy ORM，SQLite数据库，WebSocket实时通信，完整的健康数据分析与可视化
-- **Tech Stack**: `Python`, `Vue 3 + TypeScript`, `DeepSeek R1`, `FastAPI`, `SQLAlchemy`, `SQLite`, `WebSocket`, `MCP Protocol`, `Alembic`
+### 🤖 [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent): Multi-Agent Health Management System
+- **⭐ 3 stars** | Multi-Agent健康管理系统，集成13个专业化MCP服务器
+- **Core**: DeepSeek R1驱动的智能健康建议，支持多平台数据同步
+- **Tech**: `Python`, `Vue 3`, `FastAPI`, `SQLite`, `WebSocket`, `MCP Protocol`
 
-### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent): Revolutionary Self-Learning AI Agent Framework
-- **Repository**: 🆕 Latest project | 📝 HTML 52.3%, Python 24.8%, JavaScript 20.3%
-- **Core Innovation**: **Environment Feedback Direct Preference Optimization (EF-DPO)** - 世界首个使用纯环境信号对齐AI智能体的框架，无需人工标注或奖励模型
-- **Key Features**: 零人工干预学习，自动化偏好收集，企业级MLOps实验跟踪，基于SOLID原则的模块化架构(BaseModel, SFTModule, DPOModule, InferenceModule)
-- **Technical Achievement**: 全自动数据飞轮实现AI智能体快速进化，生产就绪设计，全面测试覆盖和CI/CD集成，10%绝对性能提升
-- **Tech Stack**: `Python`, `PyTorch`, `Qwen2-7B`, `Hugging Face Transformers`, `PEFT`, `MLflow`, `MiniWoB++`, `Poetry`, `Pytest`
+### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent): Environment Feedback Learning Framework
+- **🆕 Latest** | 环境反馈直接偏好优化(EF-DPO)框架，零人工标注学习
+- **Core**: 纯环境信号训练AI Agent，自动化偏好收集和模型优化
+- **Tech**: `Python`, `PyTorch`, `Qwen2-7B`, `PEFT`, `MLflow`, `MiniWoB++`
 
-### 🔬 [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-): Democratizing AI Alignment Research
-- **Repository**: 📊 Jupyter Notebook | 🎯 Consumer GPU Optimization Focus
-- **Core Innovation**: 针对消费级GPU优化的生产就绪**RLHF管道**，让企业级AI对齐研究在资源受限硬件上成为可能
-- **Key Features**: 端到端RLHF实现(SFT, Reward Modeling, PPO对齐)，8GB VRAM内存优化使用QLoRA和梯度检查点，多精度支持(BF16/INT8/INT4)
-- **Technical Achievement**: 突破性优化使消费级硬件能够进行企业级RLHF，自动修复系统和研究级可重现性
-- **Tech Stack**: `Python`, `PyTorch`, `Hugging Face Transformers`, `TRL`, `PEFT`, `QLoRA`, `BF16/INT8/INT4`, `MLflow`, `Jupyter`
+### 🔬 [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-): Consumer GPU RLHF Pipeline
+- **📊 Research** | 消费级GPU优化的RLHF管道，8GB VRAM内存优化
+- **Core**: 端到端RLHF实现，QLoRA优化，多精度支持
+- **Tech**: `PyTorch`, `Transformers`, `TRL`, `PEFT`, `QLoRA`, `MLflow`
 
 ### 🔬 [Research] Transformer-Enhanced Meta-Learning for Dynamic Resource Allocation
 - **Core Innovation**: Combining Transformer attention mechanism with MAML meta-learning algorithms for Few-Shot Reinforcement Learning in dynamic resource allocation problems.
