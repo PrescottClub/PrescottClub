@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### 🚀 **7 Years** of Software Development | 🤖 **AI-First** Architecture | 🔬 **Research-Driven** Innovation
+### 🎓 **Learning Since 2017** | 🤖 **AI Agent Explorer** | 🔬 **Research Enthusiast**
 ### 📍 **Shanghai, China** | 😜 **"Attention is all you need"** | 💫 **"There is only one kind of heroism in life, that is to recognize the truth of life after love life."**
 
 </div>
@@ -75,14 +75,14 @@ Currently passionate about **Multi-Agent collaboration**, **Environment Feedback
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#333', 'primaryBorderColor': '#ff6b6b', 'lineColor': '#333', 'secondaryColor': '#006100', 'tertiaryColor': '#fff'}}}%%
 graph TD
-    A[🎯 Technical Expertise] --> B[🤖 AI Agent Systems<br/>★★★★☆ 80%]
-    A --> C[🏗️ Backend Development<br/>★★★★☆ 78%]
-    A --> D[🔬 AI Research & Learning<br/>★★★☆☆ 75%]
-    A --> E[🌐 Distributed Systems<br/>★★★☆☆ 70%]
-    A --> F[🗄️ Database & Storage<br/>★★★☆☆ 68%]
-    A --> G[☁️ Cloud & DevOps<br/>★★★☆☆ 65%]
-    A --> H[🔍 Search & Analytics<br/>★★★☆☆ 62%]
-    A --> I[💻 Frontend Development<br/>★★☆☆☆ 58%]
+    A[🎯 Learning Progress] --> B[🏗️ Backend Development<br/>★★★★☆ 78%]
+    A --> C[🤖 AI Agent Systems<br/>★★★☆☆ 75%]
+    A --> D[🔬 AI Research & Learning<br/>★★★☆☆ 70%]
+    A --> E[🌐 Distributed Systems<br/>★★★☆☆ 65%]
+    A --> F[🗄️ Database & Storage<br/>★★★☆☆ 62%]
+    A --> G[☁️ Cloud & DevOps<br/>★★☆☆☆ 58%]
+    A --> H[🔍 Search & Analytics<br/>★★☆☆☆ 55%]
+    A --> I[💻 Frontend Development<br/>★★☆☆☆ 52%]
 
     B --> B1[PyTorch/TensorFlow<br/>Meta-Learning<br/>RLHF/DPO<br/>LLMs & Agents]
     C --> C1[Spring Boot/Cloud<br/>Microservices<br/>FastAPI<br/>System Design]
@@ -108,20 +108,20 @@ graph TD
 
 <div align="center">
 
-| 🎯 **Technical Domain** | 📊 **Proficiency** | 🔥 **Key Strengths** | 📈 **Recent Focus** |
+| 🎯 **Technical Domain** | 📊 **Learning Progress** | 🔥 **Current Focus** | 📈 **Exploring** |
 |:---|:---:|:---|:---|
-| 🤖 **AI Agent Systems** | ★★★★☆ 80% | Multi-Agent Design, Environment Learning | Agent Collaboration Patterns |
-| 🏗️ **Backend Development** | ★★★★☆ 78% | Java/Spring, Microservices | Agent-Backend Integration |
-| 🔬 **AI Research & Learning** | ★★★☆☆ 75% | Meta-Learning, Few-Shot Learning | Environment Feedback DPO |
-| 🌐 **Distributed Systems** | ★★★☆☆ 70% | Event-Driven Architecture | Multi-Agent Communication |
-| 🗄️ **Database & Storage** | ★★★☆☆ 68% | RDBMS, NoSQL, Vector DBs | Agent Memory Systems |
-| ☁️ **Cloud & DevOps** | ★★★☆☆ 65% | AWS, Docker, K8s | Agent Deployment Pipeline |
-| 🔍 **Search & Analytics** | ★★★☆☆ 62% | Elasticsearch, RAG | Agent Knowledge Retrieval |
-| 💻 **Frontend Development** | ★★☆☆☆ 58% | Vue.js, React | Agent UI/UX Design |
+| 🤖 **AI Agent Systems** | ★★★☆☆ 75% | Multi-Agent Design, Environment Learning | Agent Collaboration Patterns |
+| 🏗️ **Backend Development** | ★★★★☆ 78% | Java/Spring (since 2017) | Agent-Backend Integration |
+| 🔬 **AI Research & Learning** | ★★★☆☆ 70% | Meta-Learning, Few-Shot Learning | Environment Feedback DPO |
+| 🌐 **Distributed Systems** | ★★★☆☆ 65% | Event-Driven Architecture | Multi-Agent Communication |
+| 🗄️ **Database & Storage** | ★★★☆☆ 62% | RDBMS, NoSQL, Vector DBs | Agent Memory Systems |
+| ☁️ **Cloud & DevOps** | ★★☆☆☆ 58% | AWS, Docker, K8s | Agent Deployment Pipeline |
+| 🔍 **Search & Analytics** | ★★☆☆☆ 55% | Elasticsearch, RAG | Agent Knowledge Retrieval |
+| 💻 **Frontend Development** | ★★☆☆☆ 52% | Vue.js, React | Agent UI/UX Design |
 
 </div>
 
-> 💡 **Learning Journey**: My technical focus has evolved from traditional backend development to AI-first architecture, combining solid engineering foundations with cutting-edge AI research. Current emphasis on **Multi-Agent Systems**, **Environment Feedback Learning**, and **AI Agent Collaboration** represents my exploration into the future of intelligent software development.
+> 💡 **Learning Journey**: Starting with Java in 2017, I've been gradually exploring the transition from traditional backend development to AI-focused systems. Currently learning and experimenting with **Multi-Agent Systems**, **Environment Feedback Learning**, and **AI Agent Collaboration** as I explore what might be the future of intelligent software development.
 
 ### 🧠 AI Algorithms & Models
 - **Meta-Learning & Reinforcement Learning**: Deep learning and practice of **MAML** algorithms, mastering core principles and applications of **Deep Reinforcement Learning (DQN, PPO, Policy Gradients)**, focusing on building **Few-Shot Learning** agents that achieve rapid adaptation in new environments.
