@@ -299,7 +299,7 @@ graph TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Terence%20PrescottClub%20-%20AI%20Developer%20%26%20Researcher&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Terence%20-%20AI%20Developer&descAlignY=51&descAlign=62"/>
 
 </div>
 
