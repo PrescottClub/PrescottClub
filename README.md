@@ -28,11 +28,11 @@
 
 </div>
 
-Starting my **Java development journey in 2017**, I've been exploring the intersection of traditional software engineering and modern AI technologies. With experience in **backend development** and **distributed systems**, I'm now focusing intensively on **AI Agent systems** and their practical applications.
+**Java since 2017** → **AI Agent specialist**. Building intelligent systems that learn, adapt, and collaborate. From traditional backend to cutting-edge AI research.
 
-Currently passionate about **Multi-Agent collaboration**, **Environment Feedback learning**, and **AI system architecture design**. I'm particularly interested in how agents can learn and adapt through environmental interactions, moving beyond traditional supervised learning approaches.
+**Current obsession**: **Environment Feedback DPO**, **Multi-Agent orchestration**, **Meta-Learning**. Creating AI that evolves through pure environmental signals—no human babysitting required.
 
-**Current Focus**: Building practical AI Agent solutions that combine solid engineering principles with innovative AI research. I believe in learning by doing, and I'm constantly experimenting with new approaches in **Agent-based systems**, **Meta-Learning**, and **AI alignment** techniques.
+**Philosophy**: Code with engineering rigor, innovate with research depth. Every commit pushes the boundary between reliable software and intelligent behavior.
 
 <div align="center">
 
@@ -191,22 +191,20 @@ graph TD
 ## 🌟 Highlighted Projects & Research
 
 ### 🤖 [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent) ⭐3
-**AI-Driven Personal Health Orchestration System** | `Python` `Vue3` `FastAPI` `DeepSeek-R1`
-- Multi-Agent architecture with 13 specialized MCP servers for health management
-- Real-time health consultation, family member management, data visualization
-- RAG-powered medical literature integration, WebSocket streaming dialogue
+**13-Agent Health Orchestration** | `DeepSeek-R1` `MCP` `Vue3` `FastAPI`
+Multi-Agent health management • RAG medical literature • Real-time consultation
 
-### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 🆕
-**Environment Feedback Direct Preference Optimization Framework** | `PyTorch` `Qwen2-7B` `MLflow`
-- World's first zero-human-annotation AI agent alignment using pure environment signals
-- Automated preference collection, SOLID architecture, enterprise-grade MLOps integration
-- 10% absolute performance gain on MiniWoB++ benchmark through EF-DPO
+### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 🔥
+**Environment Feedback DPO** | `PyTorch` `Qwen2-7B` `MLflow`
+Zero-human-annotation alignment • Pure environment signals • +10% MiniWoB++ performance
 
-### 🔬 [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-) 📊
-**Consumer GPU RLHF Pipeline** | `PyTorch` `Transformers` `TRL` `QLoRA`
-- End-to-end RLHF implementation optimized for 8GB VRAM consumer hardware
-- Memory-efficient training with QLoRA, gradient checkpointing, multi-precision support
-- Democratizing AI alignment research on resource-constrained hardware
+### 🔬 [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-) ⚡
+**8GB VRAM RLHF Pipeline** | `QLoRA` `TRL` `PyTorch`
+Consumer GPU optimization • Memory-efficient training • Democratized AI alignment
+
+### 📚 [AI-Literature-Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) ⭐2
+**Autonomous Research Agent** | `LLMs` `Vector DB` `Streamlit`
+Multi-source literature mining • Semantic analysis • Automated report generation
 
 ### 🔬 [Research] Transformer-Enhanced Meta-Learning for Dynamic Resource Allocation
 - **Core Innovation**: Combining Transformer attention mechanism with MAML meta-learning algorithms for Few-Shot Reinforcement Learning in dynamic resource allocation problems.
@@ -299,7 +297,13 @@ graph TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Terence%20-%20AI%20Developer&descAlignY=51&descAlign=62"/>
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🚀+Building+the+Future+of+AI;🤖+One+Agent+at+a+Time;💡+Innovation+Through+Code;🌟+Let's+Create+Something+Amazing!" alt="Footer Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140&section=footer&text=🤖%20AI%20×%20Engineering%20×%20Innovation%20🚀&fontSize=20&fontColor=fff&animation=twinkling"/>
 
 </div>
 
