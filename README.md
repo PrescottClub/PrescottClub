@@ -283,15 +283,11 @@ graph TD
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Building+Intelligent+Systems;🤖+Environment+Feedback+DPO;💡+Multi-Agent+Orchestration;🌟+Code+with+Purpose" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=🚀+Building+Intelligent+Systems;🤖+Environment+Feedback+DPO;💡+Multi-Agent+Orchestration;🌟+Code+with+Purpose" alt="Footer Typing SVG" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrescottClub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" height="150"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
 </div>
 
