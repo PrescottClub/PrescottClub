@@ -28,11 +28,11 @@
 
 </div>
 
-**Java since 2017** → **AI Agent specialist**. Building intelligent systems that learn, adapt, and collaborate. From traditional backend to cutting-edge AI research.
+**Java foundation (2017)** → **Python AI specialist**. Building intelligent agent systems with **PyTorch**, **FastAPI**, and **Vue3**. From Spring Boot microservices to multi-agent orchestration.
 
-**Current obsession**: **Environment Feedback DPO**, **Multi-Agent orchestration**, **Meta-Learning**. Creating AI that evolves through pure environmental signals—no human babysitting required.
+**Core stack**: `Python/PyTorch` for AI, `Java/Spring` for backend, `Vue/TypeScript` for frontend. Specialized in **Environment Feedback DPO**, **MCP protocol**, and **consumer GPU optimization**.
 
-**Philosophy**: Code with engineering rigor, innovate with research depth. Every commit pushes the boundary between reliable software and intelligent behavior.
+**Current focus**: AI agents that learn from pure environmental signals. No human annotations, just intelligent adaptation through interaction.
 
 <div align="center">
 
@@ -191,20 +191,28 @@ graph TD
 ## 🌟 Highlighted Projects & Research
 
 ### 🤖 [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent) ⭐3
-**13-Agent Health Orchestration** | `DeepSeek-R1` `MCP` `Vue3` `FastAPI`
-Multi-Agent health management • RAG medical literature • Real-time consultation
+`Python` `Vue3` `TypeScript` `FastAPI` `SQLAlchemy` `SQLite` `DeepSeek-R1` `MCP Protocol` `WebSocket`
+13-Agent health management system with RAG medical literature integration
 
 ### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 🔥
-**Environment Feedback DPO** | `PyTorch` `Qwen2-7B` `MLflow`
-Zero-human-annotation alignment • Pure environment signals • +10% MiniWoB++ performance
+`Python` `PyTorch` `Qwen2-7B` `PEFT` `MLflow` `MiniWoB++` `HTML/JavaScript`
+Environment Feedback DPO framework for zero-human-annotation AI alignment
 
 ### 🔬 [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-) ⚡
-**8GB VRAM RLHF Pipeline** | `QLoRA` `TRL` `PyTorch`
-Consumer GPU optimization • Memory-efficient training • Democratized AI alignment
+`Python` `PyTorch` `Transformers` `TRL` `PEFT` `QLoRA` `Jupyter` `MLflow`
+Consumer GPU RLHF pipeline optimized for 8GB VRAM hardware
 
 ### 📚 [AI-Literature-Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) ⭐2
-**Autonomous Research Agent** | `LLMs` `Vector DB` `Streamlit`
-Multi-source literature mining • Semantic analysis • Automated report generation
+`Python` `LangChain` `Vector Databases` `Streamlit` `arXiv API` `Semantic Scholar`
+Autonomous research agent for literature mining and report generation
+
+### 🏥 [Nursing-Home-Management](https://github.com/PrescottClub/Nursing-home-management-system)
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Redis` `Vue3` `TypeScript` `Element Plus`
+Comprehensive nursing institution management platform
+
+### 🅿️ [Parking-System](https://github.com/PrescottClub/Parking_System)
+`Java 8` `Spring Boot` `MyBatis Plus` `Sa-Token` `MySQL` `Vue.js` `Element UI` `ECharts`
+Intelligent parking management with real-time monitoring and billing
 
 ### 🔬 [Research] Transformer-Enhanced Meta-Learning for Dynamic Resource Allocation
 - **Core Innovation**: Combining Transformer attention mechanism with MAML meta-learning algorithms for Few-Shot Reinforcement Learning in dynamic resource allocation problems.
