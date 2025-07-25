@@ -191,64 +191,40 @@ graph TD
 ## 🌟 Highlighted Projects & Research
 
 ### 🤖 [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent) ⭐3
+13-智能体健康管理系统，集成RAG医学文献检索和实时健康咨询。
 `Python` `Vue3` `TypeScript` `FastAPI` `SQLAlchemy` `SQLite` `DeepSeek-R1` `MCP Protocol` `WebSocket`
-13-Agent health management system with RAG medical literature integration
 
 ### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 🔥
+环境反馈DPO框架，实现零人工标注的AI智能体对齐训练。
 `Python` `PyTorch` `Qwen2-7B` `PEFT` `MLflow` `MiniWoB++` `HTML/JavaScript`
-Environment Feedback DPO framework for zero-human-annotation AI alignment
 
 ### 🔬 [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-) ⚡
+针对8GB VRAM消费级GPU优化的端到端RLHF训练流程。
 `Python` `PyTorch` `Transformers` `TRL` `PEFT` `QLoRA` `Jupyter` `MLflow`
-Consumer GPU RLHF pipeline optimized for 8GB VRAM hardware
 
 ### 📚 [AI-Literature-Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) ⭐2
+自主研究智能体，自动化文献挖掘和学术报告生成。
 `Python` `LangChain` `Vector Databases` `Streamlit` `arXiv API` `Semantic Scholar`
-Autonomous research agent for literature mining and report generation
 
 ### 🏥 [Nursing-Home-Management](https://github.com/PrescottClub/Nursing-home-management-system)
+养老院综合管理平台，涵盖客户管理、护理服务和财务分析。
 `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Redis` `Vue3` `TypeScript` `Element Plus`
-Comprehensive nursing institution management platform
 
 ### 🅿️ [Parking-System](https://github.com/PrescottClub/Parking_System)
+智能停车管理系统，支持1000+车位实时监控和灵活计费策略。
 `Java 8` `Spring Boot` `MyBatis Plus` `Sa-Token` `MySQL` `Vue.js` `Element UI` `ECharts`
-Intelligent parking management with real-time monitoring and billing
 
-### 🔬 [Research] Transformer-Enhanced Meta-Learning for Dynamic Resource Allocation
-- **Core Innovation**: Combining Transformer attention mechanism with MAML meta-learning algorithms for Few-Shot Reinforcement Learning in dynamic resource allocation problems.
-- **Key Features**: Few-shot learning with rapid adaptation in new environments using 3-5 samples, Transformer encoder + MAML gradient update mechanism for enhanced learning efficiency.
-- **Technical Achievement**: Multi-domain experimental validation demonstrating improved generalization ability and adaptation speed with optimized convergence stability.
-- **Tech Stack**: `Python`, `PyTorch`, `Meta-Learning (MAML)`, `Deep Reinforcement Learning (DQN)`, `Transformer Architecture`
+### 🛒 [Gulimall-E-commerce](https://github.com/PrescottClub/Gulimall-E-commerce-Microservices-Platform)
+分布式电商平台，15+微服务架构，支持高并发秒杀和智能推荐。
+`Java` `Spring Cloud Alibaba` `Seata` `Docker` `MySQL` `Redis` `RabbitMQ` `Elasticsearch`
 
-### 🧠 [Project] Intelligent Literature Research Automation Platform
-- **Core Innovation**: Autonomous Agent-based literature research system automating the entire academic research process from data collection to report generation.
-- **Key Features**: Multi-source data integration (arXiv, Semantic Scholar, PubMed), LLM-driven semantic analysis with research trend identification, automated report generation in Markdown/LaTeX/PDF formats.
-- **Technical Achievement**: Agent decision chain with query optimization and content analysis, Vector Database semantic retrieval, and Streamlit-driven interactive interface.
-- **Tech Stack**: `Python`, `Autonomous Agents`, `LLMs`, `Vector Databases`, `Semantic Search`, `Streamlit`
+### 📈 [Real-Estate-Prediction](https://github.com/PrescottClub/AI-Enhanced-Housing-Market-Agent-Based-Model)
+房地产市场智能预测系统，1000+智能体模拟复杂市场生态。
+`Python` `Deep Reinforcement Learning (DQN)` `Agent-Based Modeling` `Scikit-learn` `Mesa` `PyTorch`
 
-### 📈 [Project] Real Estate Market Intelligent Prediction System
-- **Core Innovation**: Agent-Based Modeling + Deep Reinforcement Learning platform with 1000+ intelligent Agents simulating complex market ecosystem and participant behaviors.
-- **Key Features**: DQN reinforcement learning investors + Random Forest price prediction, real-time market data processing with dynamic state updates, parallel strategy backtesting for large-scale historical data.
-- **Technical Achievement**: Mesa framework Agent-Based Model with complex system modeling, hybrid prediction combining technical/fundamental analysis and Agent behavior patterns.
-- **Tech Stack**: `Python`, `Deep Reinforcement Learning (DQN)`, `Agent-Based Modeling`, `Scikit-learn`, `Mesa`, `PyTorch`
-
-### 🛒 [Project] Gulimall: Distributed E-commerce Platform
-- **Core Innovation**: B2C microservices e-commerce platform with 15+ independent services and distributed transaction management using Seata for cross-service data consistency.
-- **Key Features**: Elasticsearch-powered high-performance search with intelligent recommendations, high-concurrency flash sale system with atomic inventory operations, Spring Cloud Alibaba microservices governance.
-- **Technical Achievement**: Multi-level caching strategy (local cache + Redis) solving cache issues, RabbitMQ asynchronous processing for order flow and inventory synchronization.
-- **Tech Stack**: `Java`, `Spring Cloud Alibaba`, `Seata`, `Docker`, `MySQL`, `Redis`, `RabbitMQ`, `Elasticsearch`
-
-### 🅿️ [Project] Intelligent Parking Management System
-- **Core Innovation**: Digital parking management platform with real-time monitoring of 1000+ parking spaces and intelligent billing strategies for commercial parking lots.
-- **Key Features**: RBAC-based three-tier permission system (administrators/operators/viewers), diversified billing with flexible pricing by time/membership/vehicle type, ECharts-powered data visualization.
-- **Technical Achievement**: Vue.js + Spring Boot frontend-backend separation, Sa-Token JWT authentication, optimized database performance for high-frequency space status updates.
-- **Tech Stack**: `Java 8`, `Spring Boot`, `MyBatis Plus`, `Sa-Token`, `MySQL`, `Vue.js`, `Element UI`, `ECharts`
-
-### 🏥 [Project] Nursing Home Comprehensive Management Platform
-- **Core Innovation**: Comprehensive business process management platform for nursing institutions covering customer marketing, admission management, nursing services, and financial management.
-- **Key Features**: Digital management of resident information archives and health records, RBAC-based fine-grained permission control for multi-role collaboration, real-time business data analysis.
-- **Technical Achievement**: Vue3 + TypeScript frontend with Spring Boot microservices backend, Spring Security + JWT dual authentication, Redis performance optimization.
-- **Tech Stack**: `Java`, `Spring Boot`, `Spring Security`, `JWT`, `MySQL`, `Redis`, `Vue3`, `TypeScript`, `Element Plus`
+### 🔬 [Transformer-Meta-Learning](https://github.com/PrescottClub/Research-on-Dynamic-Resource-Allocation-Based-on-Transformer-Enhanced-Meta-Learning) ⭐1
+基于Transformer增强的元学习动态资源分配研究，Few-Shot强化学习。
+`Python` `PyTorch` `Meta-Learning (MAML)` `Deep Reinforcement Learning (DQN)` `Transformer Architecture`
 
 ---
 
