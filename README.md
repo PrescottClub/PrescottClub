@@ -28,11 +28,11 @@
 
 </div>
 
-**Java foundation (2017)** → **Python AI specialist**. Building intelligent agent systems with **PyTorch**, **FastAPI**, and **Vue3**. From Spring Boot microservices to multi-agent orchestration.
+**Java foundation (2017)** → **AI systems builder**. Exploring intelligent agent architectures with **PyTorch**, **FastAPI**, and **Vue3**. From traditional microservices to multi-agent collaboration.
 
-**Core stack**: `Python/PyTorch` for AI, `Java/Spring` for backend, `Vue/TypeScript` for frontend. Specialized in **Environment Feedback DPO**, **MCP protocol**, and **consumer GPU optimization**.
+**Tech journey**: `Python/PyTorch` for AI research, `Java/Spring` for robust backends, `Vue/TypeScript` for interactive frontends. Currently diving deep into **Environment Feedback DPO**, **MCP protocol**, and **consumer GPU optimization**.
 
-**Current focus**: AI agents that learn from pure environmental signals. No human annotations, just intelligent adaptation through interaction.
+**Learning focus**: Building AI agents that adapt through environmental interaction. Fascinated by systems that evolve without human supervision.
 
 <div align="center">
 
