@@ -105,24 +105,12 @@ const expertise = {
 
 <div align="center">
 
-### 🐍 Contribution Snake - Watch it Eat My Commits!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrescottClub/PrescottClub/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrescottClub/PrescottClub/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrescottClub/PrescottClub/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrescottClub&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=f7931e&line=ff6b9d&point=0ac18e&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
-
-</div>
-
-<div align="center">
-  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrescottClub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=f7931e&icon_color=ff6b9d&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrescottClub&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1b27&title_color=f7931e&text_color=ffffff"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrescottClub&theme=radical&hide_border=true&background=1a1b27&ring=f7931e&fire=ff6b9d&currStreakLabel=ff6b9d" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrescottClub&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=f7931e&line=ff6b9d&point=0ac18e&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=PrescottClub&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
