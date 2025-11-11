@@ -89,12 +89,12 @@ const expertise = {
 
 | 🎯 Domain | Progress | Focus |
 |:---|:---:|:---|
-| 🤖 **AI Agent Systems** | ![75%](https://progress-bar.dev/75?title=&width=200&color=FF6B9D) | Multi-Agent Collaboration |
-| 🏗️ **Backend Engineering** | ![78%](https://progress-bar.dev/78?title=&width=200&color=6DB33F) | Agent-Backend Integration |
-| 🔬 **AI Research** | ![70%](https://progress-bar.dev/70?title=&width=200&color=9D50BB) | Meta-Learning & DPO |
-| 🌐 **Distributed Systems** | ![65%](https://progress-bar.dev/65?title=&width=200&color=FF4438) | Multi-Agent Communication |
-| 🗄️ **Database & Storage** | ![62%](https://progress-bar.dev/62?title=&width=200&color=005571) | Agent Memory Systems |
-| ☁️ **Cloud & DevOps** | ![58%](https://progress-bar.dev/58?title=&width=200&color=232F3E) | Deployment Pipeline |
+| 🤖 **AI Agent Systems** | ![](https://geps.dev/progress/75?dangerColor=FF6B9D&warningColor=FF6B9D&successColor=FF6B9D) **75%** | Multi-Agent Collaboration |
+| 🏗️ **Backend Engineering** | ![](https://geps.dev/progress/78?dangerColor=6DB33F&warningColor=6DB33F&successColor=6DB33F) **78%** | Agent-Backend Integration |
+| 🔬 **AI Research** | ![](https://geps.dev/progress/70?dangerColor=9D50BB&warningColor=9D50BB&successColor=9D50BB) **70%** | Meta-Learning & DPO |
+| 🌐 **Distributed Systems** | ![](https://geps.dev/progress/65?dangerColor=FF4438&warningColor=FF4438&successColor=FF4438) **65%** | Multi-Agent Communication |
+| 🗄️ **Database & Storage** | ![](https://geps.dev/progress/62?dangerColor=005571&warningColor=005571&successColor=005571) **62%** | Agent Memory Systems |
+| ☁️ **Cloud & DevOps** | ![](https://geps.dev/progress/58?dangerColor=232F3E&warningColor=232F3E&successColor=232F3E) **58%** | Deployment Pipeline |
 
 </td></tr>
 </table>
