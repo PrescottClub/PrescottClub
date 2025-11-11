@@ -24,15 +24,17 @@
 <div align="center">
 
 ### 🎓 **Learning Since 2017** | 🤖 **AI Agent Explorer** | 🔬 **Research Enthusiast**
-### 📍 **Shanghai, China** | 😜 **"Attention is all you need"** | 💫 **"There is only one kind of heroism in life, that is to recognize the truth of life after love life."**
+### 📍 **Shanghai, China** | � **"Attention is all you need"**
 
 </div>
 
-**Java foundation (2017)** → **AI systems builder**. Exploring intelligent agent architectures with **PyTorch**, **FastAPI**, and **Vue3**. From traditional microservices to multi-agent collaboration.
+<div align="center">
 
-**Tech journey**: `Python/PyTorch` for AI research, `Java/Spring` for robust backends, `Vue/TypeScript` for interactive frontends. Currently diving deep into **Environment Feedback DPO**, **MCP protocol**, and **consumer GPU optimization**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=45B7D1&center=true&vCenter=true&width=800&lines=Building+AI+Agents+that+Learn+from+Environment+Feedback;PyTorch+%7C+FastAPI+%7C+Vue3+%7C+Spring+Cloud;From+Java+Backend+(2017)+to+AI+Systems+Builder;Exploring+Multi-Agent+Collaboration+%26+DPO" alt="Tech Journey" />
 
-**Learning focus**: Building AI agents that adapt through environmental interaction. Fascinated by systems that evolve without human supervision.
+</div>
+
+> 💫 **"There is only one kind of heroism in life: to love life after recognizing the truth of life."**
 
 <div align="center">
 
@@ -41,6 +43,11 @@
 </div>
 
 ## 🚀 Core Technology Stack
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+</div>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
@@ -57,6 +64,14 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+</p>
+
+<div align="center">
+
+### 🗄️ Databases & Infrastructure
+</div>
+
+<p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50"/></a>
@@ -68,82 +83,61 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
 </p>
 
-### 🎯 Technical Expertise Radar
-
 <div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#333', 'primaryBorderColor': '#ff6b6b', 'lineColor': '#333', 'secondaryColor': '#006100', 'tertiaryColor': '#fff'}}}%%
-graph TD
-    A[🎯 Learning Progress] --> B[🏗️ Backend Development<br/>★★★★☆ 78%]
-    A --> C[🤖 AI Agent Systems<br/>★★★☆☆ 75%]
-    A --> D[🔬 AI Research & Learning<br/>★★★☆☆ 70%]
-    A --> E[🌐 Distributed Systems<br/>★★★☆☆ 65%]
-    A --> F[🗄️ Database & Storage<br/>★★★☆☆ 62%]
-    A --> G[☁️ Cloud & DevOps<br/>★★☆☆☆ 58%]
-    A --> H[🔍 Search & Analytics<br/>★★☆☆☆ 55%]
-    A --> I[💻 Frontend Development<br/>★★☆☆☆ 52%]
-
-    B --> B1[PyTorch/TensorFlow<br/>Meta-Learning<br/>RLHF/DPO<br/>LLMs & Agents]
-    C --> C1[Spring Boot/Cloud<br/>Microservices<br/>FastAPI<br/>System Design]
-    D --> D1[MAML Algorithms<br/>Few-Shot Learning<br/>Academic Research<br/>Innovation]
-    E --> E1[Kafka/RabbitMQ<br/>Event-Driven<br/>High Concurrency<br/>Load Balancing]
-    F --> F1[AWS Services<br/>Docker/K8s<br/>CI/CD<br/>Infrastructure]
-    G --> G1[PostgreSQL/MySQL<br/>Redis<br/>MongoDB<br/>Query Optimization]
-    H --> H1[Elasticsearch<br/>Vector Databases<br/>Semantic Search<br/>RAG Systems]
-    I --> I1[Vue.js/React<br/>TypeScript<br/>Frontend/Backend<br/>API Design]
-
-    style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
-    style B fill:#4ecdc4,stroke:#333,stroke-width:2px
-    style C fill:#45b7d1,stroke:#333,stroke-width:2px
-    style D fill:#96ceb4,stroke:#333,stroke-width:2px
-    style E fill:#feca57,stroke:#333,stroke-width:2px
-    style F fill:#ff9ff3,stroke:#333,stroke-width:2px
-    style G fill:#54a0ff,stroke:#333,stroke-width:2px
-    style H fill:#5f27cd,stroke:#333,stroke-width:2px,color:#fff
-    style I fill:#00d2d3,stroke:#333,stroke-width:2px
-```
-
-</div>
-
-<div align="center">
-
-| 🎯 **Technical Domain** | 📊 **Learning Progress** | 🔥 **Current Focus** | 📈 **Exploring** |
-|:---|:---:|:---|:---|
-| 🤖 **AI Agent Systems** | ★★★☆☆ 75% | Multi-Agent Design, Environment Learning | Agent Collaboration Patterns |
-| 🏗️ **Backend Development** | ★★★★☆ 78% | Java/Spring (since 2017) | Agent-Backend Integration |
-| 🔬 **AI Research & Learning** | ★★★☆☆ 70% | Meta-Learning, Few-Shot Learning | Environment Feedback DPO |
-| 🌐 **Distributed Systems** | ★★★☆☆ 65% | Event-Driven Architecture | Multi-Agent Communication |
-| 🗄️ **Database & Storage** | ★★★☆☆ 62% | RDBMS, NoSQL, Vector DBs | Agent Memory Systems |
-| ☁️ **Cloud & DevOps** | ★★☆☆☆ 58% | AWS, Docker, K8s | Agent Deployment Pipeline |
-| 🔍 **Search & Analytics** | ★★☆☆☆ 55% | Elasticsearch, RAG | Agent Knowledge Retrieval |
-| 💻 **Frontend Development** | ★★☆☆☆ 52% | Vue.js, React | Agent UI/UX Design |
-
-</div>
-
-> 💡 **Learning Journey**: Starting with Java in 2017, I've been gradually exploring the transition from traditional backend development to AI-focused systems. Currently learning and experimenting with **Multi-Agent Systems**, **Environment Feedback Learning**, and **AI Agent Collaboration** as I explore what might be the future of intelligent software development.
-
-### 🧠 AI Algorithms & Models
-- **Meta-Learning & Reinforcement Learning**: Deep learning and practice of **MAML** algorithms, mastering core principles and applications of **Deep Reinforcement Learning (DQN, PPO, Policy Gradients)**, focusing on building **Few-Shot Learning** agents that achieve rapid adaptation in new environments.
-- **AI Alignment & RLHF**: Pioneer in **Direct Preference Optimization (DPO)** and **Reinforcement Learning from Human Feedback (RLHF)**, developing automated alignment systems that eliminate human annotation requirements through **Environment Feedback DPO (EF-DPO)**.
-- **AI Agents & LLMs**: Proficient in using **MCP protocol**, **LangChain**, **DeepSeek-R1/OpenAI**, **Qwen2**, and **Vector Databases** to build intelligent agent systems, skilled in designing multi-Agent collaboration and task automation solutions.
-- **Machine Learning Engineering**: Proficient in mainstream frameworks like **PyTorch**, **Scikit-learn**, **Pandas**, **Hugging Face Transformers**, **TRL**, and **PEFT**, with complete machine learning project development experience from data processing to model deployment.
-
-### 🛠️ AI Systems & Engineering
-- **AI Agent Architecture Design**: Familiar with distributed AI collaboration patterns under MCP protocol, mastering core technologies such as state management, decision engines, tool invocation chains, and Agent orchestration, successfully implementing multi-intelligent server collaborative work.
-- **MLOps & Model Optimization**: Proficient in using **Docker**, **Kubernetes**, **MLflow** for containerized deployment and experiment tracking, with expertise in **model quantization (INT8/INT4)**, **memory optimization**, and **consumer GPU deployment**. Complete experience from model development to production environment deployment.
-- **Edge AI & AIoT**: Implementing **TinyML** model deployment on embedded devices like **ESP32**, exploring practical applications of edge computing combined with AI.
-- **Retrieval Augmentation & RAG**: Using **Elasticsearch** and **Vector Databases** to build semantic search and RAG systems, providing knowledge base support for AI applications.
-
-### ⚙️ Large-Scale Backend Architecture
-- **Core Technology Stack**: Deep mastery of **Java ecosystem** (**Spring Boot/Cloud/Security**)，proficient in **Python** (**FastAPI/AsyncIO**), with microservices architecture design and development experience.
-- **Distributed Systems**: Familiar with middleware like **Kafka**, **RabbitMQ**, **Redis**, with practical experience in building event-driven architectures and handling high concurrency scenarios.
-- **Database Technology**: Solid mastery of relational databases like **PostgreSQL** and **MySQL**, with practical experience in database design, index optimization, and SQL tuning.
-- **Cloud Services & DevOps**: Familiar with **AWS** cloud services (**S3**, **Lambda**, **SageMaker**), with practical experience in cloud-native application development and automated deployment.
 
 ---
 
+### ⚡ Quick Skills Overview
+
+</div>
+
+<div align="center">
+
+![AI Agent](https://img.shields.io/badge/🤖_AI_Agent-Multi--Agent_Collaboration-ff6b6b?style=flat-square)
+![Meta Learning](https://img.shields.io/badge/🧠_Meta--Learning-MAML_|_Few--Shot-4ecdc4?style=flat-square)
+![RLHF](https://img.shields.io/badge/🎯_AI_Alignment-RLHF_|_DPO-45b7d1?style=flat-square)
+![LLMs](https://img.shields.io/badge/💬_LLMs-DeepSeek_|_Qwen2-96ceb4?style=flat-square)
+![PyTorch](https://img.shields.io/badge/🔥_Deep_Learning-PyTorch_|_TensorFlow-feca57?style=flat-square)
+![Backend](https://img.shields.io/badge/⚙️_Backend-Spring_|_FastAPI-ff9ff3?style=flat-square)
+![Distributed](https://img.shields.io/badge/🌐_Distributed-Kafka_|_Redis-54a0ff?style=flat-square)
+![Cloud](https://img.shields.io/badge/☁️_Cloud-AWS_|_Docker_|_K8s-5f27cd?style=flat-square)
+![Frontend](https://img.shields.io/badge/💻_Frontend-Vue3_|_React_|_TypeScript-00d2d3?style=flat-square)
+![RAG](https://img.shields.io/badge/🔍_RAG-Elasticsearch_|_Vector_DB-48dbfb?style=flat-square)
+
+</div>
+
+<div align="center">
+
+| 🎯 **Technical Domain** | 📊 **Progress** | 🔥 **Current Focus** |
+|:---|:---:|:---|
+| 🤖 **AI Agent Systems** | ████████░░ 75% | Multi-Agent Design, Environment Learning |
+| 🏗️ **Backend Engineering** | █████████░ 78% | Agent-Backend Integration |
+| 🔬 **AI Research** | ███████░░░ 70% | Meta-Learning, Environment Feedback DPO |
+| 🌐 **Distributed Systems** | ███████░░░ 65% | Multi-Agent Communication |
+| 🗄️ **Database & Storage** | ██████░░░░ 62% | Agent Memory Systems |
+| ☁️ **Cloud & DevOps** | ██████░░░░ 58% | Agent Deployment Pipeline |
+
+</div>
+
+<div align="center">
+
+---
+
+</div>
+
 ## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+### 📈 Contribution Snake - Eating My Commits! 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrescottClub/PrescottClub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrescottClub/PrescottClub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrescottClub/PrescottClub/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <div align="center">
 
@@ -155,6 +149,14 @@ graph TD
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrescottClub&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+### 🏔️ 3D Contribution Profile
+
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=PrescottClub&theme=tokyonight" />
 
 </div>
 
@@ -172,59 +174,116 @@ graph TD
 
 </div>
 
-### 📈 Repository Highlights
-
-<div align="center">
-
-| Repository | Language | Stars | Description |
-|:---|:---:|:---:|:---|
-| [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent) | Python | ⭐ 3 | Multi-Agent AI Health Management System |
-| [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) | HTML/Python | ⭐ 0 | Revolutionary Self-Learning AI Agent Framework |
-| [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-) | Jupyter | ⭐ 0 | Democratizing AI Alignment Research |
-| [AI-Literature-Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) | Python | ⭐ 2 | Intelligent Literature Research Automation |
-| [Transformer-Meta-Learning](https://github.com/PrescottClub/Research-on-Dynamic-Resource-Allocation-Based-on-Transformer-Enhanced-Meta-Learning) | Jupyter | ⭐ 1 | Meta-Learning for Dynamic Resource Allocation |
-
-</div>
-
 ---
 
 ## 🌟 Highlighted Projects & Research
 
-### 🤖 [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent) ⭐3
-13-智能体健康管理系统，集成RAG医学文献检索和实时健康咨询。
-`Python` `Vue3` `TypeScript` `FastAPI` `SQLAlchemy` `SQLite` `DeepSeek-R1` `MCP Protocol` `WebSocket`
+<div align="center">
 
-### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 🔥
-环境反馈DPO框架，实现零人工标注的AI智能体对齐训练。
-`Python` `PyTorch` `Qwen2-7B` `PEFT` `MLflow` `MiniWoB++` `HTML/JavaScript`
+<a href="https://github.com/PrescottClub/AuraWell_Agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrescottClub&repo=AuraWell_Agent&theme=tokyonight" />
+</a>
+<a href="https://github.com/PrescottClub/Browser-DPO-Agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrescottClub&repo=Browser-DPO-Agent&theme=tokyonight" />
+</a>
 
-### 🔬 [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-) ⚡
-针对8GB VRAM消费级GPU优化的端到端RLHF训练流程。
-`Python` `PyTorch` `Transformers` `TRL` `PEFT` `QLoRA` `Jupyter` `MLflow`
+<a href="https://github.com/PrescottClub/Tiny-HPC-RLHF-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrescottClub&repo=Tiny-HPC-RLHF-&theme=tokyonight" />
+</a>
+<a href="https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrescottClub&repo=AI-Agent-for-Automated-Literature-Review-Summarization&theme=tokyonight" />
+</a>
 
-### 📚 [AI-Literature-Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) ⭐2
-自主研究智能体，自动化文献挖掘和学术报告生成。
-`Python` `LangChain` `Vector Databases` `Streamlit` `arXiv API` `Semantic Scholar`
+</div>
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🤖 [AuraWell_Agent](https://github.com/PrescottClub/AuraWell_Agent) ⭐5
+> 13-Agent Health Management System with RAG medical literature retrieval
+
+`Python` `Vue3` `FastAPI` `DeepSeek-R1` `MCP` `WebSocket`
+
+</td>
+<td width="50%">
+
+#### 🧠 [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) ⭐2 🔥
+> Environment Feedback DPO framework with zero human annotation
+
+`Python` `PyTorch` `Qwen2-7B` `PEFT` `MLflow` `MiniWoB++`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🚗 [AIoT-Parking-Forecaster](https://github.com/PrescottClub/AIoT-Parking-Forecaster) ⭐1 🆕
+> GAT + Transformer spatiotemporal parking occupancy prediction
+
+`Python` `Graph Attention Network` `Transformer` `Urban IoT`
+
+</td>
+<td width="50%">
+
+#### 📚 [AI-Literature-Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) ⭐3
+> Autonomous research agent for literature mining and report generation
+
+`Python` `LangChain` `Vector DB` `Streamlit` `arXiv API`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+#### ⚡ [Tiny-HPC-RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-) 
+> End-to-end RLHF training optimized for 8GB consumer GPUs
+
+`PyTorch` `Transformers` `TRL` `QLoRA` `MLflow`
+
+</td>
+<td width="50%">
+
+#### 🎯 [OfferPilot](https://github.com/PrescottClub/OfferPilot) 🆕
+> Intelligent job offer analysis and interview preparation agent
+
+`Python` `AI Agent` `Career Planning`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📦 <b>More Projects</b> (Click to Expand)</summary>
+
+<br>
 
 ### 🏥 [Nursing-Home-Management](https://github.com/PrescottClub/Nursing-home-management-system)
-养老院综合管理平台，涵盖客户管理、护理服务和财务分析。
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Redis` `Vue3` `TypeScript` `Element Plus`
+> Comprehensive nursing home management platform
+> 
+> `Java` `Spring Boot` `MySQL` `Redis` `Vue3` `Element Plus`
 
 ### 🅿️ [Parking-System](https://github.com/PrescottClub/Parking_System)
-智能停车管理系统，支持1000+车位实时监控和灵活计费策略。
-`Java 8` `Spring Boot` `MyBatis Plus` `Sa-Token` `MySQL` `Vue.js` `Element UI` `ECharts`
+> Smart parking management system for 1000+ spaces
+> 
+> `Java 8` `Spring Boot` `MyBatis Plus` `MySQL` `Vue.js`
 
 ### 🛒 [Gulimall-E-commerce](https://github.com/PrescottClub/Gulimall-E-commerce-Microservices-Platform)
-分布式电商平台，15+微服务架构，支持高并发秒杀和智能推荐。
-`Java` `Spring Cloud Alibaba` `Seata` `Docker` `MySQL` `Redis` `RabbitMQ` `Elasticsearch`
+> Distributed e-commerce platform with 15+ microservices
+> 
+> `Spring Cloud Alibaba` `Seata` `Docker` `RabbitMQ` `Elasticsearch`
 
 ### 📈 [Real-Estate-Prediction](https://github.com/PrescottClub/AI-Enhanced-Housing-Market-Agent-Based-Model)
-房地产市场智能预测系统，1000+智能体模拟复杂市场生态。
-`Python` `Deep Reinforcement Learning (DQN)` `Agent-Based Modeling` `Scikit-learn` `Mesa` `PyTorch`
+> Real estate market prediction with 1000+ agent simulation
+> 
+> `Python` `Deep RL (DQN)` `Agent-Based Modeling` `Mesa`
 
-### 🔬 [Transformer-Meta-Learning](https://github.com/PrescottClub/Research-on-Dynamic-Resource-Allocation-Based-on-Transformer-Enhanced-Meta-Learning) ⭐1
-基于Transformer增强的元学习动态资源分配研究，Few-Shot强化学习。
-`Python` `PyTorch` `Meta-Learning (MAML)` `Deep Reinforcement Learning (DQN)` `Transformer Architecture`
+</details>
 
 ---
 
@@ -249,23 +308,33 @@ graph TD
 
 <div align="center">
 
-### 💬 **What I'm Passionate About**
-
-🤖 **AI Agent Systems** | 🧠 **Meta-Learning** | 🔬 **Research Collaboration** | 🚀 **Innovation Projects**
-
-</div>
-
-<div align="center">
-
 ### 🎯 **Currently Open To**
 
-- 🔬 **Research Collaborations** in AI/ML and Meta-Learning
-- 🚀 **Innovative Project Partnerships**
-- 💼 **Consulting Opportunities** in AI Architecture
-- 🎤 **Speaking Engagements** on AI and Software Engineering
-- 📝 **Technical Writing** and Knowledge Sharing
+🔬 **Research Collaborations** in AI/ML | 🚀 **Innovative Project Partnerships** | 💼 **AI Architecture Consulting**
 
 </div>
+
+<details>
+<summary>💬 <b>More About My Interests</b></summary>
+
+<br>
+
+### 🤖 **What I'm Passionate About**
+
+- 🧠 **Meta-Learning & Few-Shot Learning** - Building AI that learns to learn
+- 🎯 **AI Alignment** - Environment Feedback DPO and RLHF research
+- 🤝 **Multi-Agent Systems** - Collaborative AI architectures
+- 🔬 **Research & Innovation** - Publishing and sharing cutting-edge findings
+- 🌍 **Open Source** - Contributing to the AI/ML community
+
+### 📚 **Currently Exploring**
+
+- 🎓 **Environment Feedback Learning** - Training AI agents without human labels
+- 🏗️ **MCP Protocol** - Model Context Protocol for agent communication
+- ⚡ **Consumer GPU Optimization** - Democratizing AI training (8GB VRAM)
+- 🔗 **Agent Orchestration** - Building scalable multi-agent workflows
+
+</details>
 
 ---
 
@@ -273,7 +342,7 @@ graph TD
 
 ### 🌟 **"Building AI systems with the rigorous attitude of an engineer"**
 
-*I'm very happy to discuss cutting-edge AI technologies, new project collaboration opportunities, or any innovative ideas. Looking forward to connecting with you!*
+*Happy to discuss cutting-edge AI technologies, new project collaborations, or any innovative ideas. Looking forward to connecting with you!*
 
 **Thank you for visiting my GitHub profile! Let's build something amazing together!** 🚀
 
