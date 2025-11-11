@@ -26,30 +26,30 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## %F0%9F%8E%A8 Colorful Expertise Badges
+## 🎨 Colorful Expertise Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_Agent-Multi--Agent_Systems-FF6B9D?style=for-the-badge&labelColor=1a1a1a&logo=robot" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_Meta--Learning-MAML_|_Few--Shot-9D50BB?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_AI_Alignment-RLHF_|_DPO-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Deep_Learning-PyTorch_|_TF-F7931E?style=for-the-badge&labelColor=1a1a1a&logo=pytorch" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%AC_LLMs-DeepSeek_|_Qwen2-0AC18E?style=for-the-badge&labelColor=1a1a1a&logo=openai" />
-  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_Backend-Spring_|_FastAPI-6DB33F?style=for-the-badge&labelColor=1a1a1a&logo=spring" />
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Distributed-Kafka_|_Redis-FF4438?style=for-the-badge&labelColor=1a1a1a&logo=apache-kafka" />
-  <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_Cloud-AWS_|_Docker_|_K8s-232F3E?style=for-the-badge&labelColor=1a1a1a&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB_Frontend-Vue3_|_React_|_TS-42B883?style=for-the-badge&labelColor=1a1a1a&logo=vue.js" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%8D_RAG-Vector_DB_|_ES-005571?style=for-the-badge&labelColor=1a1a1a&logo=elasticsearch" />
+  <img src="https://img.shields.io/badge/🤖_AI_Agent-Multi--Agent_Systems-FF6B9D?style=for-the-badge&labelColor=1a1a1a&logo=robot" />
+  <img src="https://img.shields.io/badge/🧠_Meta--Learning-MAML_|_Few--Shot-9D50BB?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🎯_AI_Alignment-RLHF_|_DPO-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🔥_Deep_Learning-PyTorch_|_TF-F7931E?style=for-the-badge&labelColor=1a1a1a&logo=pytorch" />
+  <img src="https://img.shields.io/badge/💬_LLMs-DeepSeek_|_Qwen2-0AC18E?style=for-the-badge&labelColor=1a1a1a&logo=openai" />
+  <img src="https://img.shields.io/badge/⚙️_Backend-Spring_|_FastAPI-6DB33F?style=for-the-badge&labelColor=1a1a1a&logo=spring" />
+  <img src="https://img.shields.io/badge/🌐_Distributed-Kafka_|_Redis-FF4438?style=for-the-badge&labelColor=1a1a1a&logo=apache-kafka" />
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_|_Docker_|_K8s-232F3E?style=for-the-badge&labelColor=1a1a1a&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/💻_Frontend-Vue3_|_React_|_TS-42B883?style=for-the-badge&labelColor=1a1a1a&logo=vue.js" />
+  <img src="https://img.shields.io/badge/🔍_RAG-Vector_DB_|_ES-005571?style=for-the-badge&labelColor=1a1a1a&logo=elasticsearch" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## %F0%9F%9A%80 Technology Arsenal
+## 🚀 Technology Arsenal
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### %F0%9F%A4%96 AI & Machine Learning
+### 🤖 AI & Machine Learning
 ```python
 tech_stack = {
     "frameworks": ["PyTorch", "TensorFlow", "Scikit-learn"],
@@ -62,7 +62,7 @@ tech_stack = {
 </td>
 <td width="50%" valign="top">
 
-### %F0%9F%8F%97%EF%B8%8F Backend & Infrastructure
+### 🏗️ Backend & Infrastructure
 ```javascript
 const expertise = {
     backend: ["Spring Boot/Cloud", "FastAPI", "AsyncIO"],
@@ -78,7 +78,7 @@ const expertise = {
 
 <div align="center">
 
-### %F0%9F%93%8A Skill Progress Visualization
+### 📊 Skill Progress Visualization
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,spring,fastapi,vue,react,typescript,postgres,redis,kafka,docker,kubernetes,aws,git&perline=8" />
 
@@ -87,25 +87,25 @@ const expertise = {
 <table>
 <tr><td>
 
-| %F0%9F%8E%AF Domain | Progress | Focus |
+| 🎯 Domain | Progress | Focus |
 |:---|:---:|:---|
-| %F0%9F%A4%96 **AI Agent Systems** | ![75%](https://progress-bar.dev/75?title=&width=200&color=FF6B9D) | Multi-Agent Collaboration |
-| %F0%9F%8F%97%EF%B8%8F **Backend Engineering** | ![78%](https://progress-bar.dev/78?title=&width=200&color=6DB33F) | Agent-Backend Integration |
-| %F0%9F%94%AC **AI Research** | ![70%](https://progress-bar.dev/70?title=&width=200&color=9D50BB) | Meta-Learning & DPO |
-| %F0%9F%8C%90 **Distributed Systems** | ![65%](https://progress-bar.dev/65?title=&width=200&color=FF4438) | Multi-Agent Communication |
-| %F0%9F%97%84%EF%B8%8F **Database & Storage** | ![62%](https://progress-bar.dev/62?title=&width=200&color=005571) | Agent Memory Systems |
-| %E2%98%81%EF%B8%8F **Cloud & DevOps** | ![58%](https://progress-bar.dev/58?title=&width=200&color=232F3E) | Deployment Pipeline |
+| 🤖 **AI Agent Systems** | ![75%](https://progress-bar.dev/75?title=&width=200&color=FF6B9D) | Multi-Agent Collaboration |
+| 🏗️ **Backend Engineering** | ![78%](https://progress-bar.dev/78?title=&width=200&color=6DB33F) | Agent-Backend Integration |
+| 🔬 **AI Research** | ![70%](https://progress-bar.dev/70?title=&width=200&color=9D50BB) | Meta-Learning & DPO |
+| 🌐 **Distributed Systems** | ![65%](https://progress-bar.dev/65?title=&width=200&color=FF4438) | Multi-Agent Communication |
+| 🗄️ **Database & Storage** | ![62%](https://progress-bar.dev/62?title=&width=200&color=005571) | Agent Memory Systems |
+| ☁️ **Cloud & DevOps** | ![58%](https://progress-bar.dev/58?title=&width=200&color=232F3E) | Deployment Pipeline |
 
 </td></tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## %F0%9F%93%8A GitHub Analytics Dashboard
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-### %F0%9F%90%8D Contribution Snake - Watch it Eat My Commits!
+### 🐍 Contribution Snake - Watch it Eat My Commits!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrescottClub/PrescottClub/output/github-contribution-grid-snake-dark.svg">
@@ -130,7 +130,7 @@ const expertise = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## %F0%9F%8C%9F Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -150,61 +150,61 @@ const expertise = {
 
 </div>
 
-### %F0%9F%8E%AF Project Highlights
+### 🎯 Project Highlights
 
 <table>
 <tr>
 <td width="50%">
 
-#### %F0%9F%A4%96 [AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent) %E2%AD%905
-> %F0%9F%8F%A5 13-Agent Health Management System with RAG
+#### 🤖 [AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent) ⭐5
+> 🏥 13-Agent Health Management System with RAG
 
 **Tech Stack:**
-- %F0%9F%90%8D Python  %F0%9F%8E%A8 Vue3  %E2%9A%A1 FastAPI
-- %F0%9F%A4%96 DeepSeek-R1  %F0%9F%94%8C MCP Protocol
-- %F0%9F%92%AC WebSocket  %F0%9F%93%9A RAG
+- 🐍 Python • 🎨 Vue3 • ⚡ FastAPI
+- 🤖 DeepSeek-R1 • 🔌 MCP Protocol
+- 💬 WebSocket • 📚 RAG
 
 </td>
 <td width="50%">
 
-#### %F0%9F%A7%A0 [Browser DPO Agent](https://github.com/PrescottClub/Browser-DPO-Agent) %E2%AD%902 %F0%9F%94%A5
-> %F0%9F%9A%80 Environment Feedback DPO Framework
+#### 🧠 [Browser DPO Agent](https://github.com/PrescottClub/Browser-DPO-Agent) ⭐2 🔥
+> 🚀 Environment Feedback DPO Framework
 
 **Tech Stack:**
-- %F0%9F%94%A5 PyTorch  %F0%9F%A4%96 Qwen2-7B
-- %F0%9F%8E%AF PEFT  %F0%9F%93%8A MLflow
-- %F0%9F%8C%90 MiniWoB++  %F0%9F%8E%AE HTML/JS
+- 🔥 PyTorch • 🤖 Qwen2-7B
+- 🎯 PEFT • 📊 MLflow
+- 🌐 MiniWoB++ • 🎮 HTML/JS
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### %F0%9F%9A%97 [AIoT Parking Forecaster](https://github.com/PrescottClub/AIoT-Parking-Forecaster) %E2%AD%901 %F0%9F%86%95
-> %F0%9F%85%BF%EF%B8%8F GAT + Transformer Parking Prediction
+#### 🚗 [AIoT Parking Forecaster](https://github.com/PrescottClub/AIoT-Parking-Forecaster) ⭐1 🆕
+> 🅿️ GAT + Transformer Parking Prediction
 
 **Tech Stack:**
-- %F0%9F%A7%A0 Graph Attention Network
-- %F0%9F%94%84 Transformer Architecture
-- %F0%9F%8F%99%EF%B8%8F Urban IoT  %F0%9F%93%88 Time Series
+- 🧠 Graph Attention Network
+- 🔄 Transformer Architecture
+- 🏙️ Urban IoT • 📈 Time Series
 
 </td>
 <td width="50%">
 
-#### %F0%9F%93%9A [AI Literature Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) %E2%AD%903
-> %F0%9F%93%96 Autonomous Research Agent
+#### 📚 [AI Literature Review](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) ⭐3
+> 📖 Autonomous Research Agent
 
 **Tech Stack:**
-- %F0%9F%A6%9C LangChain  %F0%9F%97%84%EF%B8%8F Vector DB
-- %F0%9F%8E%A8 Streamlit  %F0%9F%93%84 arXiv API
-- %F0%9F%94%8D Semantic Scholar
+- 🦜 LangChain • 🗄️ Vector DB
+- 🎨 Streamlit • 📄 arXiv API
+- 🔍 Semantic Scholar
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary>%F0%9F%93%A6 <b>More Amazing Projects</b> (Click to Expand %F0%9F%91%87)</summary>
+<summary>📦 <b>More Amazing Projects</b> (Click to Expand 👇)</summary>
 
 <br>
 
@@ -212,16 +212,16 @@ const expertise = {
 <tr>
 <td>
 
-#### %E2%9A%A1 [Tiny HPC RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-)
-> %F0%9F%8E%AF RLHF Training for 8GB Consumer GPUs
+#### ⚡ [Tiny HPC RLHF](https://github.com/PrescottClub/Tiny-HPC-RLHF-)
+> 🎯 RLHF Training for 8GB Consumer GPUs
 > 
 > `PyTorch` `Transformers` `TRL` `QLoRA` `MLflow`
 
 </td>
 <td>
 
-#### %F0%9F%8E%AF [OfferPilot](https://github.com/PrescottClub/OfferPilot) %F0%9F%86%95
-> %F0%9F%92%BC Intelligent Job Offer Analysis Agent
+#### 🎯 [OfferPilot](https://github.com/PrescottClub/OfferPilot) 🆕
+> 💼 Intelligent Job Offer Analysis Agent
 > 
 > `Python` `AI Agent` `Career Planning`
 
@@ -230,16 +230,16 @@ const expertise = {
 <tr>
 <td>
 
-#### %F0%9F%8F%A5 [Nursing Home Management](https://github.com/PrescottClub/Nursing-home-management-system)
-> %F0%9F%8F%A0 Comprehensive Healthcare Platform
+#### 🏥 [Nursing Home Management](https://github.com/PrescottClub/Nursing-home-management-system)
+> 🏠 Comprehensive Healthcare Platform
 > 
 > `Java` `Spring Boot` `Vue3` `MySQL` `Redis`
 
 </td>
 <td>
 
-#### %F0%9F%85%BF%EF%B8%8F [Smart Parking System](https://github.com/PrescottClub/Parking_System)
-> %F0%9F%9A%97 1000+ Spaces Real-time Monitoring
+#### 🅿️ [Smart Parking System](https://github.com/PrescottClub/Parking_System)
+> 🚗 1000+ Spaces Real-time Monitoring
 > 
 > `Java 8` `Spring Boot` `MyBatis Plus` `Vue.js`
 
@@ -248,16 +248,16 @@ const expertise = {
 <tr>
 <td>
 
-#### %F0%9F%9B%92 [Gulimall E-commerce](https://github.com/PrescottClub/Gulimall-E-commerce-Microservices-Platform)
-> %F0%9F%9B%8D%EF%B8%8F Distributed Microservices Platform
+#### 🛒 [Gulimall E-commerce](https://github.com/PrescottClub/Gulimall-E-commerce-Microservices-Platform)
+> 🛍️ Distributed Microservices Platform
 > 
 > `Spring Cloud Alibaba` `Seata` `Docker` `RabbitMQ`
 
 </td>
 <td>
 
-#### %F0%9F%93%88 [Real Estate Prediction](https://github.com/PrescottClub/AI-Enhanced-Housing-Market-Agent-Based-Model)
-> %F0%9F%8F%98%EF%B8%8F 1000+ Agent Market Simulation
+#### 📈 [Real Estate Prediction](https://github.com/PrescottClub/AI-Enhanced-Housing-Market-Agent-Based-Model)
+> 🏘️ 1000+ Agent Market Simulation
 > 
 > `Python` `Deep RL (DQN)` `Mesa` `ABM`
 
@@ -269,13 +269,13 @@ const expertise = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## %F0%9F%93%AB Let's Connect & Collaborate!
+## 📫 Let's Connect & Collaborate!
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing!;AI+%2B+Engineering+%3D+Innovation;Open+to+Collaboration;Research+%26+Development" alt="Connect" />
 
-### %F0%9F%8C%90 Find Me Online
+### 🌐 Find Me Online
 
 <p>
   <a href="mailto:jger8276@gmail.com">
@@ -289,31 +289,31 @@ const expertise = {
   </a>
 </p>
 
-### %F0%9F%8E%AF Currently Open To
+### 🎯 Currently Open To
 
-**%F0%9F%94%AC AI/ML Research Collaborations**  **%F0%9F%9A%80 Innovative Project Partnerships**  **%F0%9F%92%BC AI Architecture Consulting**
+**🔬 AI/ML Research Collaborations** • **🚀 Innovative Project Partnerships** • **💼 AI Architecture Consulting**
 
 </div>
 
 <details>
-<summary>%F0%9F%92%AC <b>More About My Interests</b> (Click to Expand %F0%9F%91%87)</summary>
+<summary>💬 <b>More About My Interests</b> (Click to Expand 👇)</summary>
 
 <br>
 
-### %F0%9F%A4%96 What Drives Me
+### 🤖 What Drives Me
 
-- %F0%9F%A7%A0 **Meta-Learning & Few-Shot Learning** - Building AI that learns to learn faster
-- %F0%9F%8E%AF **AI Alignment Research** - Environment Feedback DPO and RLHF innovation
-- %F0%9F%A4%9D **Multi-Agent Systems** - Collaborative AI architectures that scale
-- %F0%9F%94%AC **Research & Innovation** - Publishing and sharing cutting-edge findings
-- %F0%9F%8C%8D **Open Source Contribution** - Growing the AI/ML community together
+- 🧠 **Meta-Learning & Few-Shot Learning** - Building AI that learns to learn faster
+- 🎯 **AI Alignment Research** - Environment Feedback DPO and RLHF innovation
+- 🤝 **Multi-Agent Systems** - Collaborative AI architectures that scale
+- 🔬 **Research & Innovation** - Publishing and sharing cutting-edge findings
+- 🌍 **Open Source Contribution** - Growing the AI/ML community together
 
-### %F0%9F%93%9A Current Exploration
+### 📚 Current Exploration
 
-- %F0%9F%8E%93 **Environment Feedback Learning** - Training AI agents without human annotation
-- %F0%9F%8F%97%EF%B8%8F **MCP Protocol** - Model Context Protocol for next-gen agent communication
-- %E2%9A%A1 **Consumer GPU Optimization** - Democratizing AI training (8GB VRAM solutions)
-- %F0%9F%94%97 **Agent Orchestration** - Building scalable multi-agent workflows
+- 🎓 **Environment Feedback Learning** - Training AI agents without human annotation
+- 🏗️ **MCP Protocol** - Model Context Protocol for next-gen agent communication
+- ⚡ **Consumer GPU Optimization** - Democratizing AI training (8GB VRAM solutions)
+- 🔗 **Agent Orchestration** - Building scalable multi-agent workflows
 
 </details>
 
@@ -321,11 +321,11 @@ const expertise = {
 
 <br>
 
-### %F0%9F%8C%9F "Building AI systems with the rigorous attitude of an engineer"
+### 🌟 "Building AI systems with the rigorous attitude of an engineer"
 
 *Happy to discuss cutting-edge AI technologies, new project collaborations, or any innovative ideas. Let's connect!*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0AC18E&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Building+Intelligent+Systems;%F0%9F%A4%96+Environment+Feedback+DPO;%F0%9F%92%A1+Multi-Agent+Orchestration;%F0%9F%8C%9F+Code+with+Purpose" alt="Footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0AC18E&center=true&vCenter=true&width=600&lines=🚀+Building+Intelligent+Systems;🤖+Environment+Feedback+DPO;💡+Multi-Agent+Orchestration;🌟+Code+with+Purpose" alt="Footer" />
 
 <br>
 
