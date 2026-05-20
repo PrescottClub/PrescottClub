@@ -32,8 +32,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-专注于 **AI 应用层 (Application Layer)** 与 **Agent 工程化** 的全栈工程师。
-不写废话，只做交付。核心深耕：**上下文工程 (Context Engineering)**、**Agent 编排** 与 **评测驱动开发 (EDD)**。
+专注于 **AI 应用层** 与 **Agent 工程化** 的全栈工程师。
+核心深耕：**上下文工程 **、**Agent 编排** 与 **评测驱动开发**。
 
 <br/>
 
