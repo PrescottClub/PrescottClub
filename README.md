@@ -27,9 +27,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> 关于我
 
-我是 **Terence**，一名专注于 **AI 应用层 (Application Layer)** 与 **Agent 工程化** 的全栈工程师。
+我是 **Terence**，一名专注于 **AI 应用开发** 与 **Agent 工程化** 的全栈工程师。
 
-拥有九年工程经验（Java/Spring → Python/FastAPI → AI Native），过去两年将全部精力投入在 **Agent / RAG / LLM 的生产环境落地**。我不做底层模型训练，我解决的是模型到产品之间的最后一公里：**把大模型从“偶尔惊艳的玩具”变成“稳定交付的工业级产品”**。
+拥有多年工程经验（Java/Spring → Python/FastAPI → AI Native），过去两年将全部精力投入在 **Agent / RAG / LLM 的生产环境落地**。我不做底层模型训练，解决的是模型到产品之间的最后一公里：**把大模型从“偶尔惊艳的玩具”变成“稳定交付的工业级产品”**。
 
 - ⚔️ **核心优势**：懂后端的严谨（高并发/微服务），也懂 LLM 的脾气（非确定性/幻觉），能用工程手段驯服概率程序。
 - 🎯 **当前专注**：Agent Harness 编排设计、Agentic RAG 检索增强架构、基于 LLM-as-Judge 的评测驱动开发 (EDD)。
@@ -38,7 +38,7 @@
 
 ## ⚡ 能力模型与技术栈
 
-作为 AI 应用工程师，我的能力闭环涵盖了从底层编排到前端交付的全链路：
+作为 AI 应用开发工程师，我的能力闭环涵盖了从底层编排到前端交付的全链路：
 
 ### 🤖 Agent 编排 (Agent Harness)
 > **Stack**: `LangGraph` · `OpenAI Agents SDK` · `MCP (Model Context Protocol)`
