@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:F472B6&height=220&section=header&text=Terence%20·%20PrescottClub&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" />
 
 <a href="https://github.com/PrescottClub">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=7C3AED&background=00000000&center=true&vCenter=true&width=580&height=45&lines=AI+Application+Engineer;Agent+Builder+%7C+Context+Crafter;Eval-Driven+·+Shipping-First" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=7C3AED&background=00000000&center=true&vCenter=true&width=580&height=45&lines=AI+Application+Engineer;Agent+Builder+and+Context+Crafter;Eval-Driven+and+Shipping-First" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -129,7 +129,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=22D3EE&background=00000000&center=true&vCenter=true&width=580&height=36&lines=Build+·+Eval+·+Ship+·+Observe+·+Iterate" alt="Loop" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=22D3EE&background=00000000&center=true&vCenter=true&width=580&height=36&lines=Build+-+Eval+-+Ship+-+Observe+-+Iterate" alt="Loop" />
 
 <br/><br/>
 
