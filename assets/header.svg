@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="PrescottClub — AI Product Manager, Developer Background, AI Applications">
+<defs>
+<linearGradient id="edge"><stop stop-color="#56e6ed"/><stop offset=".5" stop-color="#ac8cff"/><stop offset="1" stop-color="#ff719b"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#583799" stop-opacity=".5"/><stop offset="1" stop-color="#121320" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b5baff" stroke-opacity=".065"/></pattern>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Menlo,Consolas,monospace}.orbit{transform-origin:975px 184px;animation:spin 28s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.4}}@media(prefers-reduced-motion:reduce){.orbit,.pulse{animation:none}}</style>
+</defs>
+<rect width="1200" height="390" rx="20" fill="#10121d"/>
+<rect width="1200" height="390" rx="20" fill="url(#grid)"/>
+<ellipse cx="940" cy="160" rx="360" ry="280" fill="url(#glow)"/>
+<path d="M24 1H1176" stroke="url(#edge)" stroke-width="2"/>
+<path d="M48 47H84M48 47V83M1152 343H1116M1152 343V307" stroke="#56e6ed" stroke-width="2" opacity=".75"/>
+<text x="70" y="86" class="mono" font-size="14" letter-spacing="3" fill="#56e6ed">PRODUCT THINKING / ENGINEERING PRACTICE</text>
+<text x="66" y="169" font-size="69" font-weight="800" letter-spacing="-3" fill="#f4f3ff">PrescottClub<tspan fill="#56e6ed">.</tspan></text>
+<text x="70" y="218" font-size="27" fill="#d4d0e8">AI Product Manager</text>
+<rect x="70" y="246" width="196" height="33" rx="6" fill="#56e6ed" fill-opacity=".09" stroke="#56e6ed" stroke-opacity=".35"/>
+<text x="88" y="268" class="mono" font-size="13" fill="#79edf1">DEVELOPER BACKGROUND</text>
+<rect x="280" y="246" width="172" height="33" rx="6" fill="#ff719b" fill-opacity=".08" stroke="#ff719b" stroke-opacity=".35"/>
+<text x="298" y="268" class="mono" font-size="13" fill="#ff97b6">AI APPLICATIONS</text>
+<text x="70" y="332" class="mono" font-size="15" fill="#9b9fb8">LLM APPS <tspan fill="#56e6ed">/</tspan> AGENTS <tspan fill="#ff719b">/</tspan> WORKFLOWS</text>
+<g fill="none" stroke-width="1.5">
+<circle cx="975" cy="184" r="131" stroke="#686084" stroke-opacity=".45"/>
+<circle cx="975" cy="184" r="101" stroke="#ac8cff" stroke-opacity=".35" stroke-dasharray="3 9"/>
+<ellipse cx="975" cy="184" rx="143" ry="54" transform="rotate(-38 975 184)" stroke="#56e6ed" stroke-opacity=".8"/>
+<ellipse cx="975" cy="184" rx="143" ry="54" transform="rotate(38 975 184)" stroke="#ff719b" stroke-opacity=".65"/>
+</g>
+<g class="orbit"><circle cx="975" cy="53" r="6" fill="#56e6ed"/><circle cx="975" cy="315" r="5" fill="#ff719b"/><circle cx="844" cy="184" r="4" fill="#c8f58c"/></g>
+<path d="M942 167L923 184L942 201M1008 167L1027 184L1008 201M987 156L963 212" fill="none" stroke="url(#edge)" stroke-width="5" stroke-linecap="round"/>
+<circle class="pulse" cx="975" cy="184" r="72" fill="none" stroke="#ac8cff" stroke-opacity=".3"/>
+<rect x="830" y="320" width="287" height="29" rx="5" fill="#1d2032" stroke="#383951"/>
+<text x="851" y="340" class="mono" font-size="12" fill="#c5c6da">CONTEXT → TOOLS → ACTION</text>
+</svg>
