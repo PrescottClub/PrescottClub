@@ -30,7 +30,7 @@
   <text x="68" y="228" font-size="58" font-weight="800" letter-spacing="-2" fill="url(#neon)">× AI APPLICATION ENGINEER</text>
   <text x="72" y="290" class="mono" font-size="21" fill="#c5cee9">user intent  <tspan fill="#67e8f9">→</tspan>  context  <tspan fill="#a78bfa">→</tspan>  tools  <tspan fill="#fb7185">→</tspan>  working app</text>
   <rect x="70" y="324" width="430" height="45" rx="7" fill="#1b2031" stroke="#4a536d"/>
-  <text x="89" y="353" class="mono" font-size="17" fill="#a3e635">$ build --from=idea --to=prototype</text>
+  <text x="89" y="353" class="mono" font-size="17" fill="#a3e635">$ agent run --from=intent --to=world</text>
   <rect class="cursor" x="481" y="338" width="3" height="18" fill="#a3e635"/>
   <g fill="none" stroke-width="1.6">
     <circle cx="988" cy="205" r="130" stroke="#a78bfa" stroke-opacity=".48"/>

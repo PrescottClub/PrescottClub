@@ -4,42 +4,42 @@
 
 <br />
 
-**AI 产品经理 & AI 应用工程师。** 开发出身，关注如何把用户任务拆成可执行的 AI 工作流，再做成能使用的应用。公开仓库记录了其中一部分实践。
+**AI 产品经理 & AI 应用工程师。** 开发出身，持续把 Agent 从对话框接进真实应用：理解任务、组织上下文、调用工具、处理反馈，最后交付到用户手里。
 
 <br />
 
 <div align="center">
-  <img src="./assets/skill-tree.svg" width="100%" alt="能力树：Agent 编排、检索增强、应用交付、实验验证" />
+  <img src="./assets/skill-tree.svg" width="100%" alt="能力树：Agent 运行时、环境交互、产品工程、公开代码" />
 </div>
 
-### `01 / ORCHESTRATE` · Agent 编排
+### `01 / RUNTIME` · 让 Agent 持续运行
 
-从用户意图出发，组织工具选择、多步执行与结果汇总；考虑并行或串行调用、超时和失败处理。[AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent) 包含意图分析、工具工作流和健康应用界面。
+近期实践 **壁炉小屋**：围绕感知、目标、决策、执行和反馈搭建角色 Agent；技术重点是上下文组织、工具调用、执行状态与失败恢复。代码尚未公开。
 
-### `02 / RETRIEVE` · 检索增强
+### `02 / INTERACT` · 让 AI 与环境交互
 
-把检索、文本处理、向量存储和内容生成接成完整任务。[Tsearch](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) 将 arXiv 论文检索、语义搜索与综述生成放在同一应用中。
+**壁炉小屋**涉及 Agent 与实时场景的双向通信，也延伸到 Web 与桌面交互。工程栈覆盖 **TypeScript、UE5 / C++、Tauri / Rust**；重点处理跨进程协议、状态同步和端侧体验。
 
-### `03 / SHIP` · 全栈实现
+### `03 / SHIP` · 从产品想法到可用应用
 
-能从 API 和数据模型做到前端交互。应用开发以 **Python / FastAPI + TypeScript / Vue** 为主，也有 **Java / Spring** 业务系统开发经验。代码见 [AuraWell](https://github.com/PrescottClub/AuraWell_Agent)、[停车管理系统](https://github.com/PrescottClub/Parking_System)。
+产品定义与代码实现一起推进：Agent 工作流、后端接口、前端交互和桌面客户端均有实践。近期应用以 **TypeScript / React、Python、Rust** 为主。
 
-### `04 / EXPERIMENT` · 智能体实验
+### `04 / OPEN CODE` · 可查看的代码样本
 
-[Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 尝试 SFT、偏好样本构造、DPO 训练和 MiniWoB++ 任务评估。属于技术探索，不代表线上业务效果。
+[AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent) 展示工具编排，[Tsearch](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) 展示检索与生成，[Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 展示训练实验。它们是公开切片，近期项目多数未公开。
 
 <br />
 
 ## 🧰 Toolbox
 
-**应用开发**　`Python` · `FastAPI` · `TypeScript` · `Vue` · `Java` · `Spring`<br />
-**AI 应用**　`LLM APIs` · `LangChain` · `MCP` · `ChromaDB` · `Sentence Transformers`<br />
-**训练实验**　`PyTorch` · `Transformers` · `TRL`
+**Agent 工程**　`LLM APIs` · `MCP` · `Tool Use` · `Context Engineering` · `State Machines`<br />
+**应用交付**　`TypeScript` · `React` · `Python` · `FastAPI` · `Tauri` · `Rust`<br />
+**交互场景**　`UE5` · `C++` · `WebSocket` · `Desktop Apps`
 
 <details>
 <summary><b>🧪 Next experiments / 正在关注</b></summary>
 <br />
-Context Engineering · Agent Skills · LangGraph · Agent Evals &amp; Observability
+Agent Evals · Observability · Multimodal Interfaces · Long-running Agents
 </details>
 
 <br />
