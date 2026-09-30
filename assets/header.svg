@@ -1,32 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="PrescottClub — AI Product Manager, Developer Background, AI Applications">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-label="PrescottClub, AI Product Manager and AI Application Engineer">
 <defs>
-<linearGradient id="edge"><stop stop-color="#56e6ed"/><stop offset=".5" stop-color="#ac8cff"/><stop offset="1" stop-color="#ff719b"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#583799" stop-opacity=".5"/><stop offset="1" stop-color="#121320" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b5baff" stroke-opacity=".065"/></pattern>
-<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Menlo,Consolas,monospace}.orbit{transform-origin:975px 184px;animation:spin 28s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.4}}@media(prefers-reduced-motion:reduce){.orbit,.pulse{animation:none}}</style>
+  <linearGradient id="neon" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#67e8f9"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#513c8b" stop-opacity=".65"/><stop offset="1" stop-color="#111421" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#a9b2da" stroke-opacity=".08"/></pattern>
+  <clipPath id="screen"><rect width="1200" height="410" rx="20"/></clipPath>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif}
+    .mono{font-family:Menlo,Consolas,monospace}
+    .orbit{transform-origin:987px 205px;animation:spin 26s linear infinite}
+    .spark{animation:blink 2.4s ease-in-out infinite}
+    .cursor{animation:blink 1s steps(2,end) infinite}
+    .scan{animation:scan 9s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes blink{50%{opacity:.2}}
+    @keyframes scan{to{transform:translateY(410px)}}
+    @media(prefers-reduced-motion:reduce){.orbit,.spark,.cursor,.scan{animation:none}}
+  </style>
 </defs>
-<rect width="1200" height="390" rx="20" fill="#10121d"/>
-<rect width="1200" height="390" rx="20" fill="url(#grid)"/>
-<ellipse cx="940" cy="160" rx="360" ry="280" fill="url(#glow)"/>
-<path d="M24 1H1176" stroke="url(#edge)" stroke-width="2"/>
-<path d="M48 47H84M48 47V83M1152 343H1116M1152 343V307" stroke="#56e6ed" stroke-width="2" opacity=".75"/>
-<text x="70" y="86" class="mono" font-size="14" letter-spacing="3" fill="#56e6ed">PRODUCT THINKING / ENGINEERING PRACTICE</text>
-<text x="66" y="169" font-size="69" font-weight="800" letter-spacing="-3" fill="#f4f3ff">PrescottClub<tspan fill="#56e6ed">.</tspan></text>
-<text x="70" y="218" font-size="27" fill="#d4d0e8">AI Product Manager</text>
-<rect x="70" y="246" width="196" height="33" rx="6" fill="#56e6ed" fill-opacity=".09" stroke="#56e6ed" stroke-opacity=".35"/>
-<text x="88" y="268" class="mono" font-size="13" fill="#79edf1">DEVELOPER BACKGROUND</text>
-<rect x="280" y="246" width="172" height="33" rx="6" fill="#ff719b" fill-opacity=".08" stroke="#ff719b" stroke-opacity=".35"/>
-<text x="298" y="268" class="mono" font-size="13" fill="#ff97b6">AI APPLICATIONS</text>
-<text x="70" y="332" class="mono" font-size="15" fill="#9b9fb8">LLM APPS <tspan fill="#56e6ed">/</tspan> AGENTS <tspan fill="#ff719b">/</tspan> WORKFLOWS</text>
-<g fill="none" stroke-width="1.5">
-<circle cx="975" cy="184" r="131" stroke="#686084" stroke-opacity=".45"/>
-<circle cx="975" cy="184" r="101" stroke="#ac8cff" stroke-opacity=".35" stroke-dasharray="3 9"/>
-<ellipse cx="975" cy="184" rx="143" ry="54" transform="rotate(-38 975 184)" stroke="#56e6ed" stroke-opacity=".8"/>
-<ellipse cx="975" cy="184" rx="143" ry="54" transform="rotate(38 975 184)" stroke="#ff719b" stroke-opacity=".65"/>
-</g>
-<g class="orbit"><circle cx="975" cy="53" r="6" fill="#56e6ed"/><circle cx="975" cy="315" r="5" fill="#ff719b"/><circle cx="844" cy="184" r="4" fill="#c8f58c"/></g>
-<path d="M942 167L923 184L942 201M1008 167L1027 184L1008 201M987 156L963 212" fill="none" stroke="url(#edge)" stroke-width="5" stroke-linecap="round"/>
-<circle class="pulse" cx="975" cy="184" r="72" fill="none" stroke="#ac8cff" stroke-opacity=".3"/>
-<rect x="830" y="320" width="287" height="29" rx="5" fill="#1d2032" stroke="#383951"/>
-<text x="851" y="340" class="mono" font-size="12" fill="#c5c6da">CONTEXT → TOOLS → ACTION</text>
-</svg>
+<g clip-path="url(#screen)">
+  <rect width="1200" height="410" fill="#10131f"/>
+  <rect width="1200" height="410" fill="url(#grid)"/>
+  <ellipse cx="980" cy="190" rx="330" ry="300" fill="url(#halo)"/>
+  <rect class="scan" width="1200" height="2" fill="#67e8f9" opacity=".12"/>
+  <path d="M0 2H1200" stroke="url(#neon)" stroke-width="4"/>
+  <path d="M42 47H84M42 47V89M1158 363H1116M1158 363V321" fill="none" stroke="#67e8f9" stroke-opacity=".7" stroke-width="2"/>
+  <circle cx="75" cy="75" r="5" fill="#fb7185"/><circle cx="92" cy="75" r="5" fill="#fcd34d"/><circle cx="109" cy="75" r="5" fill="#a3e635"/>
+  <text x="135" y="81" class="mono" font-size="16" fill="#9ea7c5" letter-spacing="2">PRESCOTTCLUB / BUILD MODE: ON</text>
+  <text x="68" y="157" font-size="58" font-weight="800" letter-spacing="-2" fill="#f5f5ff">AI PRODUCT MANAGER</text>
+  <text x="68" y="228" font-size="58" font-weight="800" letter-spacing="-2" fill="url(#neon)">× AI APPLICATION ENGINEER</text>
+  <text x="72" y="290" class="mono" font-size="21" fill="#c5cee9">user intent  <tspan fill="#67e8f9">→</tspan>  context  <tspan fill="#a78bfa">→</tspan>  tools  <tspan fill="#fb7185">→</tspan>  working app</text>
+  <rect x="70" y="324" width="430" height="45" rx="7" fill="#1b2031" stroke="#4a536d"/>
+  <text x="89" y="353" class="mono" font-size="17" fill="#a3e635">$ build --from=idea --to=prototype</text>
+  <rect class="cursor" x="481" y="338" width="3" height="18" fill="#a3e635"/>
+  <g fill="none" stroke-width="1.6">
+    <circle cx="988" cy="205" r="130" stroke="#a78bfa" stroke-opacity=".48"/>
+    <circle cx="988" cy="205" r="101" stroke="#67e8f9" stroke-opacity=".4" stroke-dasharray="4 8"/>
+    <ellipse cx="988" cy="205" rx="146" ry="52" transform="rotate(-37 988 205)" stroke="#67e8f9" stroke-opacity=".8"/>
+    <ellipse cx="988" cy="205" rx="146" ry="52" transform="rotate(37 988 205)" stroke="#fb7185" stroke-opacity=".7"/>
+  </g>
+  <g class="orbit"><circle cx="988" cy="75" r="6" fill="#67e8f9"/><circle cx="988" cy="335" r="5" fill="#fb7185"/><circle cx="858" cy="205" r="4" fill="#a3e635"/></g>
+  <path d="M952 185L933 205L952 225M1022 185L1041 205L1022 225M1000 174L976 236" fill="none" stroke="url(#neon)" stroke-width="5" stroke-linecap="round"/>
+  <circle class="spark" cx="774" cy="96" r="3" fill="#a3e635"/><circle class="spark" cx="811" cy="291" r="3" fill="#67e8f9"/>
+</g></svg>

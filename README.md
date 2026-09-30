@@ -1,38 +1,49 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="PrescottClub · AI Product Manager · Developer Background · AI Applications" />
+  <img src="./assets/header.svg" width="100%" alt="PrescottClub — AI 产品经理 & AI 应用工程师" />
 </div>
 
 <br />
 
-开发出身的 **AI 产品经理**，专注 LLM 应用、AI Agent 与智能工作流，具备产品设计与全栈开发经验。
+**AI 产品经理 & AI 应用工程师。** 开发出身，关注如何把用户任务拆成可执行的 AI 工作流，再做成能使用的应用。公开仓库记录了其中一部分实践。
 
 <br />
 
-## ⚡ 技术实践
+<div align="center">
+  <img src="./assets/skill-tree.svg" width="100%" alt="能力树：Agent 编排、检索增强、应用交付、实验验证" />
+</div>
 
-| 方向 | 技术栈 |
-| :--- | :--- |
-| **LLM 应用** | `LLM Integration` · `Prompt Engineering` · `RAG` |
-| **Agent 与工具** | `Tool Calling` · `MCP` · `Workflow Orchestration` |
-| **全栈开发** | `Python` / `FastAPI` · `TypeScript` / `Vue` · `Java` / `Spring` |
+### `01 / ORCHESTRATE` · Agent 编排
 
-<br />
+从用户意图出发，组织工具选择、多步执行与结果汇总；考虑并行或串行调用、超时和失败处理。[AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent) 包含意图分析、工具工作流和健康应用界面。
 
-## 🧬 持续探索
+### `02 / RETRIEVE` · 检索增强
 
-<p>
-  <img src="./assets/context.svg" alt="Context Engineering" height="34" />
-  <img src="./assets/skills.svg" alt="Agent Skills" height="34" />
-  <img src="./assets/harness.svg" alt="Agent Harness" height="34" />
-</p>
-<p>
-  <img src="./assets/multi-agent.svg" alt="Multi-Agent Workflows" height="34" />
-  <img src="./assets/rag.svg" alt="Agentic RAG" height="34" />
-  <img src="./assets/evals.svg" alt="Evals &amp; Observability" height="34" />
-</p>
+把检索、文本处理、向量存储和内容生成接成完整任务。[Tsearch](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) 将 arXiv 论文检索、语义搜索与综述生成放在同一应用中。
 
-关注 **LangGraph**、**Vercel AI SDK** 等应用层工具与框架。
+### `03 / SHIP` · 全栈实现
+
+能从 API 和数据模型做到前端交互。应用开发以 **Python / FastAPI + TypeScript / Vue** 为主，也有 **Java / Spring** 业务系统开发经验。代码见 [AuraWell](https://github.com/PrescottClub/AuraWell_Agent)、[停车管理系统](https://github.com/PrescottClub/Parking_System)。
+
+### `04 / EXPERIMENT` · 智能体实验
+
+[Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 尝试 SFT、偏好样本构造、DPO 训练和 MiniWoB++ 任务评估。属于技术探索，不代表线上业务效果。
 
 <br />
 
-<img src="./assets/footer.svg" width="100%" alt="Build · Experiment · Iterate" />
+## 🧰 Toolbox
+
+**应用开发**　`Python` · `FastAPI` · `TypeScript` · `Vue` · `Java` · `Spring`<br />
+**AI 应用**　`LLM APIs` · `LangChain` · `MCP` · `ChromaDB` · `Sentence Transformers`<br />
+**训练实验**　`PyTorch` · `Transformers` · `TRL`
+
+<details>
+<summary><b>🧪 Next experiments / 正在关注</b></summary>
+<br />
+Context Engineering · Agent Skills · LangGraph · Agent Evals &amp; Observability
+</details>
+
+<br />
+
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Think in products. Build with code." />
+</div>
