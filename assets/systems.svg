@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="283" viewBox="0 0 1200 283" role="img" aria-label="Two focus areas: AI products from zero to one, and advertising decision agents">
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Menlo,Consolas,monospace}</style>
+<rect width="1200" height="283" rx="12" fill="#f3f0e8"/>
+<path d="M24 30H1176M24 248H1176M600 48V235" stroke="#bbb6a9"/>
+<text x="30" y="22" class="mono" font-size="13" letter-spacing="2" fill="#66665e">01 / WHAT GETS BUILT</text>
+<text x="30" y="70" class="mono" font-size="18" fill="#d45d38">A / PRODUCT</text>
+<text x="28" y="126" font-size="47" font-weight="900" letter-spacing="-2" fill="#191a18">AI 产品 0→1</text>
+<text x="30" y="164" font-size="19" fill="#4c4b45">场景 → 交互 → 原型 → 评测 → 迭代</text>
+<path d="M30 210H559" stroke="#191a18" stroke-width="3"/>
+<g fill="#d45d38"><circle cx="70" cy="210" r="7"/><circle cx="181" cy="210" r="7"/><circle cx="292" cy="210" r="7"/><circle cx="403" cy="210" r="7"/><circle cx="539" cy="210" r="7"/></g>
+<text x="630" y="70" class="mono" font-size="18" fill="#d45d38">B / AGENT SYSTEMS</text>
+<text x="628" y="126" font-size="47" font-weight="900" letter-spacing="-2" fill="#191a18">投放决策 Agent</text>
+<text x="630" y="164" font-size="19" fill="#4c4b45">策略 → 出价 → 反馈 → 约束 → 行动</text>
+<path d="M630 210H1160" stroke="#191a18" stroke-width="3"/>
+<g fill="#d45d38"><circle cx="670" cy="210" r="7"/><circle cx="781" cy="210" r="7"/><circle cx="892" cy="210" r="7"/><circle cx="1003" cy="210" r="7"/><circle cx="1140" cy="210" r="7"/></g>
+<text x="30" y="270" class="mono" font-size="14" fill="#66665e">BUILT WITH TYPESCRIPT / REACT / PYTHON / FASTAPI / LANGGRAPH / TAURI / RUST / FLUTTER / UE5</text>
+</svg>
