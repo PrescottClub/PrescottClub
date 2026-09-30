@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="232" viewBox="0 0 1200 232" role="img" aria-label="AI application skill tree: Agent Runtime, World Interaction, Product Engineering, Open Code">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="232" viewBox="0 0 1200 232" role="img" aria-label="AI application skill tree: Agent Systems, AI Products, Simulation, Open Code">
 <defs><linearGradient id="n"><stop stop-color="#67e8f9"/><stop offset=".45" stop-color="#a78bfa"/><stop offset="1" stop-color="#fb7185"/></linearGradient><style>text{font-family:Menlo,Consolas,monospace}.travel{stroke-dasharray:5 8;animation:run 3s linear infinite}@keyframes run{to{stroke-dashoffset:-52}}@media(prefers-reduced-motion:reduce){.travel{animation:none}}</style></defs>
 <rect width="1200" height="232" rx="16" fill="#111421"/>
-<text x="38" y="42" fill="#9da7c5" font-size="18" letter-spacing="3">BUILD TREE  /  AGENTS INTO APPLICATIONS</text>
+<text x="38" y="42" fill="#9da7c5" font-size="18" letter-spacing="3">BUILD TREE  /  FROM AGENTS TO PRODUCTS</text>
 <path d="M84 117H1116" stroke="#41475f" stroke-width="3"/><path class="travel" d="M84 117H1116" stroke="url(#n)" stroke-width="3"/>
 <g text-anchor="middle">
-<circle cx="142" cy="117" r="34" fill="#10272d" stroke="#67e8f9" stroke-width="3"/><text x="142" y="126" fill="#67e8f9" font-size="27">01</text><text x="142" y="191" fill="#d9f8fb" font-size="18">AGENT RUNTIME</text>
-<circle cx="447" cy="117" r="34" fill="#211c31" stroke="#a78bfa" stroke-width="3"/><text x="447" y="126" fill="#cabafa" font-size="27">02</text><text x="447" y="191" fill="#e4dcfb" font-size="18">WORLD INTERACTION</text>
-<circle cx="752" cy="117" r="34" fill="#2b2330" stroke="#fb7185" stroke-width="3"/><text x="752" y="126" fill="#ff9aab" font-size="27">03</text><text x="752" y="191" fill="#ffe0e4" font-size="18">PRODUCT ENGINEERING</text>
+<circle cx="142" cy="117" r="34" fill="#10272d" stroke="#67e8f9" stroke-width="3"/><text x="142" y="126" fill="#67e8f9" font-size="27">01</text><text x="142" y="191" fill="#d9f8fb" font-size="18">AGENT SYSTEMS</text>
+<circle cx="447" cy="117" r="34" fill="#211c31" stroke="#a78bfa" stroke-width="3"/><text x="447" y="126" fill="#cabafa" font-size="27">02</text><text x="447" y="191" fill="#e4dcfb" font-size="18">AI PRODUCTS</text>
+<circle cx="752" cy="117" r="34" fill="#2b2330" stroke="#fb7185" stroke-width="3"/><text x="752" y="126" fill="#ff9aab" font-size="27">03</text><text x="752" y="191" fill="#ffe0e4" font-size="18">SIMULATION</text>
 <circle cx="1057" cy="117" r="34" fill="#28301d" stroke="#a3e635" stroke-width="3"/><text x="1057" y="126" fill="#c8f58c" font-size="27">04</text><text x="1057" y="191" fill="#e3f7c1" font-size="18">OPEN CODE</text>
 </g></svg>

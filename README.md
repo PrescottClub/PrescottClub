@@ -4,37 +4,37 @@
 
 <br />
 
-**AI 产品经理 & AI 应用工程师。** 开发出身，持续把 Agent 从对话框接进真实应用：理解任务、组织上下文、调用工具、处理反馈，最后交付到用户手里。
+**AI 产品经理 & AI 应用工程师。** 开发出身，关注 Agent 运行、可控决策与多端交付：让模型理解任务，也让系统接得住它的下一步动作。
 
 <br />
 
 <div align="center">
-  <img src="./assets/skill-tree.svg" width="100%" alt="能力树：Agent 运行时、环境交互、产品工程、公开代码" />
+  <img src="./assets/skill-tree.svg" width="100%" alt="能力树：Agent 系统、AI 产品、决策模拟、公开代码" />
 </div>
 
-### `01 / RUNTIME` · 让 Agent 持续运行
+### `01 / AGENT SYSTEMS` · 从对话到行动
 
-近期实践 **壁炉小屋**：围绕感知、目标、决策、执行和反馈搭建角色 Agent；技术重点是上下文组织、工具调用、执行状态与失败恢复。代码尚未公开。
+参与 **壁炉小屋** 与 **DesktopPet**：角色 Agent 的感知、目标、执行与反馈链路，以及实时场景和桌面端的交互。技术涉及 **TypeScript、UE5 / C++、Tauri / Rust**、跨进程通信与执行状态管理。
 
-### `02 / INTERACT` · 让 AI 与环境交互
+### `02 / AI PRODUCTS` · 从模型能力到应用闭环
 
-**壁炉小屋**涉及 Agent 与实时场景的双向通信，也延伸到 Web 与桌面交互。工程栈覆盖 **TypeScript、UE5 / C++、Tauri / Rust**；重点处理跨进程协议、状态同步和端侧体验。
+参与 **LulliaCare App + Backend**：**Flutter** 移动端与 **FastAPI / LangGraph** 服务端协同，涉及多轮记忆、安全分级和 AI 评测。**RobotaxiDemo** 则探索结构化 LLM 输出与电量、行程等确定性约束结合的座舱产品原型。
 
-### `03 / SHIP` · 从产品想法到可用应用
+### `03 / SIMULATION` · 把决策逻辑做成体验
 
-产品定义与代码实现一起推进：Agent 工作流、后端接口、前端交互和桌面客户端均有实践。近期应用以 **TypeScript / React、Python、Rust** 为主。
+参与 **SuperAdPlayer**：用 **React / TypeScript** 构建广告投放对战沙盒，接入 LLM 对手、规则降级，并实验并行 Agent 决策。另参与 [叙事模拟项目](https://github.com/wizardG7777777/illegal_migration_simulator) 的 **Godot** 状态与事件系统设计。
 
-### `04 / OPEN CODE` · 可查看的代码样本
+### `04 / OPEN CODE` · 公开代码切片
 
-[AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent) 展示工具编排，[Tsearch](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) 展示检索与生成，[Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 展示训练实验。它们是公开切片，近期项目多数未公开。
+[AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent) 有工具编排，[Tsearch](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) 有检索与生成，[Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent) 有训练实验。近期参与的项目多数为私有仓库，上述项目名称仅展示可公开的技术方向。
 
 <br />
 
 ## 🧰 Toolbox
 
-**Agent 工程**　`LLM APIs` · `MCP` · `Tool Use` · `Context Engineering` · `State Machines`<br />
-**应用交付**　`TypeScript` · `React` · `Python` · `FastAPI` · `Tauri` · `Rust`<br />
-**交互场景**　`UE5` · `C++` · `WebSocket` · `Desktop Apps`
+**Agent & AI**　`LLM APIs` · `Tool Use` · `LangGraph` · `MCP` · `Evals`<br />
+**应用开发**　`TypeScript` · `React / Next.js` · `Python / FastAPI` · `Flutter`<br />
+**交互与端侧**　`Tauri / Rust` · `UE5 / C++` · `Godot` · `WebSocket`
 
 <details>
 <summary><b>🧪 Next experiments / 正在关注</b></summary>
