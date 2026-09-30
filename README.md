@@ -4,47 +4,52 @@
 
 <br />
 
-**从代码走到产品，也能从产品走回代码。** 聚焦 AI 产品 0→1、投放决策 Agent 与复杂交互应用；擅长把模糊需求拆成可验证的工作流，再把模型、规则、状态和界面接成真正能跑的系统。
+**AI 产品经理 & AI 应用工程师。** 开发出身，贯通产品定义、体验设计、AI 系统架构与全栈实现。擅长 AI 产品 0→1，将用户需求、业务机制与模型能力组织成完整产品，覆盖智能助手、AI 陪伴与社区、交互式 Agent 和策略模拟。
+
+**想清楚为什么做，设计好怎么用，把它真正做出来。**
 
 <div align="center">
-  <img src="./assets/systems.svg" width="100%" alt="AI 产品 0→1 与投放决策 Agent" />
+  <img src="./assets/systems.svg" width="100%" alt="产品策略与体验设计 × AI 系统与应用工程" />
 </div>
 
-### 01 / 产品定义 × 工程落地
+### 01 / Product craft · 产品策略与体验设计
 
-从用户场景、任务流与交互原型出发，明确模型该做什么、系统必须保证什么，以及如何用评测和反馈推动迭代。**LulliaCare** 将移动端体验、AI 对话、记忆、安全分级与评测连成产品链路；**RobotaxiDemo** 把自然语言需求转成结构化行程，并与电量、时间等确定性约束共同决策。
+从用户问题与业务目标出发，完成场景选择、价值主张、交互机制和 MVP 取舍。把 AI 的主动性、用户控制权、信息可信度和异常体验一起纳入设计；兼顾增长、分发与商业化，让功能之间形成持续使用的理由。
 
-`Product 0→1` · `AI UX` · `Workflow Design` · `Prototyping` · `Evals`
+`Product 0→1` · `AI UX` · `Interaction Design` · `Growth & Monetization`
 
-### 02 / 投放 Agent × 可控决策
+### 02 / AI systems · AI 应用与 Agent 架构
 
-理解广告投放里的**出价、创意、竞争策略与 ROAS**，也能把它们做成可交互、可解释的决策系统。**SuperAdPlayer** 用投放对战沙盒验证策略：LLM 对手负责动态决策，规则降级保证对局可继续，多 Agent 编排探索更复杂的协作方式。关注的不只是 Agent 会不会给答案，而是它如何在约束、反馈与收益目标下行动。
+围绕任务设计上下文、记忆、检索、工具调用与执行反馈，构建有状态的 Agent 工作流。结合模型推理与确定性规则，处理多 Agent 协作、结构化输出、失败恢复和行为评测，让 AI 能够理解需求、调用能力并完成任务。
 
-`Ad Decisioning` · `Agent Orchestration` · `LLM + Rules` · `Simulation` · `Fallback Design`
+`Context Engineering` · `RAG` · `Tool Use` · `Agent Orchestration` · `Evals`
 
-### 03 / Agent 进入真实世界
+### 03 / Engineering · 全栈与跨端工程
 
-**壁炉小屋 / HearthRoom** 将角色目标、感知、上下文、动作执行与结果反馈接入实时场景；**DesktopPet** 把 Agent 带到桌面端，处理常驻进程、健康检查与交互状态。这里的技术难点不在多聊几轮，而在**跨端通信、长时间运行、状态管理与失败恢复**。
+具备 Web、移动端、桌面端与实时 3D 场景的应用开发实践，贯通前端交互、服务端 API、数据持久化与 Agent 运行时。能从可交互原型深入到状态机、流式通信、进程管理和自动化测试，把产品设计落实到系统行为与交付质量。
 
-`TypeScript` · `UE5 / C++` · `Tauri / Rust` · `Tool Use` · `State Machines`
+`TypeScript / React / Next.js` · `Python / FastAPI` · `Flutter` · `Tauri / Rust` · `UE5`
 
 ---
 
-### Selected work
+### Selected work · 能力的不同落点
 
-| 项目 | 能力切面 | 技术 |
+| 项目 | 产品设计 | 技术实践 |
 |:---|:---|:---|
-| **SuperAdPlayer** | 投放策略沙盒、LLM 对手、决策回退 | React · TypeScript · LLM |
-| **HearthRoom + DesktopPet** | 具身角色 Agent、实时交互、桌面端运行 | TypeScript · UE5 · Tauri · Rust |
-| **LulliaCare App + Backend** | AI 产品闭环、记忆与安全链路 | Flutter · FastAPI · LangGraph |
-| **RobotaxiDemo** | 结构化模型输出与确定性约束 | Next.js · TypeScript · SSE |
-| [**Narrative Simulation**](https://github.com/wizardG7777777/illegal_migration_simulator) | 叙事系统、状态与事件设计 | Godot |
+| **壁炉小屋 / HearthRoom + DesktopPet** | AI 角色、关系延续与跨端陪伴体验 | Agent 感知与执行、实时场景交互、桌面运行时 |
+| **LulliaCare** | AI 陪伴与匿名社区，从个人表达延伸到人与人的连接 | Flutter + FastAPI、LangGraph、分层记忆与评测 |
+| **RobotaxiDemo** | 座舱场景下的人机协作、约束规划与跨屏接续原型 | Next.js、结构化 LLM 输出、状态机与流式交互 |
+| **SuperAdPlayer** | 将投放领域知识转化为策略博弈、养成与反馈机制 | React、策略模拟、LLM 对手与多 Agent 编排实验 |
+| [**Narrative Simulation**](https://github.com/wizardG7777777/illegal_migration_simulator) | 叙事、经济与事件系统的联动设计 | Godot 项目与系统设计文档 |
 
 <details>
-<summary><b>更多公开代码 / Earlier experiments ↗</b></summary>
+<summary><b>Open lab / 检索、工具编排与模型实验 ↗</b></summary>
 <br />
 
-[AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent) · [Tsearch](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) · [Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent)
+[Tsearch](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization)：文献检索、向量索引与综述生成。<br />
+[AuraWell Agent](https://github.com/PrescottClub/AuraWell_Agent)：工具编排与个性化工作流。<br />
+[Browser-DPO-Agent](https://github.com/PrescottClub/Browser-DPO-Agent)：浏览器 Agent 与偏好优化实验。<br />
+[AIoT Parking Forecaster](https://github.com/PrescottClub/AIoT-Parking-Forecaster)：图注意力与时序预测实验。
 
 </details>
 
