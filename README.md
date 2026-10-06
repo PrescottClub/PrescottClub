@@ -1,20 +1,13 @@
-<img src="./assets/header-e8cafe7a79.svg" width="100%" alt="PrescottClub. AI 产品经理 & AI 应用开发工程师。原创动漫工作室与动态 Agent 回路。" />
+<img src="./assets/profile-46b8ef55c7.svg" width="100%" alt="Terence · AI 产品经理 & AI 应用开发工程师。连续动漫长卷：产品定义、Agent 系统、跨端开发；HearthRoom / DesktopPet、LulliaCare、RobotaxiDemo、SuperAdPlayer；技术栈与动态执行回路。" />
 
-<p align="center">
-  <a href="#the-mind"><b>THE MIND</b></a>　↘　
-  <a href="#the-worlds"><b>THE WORLDS</b></a>　↘　
-  <a href="#under-the-hood"><b>UNDER THE HOOD</b></a>
-</p>
-
-折腾 AI 在聊天框之外的用法：桌面角色、3D 场景、社区和策略游戏。从角色记忆、工具调用到实时交互，产品机制和运行逻辑一起设计。
-
-<a id="the-mind"></a>
-
-<img src="./assets/capabilities-e008b0766a.svg" width="100%" alt="产品判断：场景、体验、增长、分发与商业化。AI 架构：上下文工程、RAG、记忆、工具编排和评测。工程交付：Web、移动、桌面、实时场景、状态机与流式通信。" />
-
+<a id="notes"></a>
 <details>
-<summary><b>↳ 展开能力说明 / What makes it work</b></summary>
+<summary><b>↳ 打开工作笔记 / 产品、技术与公开代码</b></summary>
 <br />
+
+**Terence · AI 产品经理 & AI 应用开发工程师**
+
+### 产品与工程
 
 **产品设计。** 判断场景值不值得做、MVP 应该砍到哪里；把交互、关系、增长和商业化写成具体机制，明确哪些动作交给 AI，哪些决策留给用户。
 
@@ -22,16 +15,7 @@
 
 **应用开发。** React / Next.js 做界面，FastAPI 接服务，Flutter 做移动端，Tauri / Rust 接桌面，UE5 承载实时场景。状态机、SSE / WebSocket、跨进程通信和自动化测试，把交互细节落实到运行行为。
 
-</details>
-
-<br />
-<a id="the-worlds"></a>
-
-<img src="./assets/worlds-c62771ae8a.svg" width="100%" alt="项目作品：HearthRoom 与 DesktopPet 的跨端角色 Agent；LulliaCare 的 AI 陪伴与社区；RobotaxiDemo 的座舱人机协作原型；SuperAdPlayer 的游戏化策略沙盒。" />
-
-<details>
-<summary><b>↳ 打开项目笔记 / The interesting bits</b></summary>
-<br />
+### 项目笔记
 
 | 项目 | 产品设计 | 技术实践 |
 |:---|:---|:---|
@@ -41,20 +25,13 @@
 | **SuperAdPlayer** | 将投放知识转化为策略博弈、养成与反馈 | React / TypeScript；LLM 对手、规则降级与多 Agent 编排实验 |
 | [**Narrative Simulation**](https://github.com/wizardG7777777/illegal_migration_simulator) | 叙事、经济与事件系统的联动设计 | Godot 项目与系统设计文档 |
 
-</details>
-
-<br />
-<a id="under-the-hood"></a>
-
-### Under the hood / 手上这套家伙
+### 技术栈
 
 **AI & Agents**　`Context Engineering` · `RAG` · `Tool Use` · `LangGraph` · `Evals`<br />
 **Web & Backend**　`TypeScript` · `React / Next.js` · `Python / FastAPI` · `SQL / Redis`<br />
 **Beyond the browser**　`Flutter` · `Tauri / Rust` · `UE5 / C++` · `WebSocket / SSE`
 
-<details>
-<summary><b>↳ Open lab / 公开代码里的实验切片</b></summary>
-<br />
+### 公开代码
 
 [**Tsearch**](https://github.com/PrescottClub/AI-Agent-for-Automated-Literature-Review-Summarization) · 文献检索、向量索引与综述生成。<br />
 [**AuraWell Agent**](https://github.com/PrescottClub/AuraWell_Agent) · 工具编排与个性化工作流。<br />
@@ -62,6 +39,3 @@
 [**AIoT Parking Forecaster**](https://github.com/PrescottClub/AIoT-Parking-Forecaster) · 图注意力与时序预测实验。
 
 </details>
-
-<br />
-<img src="./assets/footer-71b202f255.svg" width="100%" alt="PrescottClub / End of file. Design → Build → Feedback → Repeat." />
