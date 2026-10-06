@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="PrescottClub / Product meets code. AI 产品经理 & AI 应用开发工程师。想法可以野，系统得稳。" />
+<img src="./assets/header.svg" width="100%" alt="PrescottClub / Product meets code. AI 产品经理 & AI 应用开发工程师。Agents / Interaction / Realtime Systems." />
 
 <p align="center">
   <a href="#the-mind"><b>THE MIND</b></a>　↘　
@@ -6,7 +6,7 @@
   <a href="#under-the-hood"><b>UNDER THE HOOD</b></a>
 </p>
 
-**AI 产品经理 & AI 应用开发工程师。** 写需求，也写代码。做 AI 产品 0→1，也拆 Agent 的上下文、记忆、工具调用和执行链路。Web、移动端、桌面端、3D 场景，都有项目。
+折腾 AI 在聊天框之外的用法：桌面角色、3D 场景、社区和策略游戏。从角色记忆、工具调用到实时交互，产品机制和运行逻辑一起设计。
 
 <a id="the-mind"></a>
 
