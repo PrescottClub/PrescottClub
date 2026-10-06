@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="725" viewBox="0 0 1200 725" role="img" aria-label="Selected worlds: HearthRoom 与 DesktopPet 的跨端角色，LulliaCare 的陪伴与社区，RobotaxiDemo 的座舱原型，SuperAdPlayer 的策略模拟。">
+    <defs><pattern id="paper" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#c9c8bd"/></pattern>
+    <style>text{font-family:Arial,Helvetica,"PingFang SC",sans-serif}.mono{font-family:Menlo,Consolas,monospace}
+    .float{animation:float 5s ease-in-out infinite}.eyes{animation:eyes 6s ease-in-out infinite}.signal{stroke-dasharray:5 13;animation:signal 3s linear infinite}.blink{animation:blink 3.4s ease-in-out infinite}
+    @keyframes float{50%{transform:translateY(-8px)}}@keyframes eyes{35%,65%{transform:translateX(7px)}}@keyframes signal{to{stroke-dashoffset:-36}}@keyframes blink{50%{opacity:.25}}
+    @media(prefers-reduced-motion:reduce){.float,.eyes,.signal,.blink{animation:none}}
+    </style></defs>
+<rect width="1200" height="725" rx="12" fill="#f7f5eb"/>
+<text x="28" y="43" font-size="29" font-weight="900" fill="#20211f">SAME BUILDER. DIFFERENT WORLDS.</text>
+<text x="30" y="75" font-size="19" fill="#5a5b53">把同一套产品判断与工程能力，放进不同世界。</text>
+<g transform="translate(28 109)">
+<rect x="5" y="6" width="688" height="277" rx="9" fill="#20211f"/>
+<rect width="688" height="277" rx="9" fill="#ddf76a" stroke="#20211f" stroke-width="2"/>
+<text x="23" y="38" class="mono" font-size="16" fill="#20211f">01 / CHARACTERS THAT CROSS SCREENS</text>
+<text x="23" y="87" font-size="38" font-weight="900" letter-spacing="-1" fill="#20211f">HearthRoom × DesktopPet</text>
+<text x="24" y="126" font-size="22" fill="#20211f">让 AI 角色有目标、有行动，也有持续的关系。</text>
+<text x="24" y="168" font-size="18" fill="#20211f">Agent 感知与执行 / 跨端陪伴 / 实时场景交互</text>
+<path d="M24 202H654" stroke="#20211f" stroke-width="1.5"/>
+<text x="24" y="246" class="mono" font-size="18" font-weight="700" fill="#20211f">TYPESCRIPT · UE5 · TAURI · RUST</text>
+<g transform="translate(546 221)"><rect width="37" height="26" rx="3" fill="none" stroke="#20211f" stroke-width="2"/><path d="M18 26v6M9 32h18M44 14h23" stroke="#20211f" stroke-width="2"/><rect x="72" y="-3" width="17" height="32" rx="3" fill="none" stroke="#20211f" stroke-width="2"/></g>
+</g>
+<g transform="translate(750 109)">
+<rect x="5" y="6" width="421" height="277" rx="9" fill="#20211f"/>
+<rect width="421" height="277" rx="9" fill="#f5aacb" stroke="#20211f" stroke-width="2"/>
+<text x="23" y="38" class="mono" font-size="16" fill="#20211f">02 / COMPANY → COMMUNITY</text>
+<text x="23" y="87" font-size="38" font-weight="900" letter-spacing="-1" fill="#20211f">LulliaCare</text>
+<text x="24" y="126" font-size="22" fill="#20211f">从被 AI 理解，到与人产生连接。</text>
+<text x="24" y="168" font-size="18" fill="#20211f">AI 陪伴 / 匿名社区 / 记忆与评测</text>
+<path d="M24 202H393" stroke="#20211f" stroke-width="1.5"/>
+<text x="24" y="246" class="mono" font-size="17" font-weight="700" fill="#20211f">FLUTTER · FASTAPI · LANGGRAPH</text>
+</g>
+<g transform="translate(28 421)">
+<rect x="5" y="6" width="421" height="277" rx="9" fill="#20211f"/>
+<rect width="421" height="277" rx="9" fill="#3157ee" stroke="#20211f" stroke-width="2"/>
+<text x="23" y="38" class="mono" font-size="16" fill="#f7f5eb">03 / INTENT → ITINERARY</text>
+<text x="23" y="87" font-size="38" font-weight="900" letter-spacing="-1" fill="#f7f5eb">RobotaxiDemo</text>
+<text x="24" y="126" font-size="22" fill="#f7f5eb">给 AI 想象力，也给它现实约束。</text>
+<text x="24" y="168" font-size="18" fill="#f7f5eb">座舱原型 / 人机协作 / 行程规划</text>
+<path d="M24 202H393" stroke="#f7f5eb" stroke-width="1.5"/>
+<text x="24" y="246" class="mono" font-size="17" font-weight="700" fill="#f7f5eb">NEXT.JS · STRUCTURED LLM · SSE</text>
+</g>
+<g transform="translate(484 421)">
+<rect x="5" y="6" width="688" height="277" rx="9" fill="#20211f"/>
+<rect width="688" height="277" rx="9" fill="#f7f5eb" stroke="#20211f" stroke-width="2"/>
+<text x="23" y="38" class="mono" font-size="16" fill="#20211f">04 / STRATEGY HAS A PLAY BUTTON</text>
+<text x="23" y="87" font-size="38" font-weight="900" letter-spacing="-1" fill="#20211f">SuperAdPlayer</text>
+<text x="24" y="126" font-size="22" fill="#20211f">把投放知识写成规则，再让策略在里面交锋。</text>
+<text x="24" y="168" font-size="18" fill="#20211f">策略博弈 / 游戏化机制 / LLM 对手与 Agent 编排实验</text>
+<path d="M24 202H654" stroke="#20211f" stroke-width="1.5"/>
+<text x="24" y="246" class="mono" font-size="18" font-weight="700" fill="#20211f">REACT · TYPESCRIPT · SIMULATION</text>
+<g transform="translate(553 219)" fill="#3157ee"><rect width="15" height="29"/><rect x="23" y="-17" width="15" height="46"/><rect x="46" y="-7" width="15" height="36"/><rect x="69" y="-28" width="15" height="57"/></g>
+</g>
+</svg>
