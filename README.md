@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="PrescottClub / Product meets code. AI 产品经理 & AI 应用工程师。产品脑，工程手。认真造点有意思的东西。" />
+<img src="./assets/header.svg" width="100%" alt="PrescottClub / Product meets code. AI 产品经理 & AI 应用开发工程师。想法可以野，系统得稳。" />
 
 <p align="center">
   <a href="#the-mind"><b>THE MIND</b></a>　↘　
@@ -6,7 +6,7 @@
   <a href="#under-the-hood"><b>UNDER THE HOOD</b></a>
 </p>
 
-**开发出身的 AI 产品经理 & AI 应用工程师。** 从产品定义、体验设计到 Agent 架构与全栈实现，把用户需求、模型能力与业务机制做成可以使用的产品。偏爱有性格的 AI、有参与感的交互，以及经得起真实使用的系统。
+**AI 产品经理 & AI 应用开发工程师。** 写需求，也写代码。做 AI 产品 0→1，也拆 Agent 的上下文、记忆、工具调用和执行链路。Web、移动端、桌面端、3D 场景，都有项目。
 
 <a id="the-mind"></a>
 
@@ -16,11 +16,11 @@
 <summary><b>↳ 展开能力说明 / What makes it work</b></summary>
 <br />
 
-**产品判断。** 从用户问题与业务目标出发，做场景选择、价值主张和 MVP 取舍；设计 AI 主动性、用户控制权、关系延续与反馈机制，兼顾增长、分发和商业化。
+**产品设计。** 判断场景值不值得做、MVP 应该砍到哪里；把交互、关系、增长和商业化写成具体机制，明确哪些动作交给 AI，哪些决策留给用户。
 
-**AI 系统。** 将上下文、记忆、检索、工具调用与执行反馈组织成有状态的工作流。用确定性规则约束模型行为，用降级与恢复保证体验，用评测推动迭代。
+**Agent 架构。** 上下文怎么装、记忆怎么存、工具怎么调、动作失败怎么重来，都落实到代码。LangGraph 编排、RAG 检索、结构化输出与规则校验，配上超时降级和行为评测。
 
-**工程实现。** 贯通前端交互、服务端 API、数据持久化与 Agent 运行时；跨越 Web、移动端、桌面端与实时 3D 场景，处理状态管理、流式通信和跨进程协作。
+**应用开发。** React / Next.js 做界面，FastAPI 接服务，Flutter 做移动端，Tauri / Rust 接桌面，UE5 承载实时场景。状态机、SSE / WebSocket、跨进程通信和自动化测试，把交互细节落实到运行行为。
 
 </details>
 

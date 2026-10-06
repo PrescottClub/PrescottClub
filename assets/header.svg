@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="PrescottClub. Product meets code. AI 产品经理与 AI 应用工程师。产品脑，工程手，认真造点有意思的东西。">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="PrescottClub. Product meets code. AI 产品经理与 AI 应用开发工程师。想法可以野，系统得稳。">
     <defs><pattern id="paper" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#c9c8bd"/></pattern>
     <style>text{font-family:Arial,Helvetica,"PingFang SC",sans-serif}.mono{font-family:Menlo,Consolas,monospace}
     .float{animation:float 5s ease-in-out infinite}.eyes{animation:eyes 6s ease-in-out infinite}.signal{stroke-dasharray:5 13;animation:signal 3s linear infinite}.blink{animation:blink 3.4s ease-in-out infinite}
@@ -13,8 +13,8 @@
 <text x="32" y="302" font-size="116" font-weight="900" letter-spacing="-7" fill="#20211f">MEETS</text>
 <text x="27" y="405" font-size="116" font-weight="900" letter-spacing="-7" fill="#3157ee">CODE.</text>
 <path d="M33 432q254 -27 531 0" fill="none" stroke="#20211f" stroke-width="3" stroke-linecap="round"/>
-<text x="36" y="479" font-size="25" font-weight="800" fill="#20211f">AI 产品经理 &amp; AI 应用工程师</text>
-<text x="36" y="520" font-size="22" fill="#20211f">产品脑，工程手。认真造点有意思的东西。</text>
+<text x="36" y="479" font-size="25" font-weight="800" fill="#20211f">AI 产品经理 &amp; AI 应用开发工程师</text>
+<text x="36" y="520" font-size="22" fill="#20211f">想法可以野，系统得稳。</text>
 <g transform="translate(708 126) rotate(5 210 178)">
 <rect x="10" y="12" width="414" height="344" rx="12" fill="#20211f"/>
 <rect width="414" height="344" rx="12" fill="#f7f5eb" stroke="#20211f" stroke-width="3"/>
