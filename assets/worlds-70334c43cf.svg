@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="752" viewBox="0 0 1200 752" role="img" aria-label="四个项目的动态场景：跨端角色、社区连接、座舱路线、策略模拟。">
+<defs>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#25282c" stroke-width=".7"/></pattern>
+<style>
+text{font-family:Arial,Helvetica,"PingFang SC",sans-serif} .mono{font-family:Menlo,Consolas,monospace}
+.orbit{transform-box:fill-box;transform-origin:center;animation:spin 16s linear infinite}
+.orbit-back{transform-box:fill-box;transform-origin:center;animation:spin 22s linear infinite reverse}
+.bob{animation:bob 4s ease-in-out infinite} .flow{stroke-dasharray:12 22;animation:flow 2s linear infinite}
+.pulse{animation:pulse 3s ease-in-out infinite} .cursor{animation:cursor 1.2s steps(1) infinite}
+.marquee{animation:marquee 18s linear infinite} .travel{animation:travel 5s ease-in-out infinite}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 3s ease-out infinite}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:bar 3.6s ease-in-out infinite}
+.sweep{animation:sweep 7s linear infinite} .walk{animation:walk 5s ease-in-out infinite}
+.reply{animation:reply 5s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}} @keyframes bob{50%{transform:translateY(-18px)}}
+@keyframes flow{to{stroke-dashoffset:-68}} @keyframes pulse{50%{opacity:.32}}
+@keyframes cursor{50%{opacity:0}} @keyframes marquee{to{transform:translateX(-1140px)}}
+@keyframes travel{0%,100%{transform:translateX(0)}50%{transform:translateX(442px)}}
+@keyframes ping{0%{transform:scale(.6);opacity:.8}100%{transform:scale(1.5);opacity:0}}
+@keyframes bar{50%{transform:scaleY(.3)}} @keyframes sweep{from{transform:translateY(-200px)}to{transform:translateY(430px)}}
+@keyframes walk{0%,100%{transform:translateX(0)}50%{transform:translateX(74px)}}
+@keyframes reply{0%,100%{opacity:.25;transform:translateY(6px)}50%{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.orbit,.orbit-back,.bob,.flow,.pulse,.cursor,.marquee,.travel,.ping,.bar,.sweep,.walk,.reply{animation:none}}
+</style>
+</defs>
+<rect width="1200" height="752" rx="12" fill="#101216"/>
+<text x="28" y="44" font-size="33" font-weight="800" fill="#f3f3ea">WORLDS IN PROGRESS</text>
+<text x="29" y="76" class="mono" font-size="16" fill="#929797">CHARACTERS / COMMUNITY / COCKPIT / STRATEGY</text><g transform="translate(28 100)">
+<rect width="558" height="295" rx="7" fill="#191c20" stroke="#393e42"/>
+<path d="M0 1H558" stroke="#cbff57" stroke-width="3"/>
+<text x="20" y="32" class="mono" font-size="15" fill="#cbff57">01 / CHARACTER / RUNTIME</text>
+<text x="20" y="85" font-size="33" font-weight="800" letter-spacing="-1" fill="#f3f3ea">HearthRoom × DesktopPet</text>
+<text x="21" y="131" font-size="23" fill="#cbff57">跨端角色 · 记忆与行为</text>
+<text x="21" y="174" font-size="17" fill="#929797">感知 → 目标 → 行动 → 反馈</text>
+<text x="21" y="211" class="mono" font-size="15" fill="#929797">↳ explore project notes below</text>
+<g transform="translate(334 113)">
+<path d="M0 94V14L80 -16L167 19V99L87 131Z" fill="none" stroke="#3c5540"/>
+<path d="M0 94L80 61L167 99M80 -16V61" fill="none" stroke="#3c5540"/>
+<g class="walk"><g transform="translate(13 39)"><rect width="46" height="50" rx="13" fill="#cbff57"/>
+<rect x="8" y="11" width="30" height="15" rx="5" fill="#101216"/><circle cx="17" cy="18" r="3" fill="#f3f3ea"/><circle cx="30" cy="18" r="3" fill="#f3f3ea"/>
+<path d="M12 50v9M34 50v9M15 36q8 7 16 0" fill="none" stroke="#cbff57" stroke-width="4"/>
+</g></g><circle cx="139" cy="40" r="5" fill="#cbff57" class="pulse"/>
+</g>
+<path d="M20 248H538" stroke="#393e42"/>
+<text x="21" y="277" class="mono" font-size="16" fill="#f3f3ea">TYPESCRIPT / UE5 / TAURI / RUST</text></g><g transform="translate(614 100)">
+<rect width="558" height="295" rx="7" fill="#191c20" stroke="#393e42"/>
+<path d="M0 1H558" stroke="#b9acff" stroke-width="3"/>
+<text x="20" y="32" class="mono" font-size="15" fill="#b9acff">02 / COMPANION / COMMUNITY</text>
+<text x="20" y="85" font-size="41" font-weight="800" letter-spacing="-1" fill="#f3f3ea">LulliaCare</text>
+<text x="21" y="131" font-size="23" fill="#b9acff">AI 陪伴 · 社区连接</text>
+<text x="21" y="174" font-size="17" fill="#929797">分层记忆 / 安全路由 / 评测</text>
+<text x="21" y="211" class="mono" font-size="15" fill="#929797">↳ explore project notes below</text>
+<g transform="translate(345 135)">
+<path class="flow" d="M10 28H143M78 28V91" stroke="#b9acff" stroke-width="2" fill="none"/>
+<circle cx="10" cy="28" r="17" fill="#292334" stroke="#b9acff"/><circle cx="143" cy="28" r="17" fill="#292334" stroke="#b9acff"/>
+<circle cx="78" cy="91" r="17" fill="#b9acff"/><circle cx="78" cy="91" r="23" fill="none" stroke="#b9acff" class="ping"/>
+<g class="reply"><rect x="37" y="-16" width="80" height="29" rx="9" fill="#b9acff"/><circle cx="58" cy="-2" r="3" fill="#101216"/><circle cx="77" cy="-2" r="3" fill="#101216"/><circle cx="96" cy="-2" r="3" fill="#101216"/></g>
+</g>
+<path d="M20 248H538" stroke="#393e42"/>
+<text x="21" y="277" class="mono" font-size="16" fill="#f3f3ea">FLUTTER / FASTAPI / LANGGRAPH</text></g><g transform="translate(28 419)">
+<rect width="558" height="295" rx="7" fill="#191c20" stroke="#393e42"/>
+<path d="M0 1H558" stroke="#ff795b" stroke-width="3"/>
+<text x="20" y="32" class="mono" font-size="15" fill="#ff795b">03 / COCKPIT / INTERACTION</text>
+<text x="20" y="85" font-size="41" font-weight="800" letter-spacing="-1" fill="#f3f3ea">RobotaxiDemo</text>
+<text x="21" y="131" font-size="23" fill="#ff795b">座舱交互 · 行程协作</text>
+<text x="21" y="174" font-size="17" fill="#929797">结构化输出 / 状态机 / 流式响应</text>
+<text x="21" y="211" class="mono" font-size="15" fill="#929797">↳ explore project notes below</text>
+<g transform="translate(345 131)">
+<path d="M0 0H165M0 48H165M0 96H165M15 -18V121M82 -18V121M149 -18V121" stroke="#333a3e"/>
+<path class="flow" d="M15 97V0H149V96H82V49H15" fill="none" stroke="#ff795b" stroke-width="3"/>
+<g class="bob"><rect x="123" y="29" width="43" height="24" rx="8" fill="#ff795b"/><path d="M132 51v4M156 51v4" stroke="#ff795b" stroke-width="4"/></g>
+<circle cx="15" cy="97" r="6" fill="#f3f3ea"/><circle cx="82" cy="49" r="6" fill="#ff795b" class="pulse"/>
+</g>
+<path d="M20 248H538" stroke="#393e42"/>
+<text x="21" y="277" class="mono" font-size="16" fill="#f3f3ea">NEXT.JS / STRUCTURED LLM / SSE</text></g><g transform="translate(614 419)">
+<rect width="558" height="295" rx="7" fill="#191c20" stroke="#393e42"/>
+<path d="M0 1H558" stroke="#cbff57" stroke-width="3"/>
+<text x="20" y="32" class="mono" font-size="15" fill="#cbff57">04 / STRATEGY / SIMULATION</text>
+<text x="20" y="85" font-size="41" font-weight="800" letter-spacing="-1" fill="#f3f3ea">SuperAdPlayer</text>
+<text x="21" y="131" font-size="23" fill="#cbff57">投放策略 · 游戏机制</text>
+<text x="21" y="174" font-size="17" fill="#929797">LLM 对手 / 规则约束 / 编排实验</text>
+<text x="21" y="211" class="mono" font-size="15" fill="#929797">↳ explore project notes below</text>
+<g transform="translate(351 135)"><rect x="0" y="57" width="18" height="35" fill="#cbff57" class="bar" style="animation-delay:-0.0s"/><rect x="30" y="16" width="18" height="76" fill="#cbff57" class="bar" style="animation-delay:-0.6s"/><rect x="60" y="38" width="18" height="54" fill="#cbff57" class="bar" style="animation-delay:-1.2s"/><rect x="90" y="-1" width="18" height="93" fill="#cbff57" class="bar" style="animation-delay:-1.7999999999999998s"/><rect x="120" y="31" width="18" height="61" fill="#cbff57" class="bar" style="animation-delay:-2.4s"/><path d="M-5 99H151" stroke="#596056"/>
+<path class="flow" d="M0 0L33 12L65 -14L95 8L137 -24" stroke="#ff795b" stroke-width="2" fill="none"/>
+</g>
+<path d="M20 248H538" stroke="#393e42"/>
+<text x="21" y="277" class="mono" font-size="16" fill="#f3f3ea">REACT / TYPESCRIPT / SIMULATION</text></g></svg>

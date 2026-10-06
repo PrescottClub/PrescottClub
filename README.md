@@ -1,4 +1,4 @@
-<img src="./assets/header-ac66bbeedc.svg" width="100%" alt="PrescottClub / Product meets code. AI 产品经理 & AI 应用开发工程师。Agents / Interaction / Realtime Systems." />
+<img src="./assets/header-7cbc4bef28.svg" width="100%" alt="PrescottClub. AI 产品经理 & AI 应用开发工程师。动态 Agent 回路：上下文、记忆、工具与行动。" />
 
 <p align="center">
   <a href="#the-mind"><b>THE MIND</b></a>　↘　
@@ -10,7 +10,7 @@
 
 <a id="the-mind"></a>
 
-<img src="./assets/capabilities.svg" width="100%" alt="产品判断：场景、体验、增长、分发与商业化。AI 架构：上下文工程、RAG、记忆、工具编排和评测。工程交付：Web、移动、桌面、实时场景、状态机与流式通信。" />
+<img src="./assets/capabilities-a3747bbeb3.svg" width="100%" alt="产品判断：场景、体验、增长、分发与商业化。AI 架构：上下文工程、RAG、记忆、工具编排和评测。工程交付：Web、移动、桌面、实时场景、状态机与流式通信。" />
 
 <details>
 <summary><b>↳ 展开能力说明 / What makes it work</b></summary>
@@ -27,7 +27,7 @@
 <br />
 <a id="the-worlds"></a>
 
-<img src="./assets/worlds.svg" width="100%" alt="项目作品：HearthRoom 与 DesktopPet 的跨端角色 Agent；LulliaCare 的 AI 陪伴与社区；RobotaxiDemo 的座舱人机协作原型；SuperAdPlayer 的游戏化策略沙盒。" />
+<img src="./assets/worlds-70334c43cf.svg" width="100%" alt="项目作品：HearthRoom 与 DesktopPet 的跨端角色 Agent；LulliaCare 的 AI 陪伴与社区；RobotaxiDemo 的座舱人机协作原型；SuperAdPlayer 的游戏化策略沙盒。" />
 
 <details>
 <summary><b>↳ 打开项目笔记 / The interesting bits</b></summary>
@@ -64,4 +64,4 @@
 </details>
 
 <br />
-<img src="./assets/footer.svg" width="100%" alt="有用，有趣，有代码。Less ceremony. More making." />
+<img src="./assets/footer-46d4edd8e5.svg" width="100%" alt="PrescottClub / End of file. Design → Build → Feedback → Repeat." />
