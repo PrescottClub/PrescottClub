@@ -1,4 +1,4 @@
-<img src="./assets/header.svg?v=20261006b" width="100%" alt="PrescottClub / Product meets code. AI 产品经理 & AI 应用开发工程师。Agents / Interaction / Realtime Systems." />
+<img src="./assets/header-ac66bbeedc.svg" width="100%" alt="PrescottClub / Product meets code. AI 产品经理 & AI 应用开发工程师。Agents / Interaction / Realtime Systems." />
 
 <p align="center">
   <a href="#the-mind"><b>THE MIND</b></a>　↘　
